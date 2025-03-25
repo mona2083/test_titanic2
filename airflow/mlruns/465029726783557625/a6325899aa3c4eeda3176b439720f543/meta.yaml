@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/a6325899aa3c4eeda3176b439720f543/artifacts
+deleted_time: 1742870272316
+end_time: 1742868933474
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: a6325899aa3c4eeda3176b439720f543
+run_name: aged-loon-426
+run_uuid: a6325899aa3c4eeda3176b439720f543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933469
+status: 3
+tags: []
+user_id: manamioyama

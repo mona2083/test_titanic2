@@ -1,0 +1,770 @@
+[2025-03-24T15:50:52.766-1000] {processor.py:186} INFO - Started process (PID=18648) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:50:52.766-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:50:52.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:52.766-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:50:52.777-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:50:52.803-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:52.803-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:50:52.809-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:52.809-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:50:52.815-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-03-24T15:52:29.232-1000] {processor.py:186} INFO - Started process (PID=19856) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:52:29.233-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:52:29.234-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:29.234-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:52:29.244-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:52:29.269-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:29.269-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:29.273-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:29.273-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:52:29.279-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-03-24T15:53:32.856-1000] {processor.py:186} INFO - Started process (PID=20127) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:53:32.856-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:53:32.857-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:32.857-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:53:32.867-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:53:32.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:32.892-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:32.897-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:32.897-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:53:32.902-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-03-24T15:54:30.447-1000] {processor.py:186} INFO - Started process (PID=20349) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:54:30.447-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:54:30.448-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:30.448-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:54:30.457-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:54:30.482-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:30.482-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:30.487-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:30.487-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:54:30.492-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T15:55:24.050-1000] {processor.py:186} INFO - Started process (PID=20556) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:55:24.050-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:55:24.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:24.050-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:55:24.060-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:55:24.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:24.084-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:24.089-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:24.089-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:55:24.094-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T15:56:19.165-1000] {processor.py:186} INFO - Started process (PID=20775) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:56:19.166-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:56:19.166-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:19.166-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:56:19.176-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:56:19.200-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:19.200-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:56:19.205-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:19.205-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:56:19.210-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T15:57:12.990-1000] {processor.py:186} INFO - Started process (PID=20978) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:57:12.990-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:57:12.991-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:12.991-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:57:13.000-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:57:13.024-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:13.024-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:13.029-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:13.029-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:57:13.034-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T15:58:05.124-1000] {processor.py:186} INFO - Started process (PID=21184) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:05.125-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:58:05.125-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:05.125-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:05.134-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:05.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:05.158-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:05.163-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:05.163-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:58:05.168-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T15:58:59.427-1000] {processor.py:186} INFO - Started process (PID=21394) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:59.427-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:58:59.428-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:59.427-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:59.437-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:58:59.461-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:59.461-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:59.466-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:59.466-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:58:59.471-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T15:59:53.180-1000] {processor.py:186} INFO - Started process (PID=21613) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:59:53.181-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T15:59:53.181-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:53.181-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:59:53.191-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T15:59:53.216-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:53.216-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:53.220-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:53.220-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T15:59:53.225-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2025-03-24T16:01:11.238-1000] {processor.py:186} INFO - Started process (PID=21892) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:01:11.238-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:01:11.239-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:11.239-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:01:11.248-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:01:11.272-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:11.272-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:11.277-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:11.277-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:01:11.282-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:02:07.514-1000] {processor.py:186} INFO - Started process (PID=22105) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:02:07.515-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:02:07.515-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:07.515-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:02:07.524-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:02:07.548-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:07.548-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:07.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:07.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:02:07.558-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:03:01.563-1000] {processor.py:186} INFO - Started process (PID=22314) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:01.564-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:03:01.564-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:01.564-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:01.573-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:01.597-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:01.597-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:01.602-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:01.602-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:03:01.607-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:03:56.690-1000] {processor.py:186} INFO - Started process (PID=22521) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:56.690-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:03:56.690-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:56.690-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:56.699-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:03:56.723-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:56.723-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:56.728-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:56.728-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:03:56.733-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:04:50.002-1000] {processor.py:186} INFO - Started process (PID=22725) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:04:50.002-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:04:50.002-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:50.002-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:04:50.012-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:04:50.036-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:50.036-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:50.040-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:50.040-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:04:50.045-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:05:41.247-1000] {processor.py:186} INFO - Started process (PID=22922) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:05:41.248-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:05:41.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:41.248-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:05:41.257-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:05:41.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:41.281-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:41.286-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:41.286-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:05:41.291-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:06:33.931-1000] {processor.py:186} INFO - Started process (PID=23122) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:06:33.932-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:06:33.932-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:33.932-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:06:33.941-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:06:33.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:33.965-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:33.970-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:33.970-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:06:33.975-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:07:30.960-1000] {processor.py:186} INFO - Started process (PID=23372) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:07:30.961-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:07:30.961-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:30.961-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:07:30.970-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:07:30.994-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:30.994-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:30.998-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:30.998-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:07:31.003-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:08:25.855-1000] {processor.py:186} INFO - Started process (PID=23575) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:08:25.855-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:08:25.855-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:25.855-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:08:25.864-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:08:25.888-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:25.888-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:25.893-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:25.893-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:08:25.898-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:09:22.586-1000] {processor.py:186} INFO - Started process (PID=23790) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:09:22.586-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:09:22.586-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:22.586-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:09:22.595-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:09:22.619-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:22.619-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:22.624-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:22.624-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:09:22.629-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:10:20.410-1000] {processor.py:186} INFO - Started process (PID=24013) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:10:20.410-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:10:20.410-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:20.410-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:10:20.420-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:10:20.444-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:20.444-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:20.448-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:20.448-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:10:20.453-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T16:11:24.727-1000] {processor.py:186} INFO - Started process (PID=24285) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:11:24.728-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:11:24.728-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:24.728-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:11:24.737-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:11:24.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:24.762-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:24.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:24.766-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:11:24.771-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T16:12:21.902-1000] {processor.py:186} INFO - Started process (PID=24499) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:12:21.903-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:12:21.903-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:21.903-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:12:21.912-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:12:21.936-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:21.936-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:21.941-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:21.941-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:12:21.945-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:13:22.353-1000] {processor.py:186} INFO - Started process (PID=24792) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:13:22.354-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:13:22.354-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:22.354-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:13:22.364-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:13:22.388-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:22.388-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:22.393-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:22.393-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:13:22.397-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:14:22.465-1000] {processor.py:186} INFO - Started process (PID=25023) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:14:22.465-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:14:22.465-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:22.465-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:14:22.475-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:14:22.499-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:22.498-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:22.503-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:22.503-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:14:22.508-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:15:18.231-1000] {processor.py:186} INFO - Started process (PID=25231) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:15:18.231-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:15:18.232-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:18.232-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:15:18.241-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:15:18.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:18.265-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:18.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:18.270-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:15:18.274-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:16:15.145-1000] {processor.py:186} INFO - Started process (PID=25473) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:16:15.146-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:16:15.146-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:15.146-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:16:15.155-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:16:15.179-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:15.179-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:15.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:15.184-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:16:15.189-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:17:10.354-1000] {processor.py:186} INFO - Started process (PID=25681) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:17:10.354-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:17:10.355-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:10.355-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:17:10.364-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:17:10.388-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:10.388-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:10.392-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:10.392-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:17:10.397-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:18:05.800-1000] {processor.py:186} INFO - Started process (PID=25891) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:18:05.800-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:18:05.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:05.800-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:18:05.809-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:18:05.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:05.833-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:05.838-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:05.838-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:18:05.843-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:19:00.444-1000] {processor.py:186} INFO - Started process (PID=26123) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:00.444-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:19:00.444-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:00.444-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:00.454-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:00.478-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:00.478-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:00.482-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:00.482-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:19:00.487-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:19:57.885-1000] {processor.py:186} INFO - Started process (PID=26343) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:57.886-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:19:57.886-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:57.886-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:57.895-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:19:57.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:57.919-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:57.924-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:57.924-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:19:57.929-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:20:52.813-1000] {processor.py:186} INFO - Started process (PID=26551) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:20:52.814-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:20:52.814-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:52.814-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:20:52.823-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:20:52.847-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:52.847-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:52.852-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:52.852-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:20:52.856-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:21:48.734-1000] {processor.py:186} INFO - Started process (PID=26759) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:21:48.735-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:21:48.735-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:48.735-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:21:48.744-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:21:48.768-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:48.768-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:48.773-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:48.773-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:21:48.778-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:22:42.986-1000] {processor.py:186} INFO - Started process (PID=26975) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:22:42.986-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:22:42.986-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:42.986-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:22:42.995-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:22:43.019-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:43.019-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:43.024-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:43.024-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:22:43.029-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:23:38.887-1000] {processor.py:186} INFO - Started process (PID=27193) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:23:38.887-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:23:38.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:38.887-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:23:38.897-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:23:38.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:38.921-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:38.926-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:38.925-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:23:38.930-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:24:37.084-1000] {processor.py:186} INFO - Started process (PID=27417) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:24:37.085-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:24:37.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:37.085-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:24:37.094-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:24:37.118-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:37.118-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:37.123-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:37.123-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:24:37.128-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:25:32.984-1000] {processor.py:186} INFO - Started process (PID=27626) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:25:32.984-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:25:32.984-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:32.984-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:25:32.994-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:25:33.018-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:33.018-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:33.023-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:33.023-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:25:33.028-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T16:26:29.827-1000] {processor.py:186} INFO - Started process (PID=27842) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:26:29.828-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:26:29.828-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:29.828-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:26:29.837-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:26:29.861-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:29.861-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:29.866-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:29.866-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:26:29.871-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:27:22.672-1000] {processor.py:186} INFO - Started process (PID=28043) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:27:22.672-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:27:22.672-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:22.672-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:27:22.681-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:27:22.705-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:22.705-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:22.710-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:22.710-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:27:22.715-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:28:18.475-1000] {processor.py:186} INFO - Started process (PID=28257) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:28:18.475-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:28:18.475-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:18.475-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:28:18.485-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:28:18.509-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:18.508-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:18.513-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:18.513-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:28:18.518-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:29:12.222-1000] {processor.py:186} INFO - Started process (PID=28458) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:29:12.222-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:29:12.222-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:12.222-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:29:12.232-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:29:12.256-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:12.256-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:12.260-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:12.260-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:29:12.265-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:30:05.368-1000] {processor.py:186} INFO - Started process (PID=28661) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:05.368-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:30:05.368-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:05.368-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:05.378-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:05.402-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:05.402-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:05.406-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:05.406-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:30:05.411-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:30:59.404-1000] {processor.py:186} INFO - Started process (PID=28865) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:59.404-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:30:59.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:59.404-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:59.413-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:30:59.437-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:59.437-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:59.442-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:59.442-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:30:59.446-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:31:55.047-1000] {processor.py:186} INFO - Started process (PID=29073) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:31:55.047-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:31:55.047-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:55.047-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:31:55.057-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:31:55.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:55.080-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:55.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:55.085-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:31:55.092-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2025-03-24T16:32:49.315-1000] {processor.py:186} INFO - Started process (PID=29302) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:32:49.316-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:32:49.316-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:49.316-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:32:49.325-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:32:49.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:49.349-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:49.354-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:49.354-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:32:49.358-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:33:44.733-1000] {processor.py:186} INFO - Started process (PID=29514) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:33:44.734-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:33:44.734-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:44.734-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:33:44.743-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:33:44.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:44.766-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:44.771-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:44.771-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:33:44.776-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:34:39.862-1000] {processor.py:186} INFO - Started process (PID=29720) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:34:39.862-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:34:39.863-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:39.862-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:34:39.872-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:34:39.896-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:39.896-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:39.900-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:39.900-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:34:39.905-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:35:34.003-1000] {processor.py:186} INFO - Started process (PID=29922) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:35:34.003-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:35:34.004-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:34.004-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:35:34.013-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:35:34.037-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:34.037-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:34.041-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:34.041-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:35:34.046-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:36:28.875-1000] {processor.py:186} INFO - Started process (PID=30130) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:36:28.876-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:36:28.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:28.876-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:36:28.886-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:36:28.910-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:28.910-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:28.915-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:28.915-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:36:28.919-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:37:23.633-1000] {processor.py:186} INFO - Started process (PID=30334) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:37:23.633-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:37:23.633-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:23.633-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:37:23.643-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:37:23.669-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:23.669-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:23.674-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:23.674-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:37:23.679-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-03-24T16:38:22.118-1000] {processor.py:186} INFO - Started process (PID=30584) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:38:22.119-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:38:22.120-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:22.120-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:38:22.129-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:38:22.153-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:22.153-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:22.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:22.157-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:38:22.162-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:39:19.181-1000] {processor.py:186} INFO - Started process (PID=30800) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:39:19.181-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:39:19.181-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:19.181-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:39:19.190-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:39:19.214-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:19.214-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:19.219-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:19.219-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:39:19.224-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:40:17.280-1000] {processor.py:186} INFO - Started process (PID=31023) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:40:17.280-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:40:17.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:17.280-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:40:17.290-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:40:17.314-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:17.314-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:17.319-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:17.319-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:40:17.324-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T16:41:16.245-1000] {processor.py:186} INFO - Started process (PID=31250) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:41:16.245-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:41:16.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:16.245-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:41:16.254-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:41:16.278-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:16.278-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:16.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:16.283-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:41:16.288-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:42:15.623-1000] {processor.py:186} INFO - Started process (PID=31475) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:42:15.624-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:42:15.625-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:15.624-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:42:15.634-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:42:15.658-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:15.658-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:15.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:15.663-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:42:15.667-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:43:11.578-1000] {processor.py:186} INFO - Started process (PID=31697) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:43:11.578-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:43:11.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:11.578-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:43:11.587-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:43:11.611-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:11.611-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:11.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:11.616-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:43:11.621-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:44:06.399-1000] {processor.py:186} INFO - Started process (PID=31907) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:44:06.399-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:44:06.399-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:06.399-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:44:06.408-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:44:06.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:06.432-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:06.437-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:06.437-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:44:06.442-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:45:02.237-1000] {processor.py:186} INFO - Started process (PID=32116) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:02.237-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:45:02.238-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:02.238-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:02.247-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:02.271-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:02.271-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:02.276-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:02.276-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:45:02.280-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2025-03-24T16:45:57.487-1000] {processor.py:186} INFO - Started process (PID=32329) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:57.488-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:45:57.488-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:57.488-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:57.497-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:45:57.521-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:57.521-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:57.526-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:57.526-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:45:57.530-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds
+[2025-03-24T16:46:53.667-1000] {processor.py:186} INFO - Started process (PID=32558) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:46:53.668-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:46:53.668-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:53.668-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:46:53.678-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:46:53.703-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:53.703-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:53.707-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:53.707-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:46:53.712-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.065 seconds
+[2025-03-24T16:47:48.148-1000] {processor.py:186} INFO - Started process (PID=32795) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:47:48.149-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:47:48.150-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:48.150-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:47:48.159-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:47:48.183-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:48.183-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:48.187-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:48.187-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:47:48.192-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.064 seconds
+[2025-03-24T16:48:47.663-1000] {processor.py:186} INFO - Started process (PID=33036) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:48:47.663-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:48:47.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:47.663-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:48:47.673-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:48:47.698-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:47.698-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:47.702-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:47.702-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:48:47.707-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T16:49:47.445-1000] {processor.py:186} INFO - Started process (PID=33327) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:49:47.446-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:49:47.446-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:47.446-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:49:47.456-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:49:47.480-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:47.480-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:47.484-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:47.484-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:49:47.489-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T16:50:43.297-1000] {processor.py:186} INFO - Started process (PID=33536) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:50:43.298-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:50:43.298-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:43.298-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:50:43.308-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:50:43.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:43.332-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:43.336-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:43.336-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:50:43.341-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T16:51:43.023-1000] {processor.py:186} INFO - Started process (PID=33760) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:51:43.024-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:51:43.024-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:43.024-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:51:43.034-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:51:43.057-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:43.057-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:43.062-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:43.062-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:51:43.066-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T16:52:39.366-1000] {processor.py:186} INFO - Started process (PID=33979) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:52:39.366-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:52:39.366-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:39.366-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:52:39.376-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:52:39.400-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:39.399-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:39.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:39.404-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:52:39.409-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T16:53:38.911-1000] {processor.py:186} INFO - Started process (PID=34195) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:53:38.911-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:53:38.911-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:38.911-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:53:38.920-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:53:38.944-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:38.944-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:38.949-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:38.949-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:53:38.954-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T16:54:36.711-1000] {processor.py:186} INFO - Started process (PID=34413) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:54:36.712-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:54:36.712-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:36.712-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:54:36.721-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:54:36.745-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:36.745-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:36.749-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:36.749-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:54:36.754-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T16:55:33.058-1000] {processor.py:186} INFO - Started process (PID=34619) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:55:33.059-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:55:33.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:33.059-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:55:33.068-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:55:33.092-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:33.092-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:55:33.097-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:33.097-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:55:33.102-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T16:56:27.303-1000] {processor.py:186} INFO - Started process (PID=34830) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:56:27.304-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:56:27.304-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:27.304-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:56:27.313-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:56:27.336-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:27.336-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:27.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:27.341-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:56:27.345-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T16:57:21.137-1000] {processor.py:186} INFO - Started process (PID=35032) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:57:21.138-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:57:21.138-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:21.138-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:57:21.147-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:57:21.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:21.170-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:21.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:21.174-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:57:21.179-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T16:58:15.842-1000] {processor.py:186} INFO - Started process (PID=35244) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:58:15.842-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:58:15.842-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:15.842-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:58:15.852-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:58:15.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:15.876-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:15.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:15.880-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:58:15.885-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T16:59:10.244-1000] {processor.py:186} INFO - Started process (PID=35456) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:59:10.245-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T16:59:10.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:10.245-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:59:10.255-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T16:59:10.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:10.280-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:10.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:10.284-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T16:59:10.289-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T17:00:06.888-1000] {processor.py:186} INFO - Started process (PID=35669) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:00:06.889-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:00:06.889-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:06.889-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:00:06.898-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:00:06.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:06.922-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:06.927-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:06.926-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:00:06.931-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:01:05.639-1000] {processor.py:186} INFO - Started process (PID=35891) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:01:05.639-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:01:05.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:05.640-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:01:05.649-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:01:05.673-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:05.673-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:05.678-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:05.678-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:01:05.683-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T17:02:04.811-1000] {processor.py:186} INFO - Started process (PID=36110) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:02:04.812-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:02:04.812-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:04.812-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:02:04.821-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:02:04.845-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:04.845-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:04.849-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:04.849-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:02:04.854-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:03:04.897-1000] {processor.py:186} INFO - Started process (PID=36338) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:03:04.898-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:03:04.898-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:04.898-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:03:04.907-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:03:04.931-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:04.931-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:04.936-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:04.935-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:03:04.940-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:04:02.495-1000] {processor.py:186} INFO - Started process (PID=36559) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:02.495-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:04:02.495-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:02.495-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:02.504-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:02.528-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:02.528-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:02.532-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:02.532-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:04:02.537-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:04:59.201-1000] {processor.py:186} INFO - Started process (PID=36765) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:59.202-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:04:59.202-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:59.202-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:59.211-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:04:59.235-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:59.235-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:59.239-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:59.239-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:04:59.244-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:05:54.927-1000] {processor.py:186} INFO - Started process (PID=36976) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:05:54.928-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:05:54.928-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:54.928-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:05:54.937-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:05:54.961-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:54.961-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:54.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:54.965-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:05:54.970-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:06:48.309-1000] {processor.py:186} INFO - Started process (PID=37212) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:06:48.309-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:06:48.309-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:48.309-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:06:48.319-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:06:48.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:48.342-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:48.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:48.346-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:06:48.350-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:07:42.351-1000] {processor.py:186} INFO - Started process (PID=37424) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:07:42.351-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:07:42.351-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:42.351-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:07:42.361-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:07:42.384-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:42.384-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:42.389-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:42.389-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:07:42.393-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:08:37.667-1000] {processor.py:186} INFO - Started process (PID=37632) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:08:37.667-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:08:37.668-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:37.668-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:08:37.677-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:08:37.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:37.700-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:37.705-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:37.705-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:08:37.709-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:09:34.522-1000] {processor.py:186} INFO - Started process (PID=37842) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:09:34.523-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:09:34.523-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:34.523-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:09:34.532-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:09:34.555-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:34.555-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:34.559-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:34.559-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:09:34.564-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:10:29.358-1000] {processor.py:186} INFO - Started process (PID=38051) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:10:29.359-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:10:29.359-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:29.359-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:10:29.368-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:10:29.391-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:29.391-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:29.396-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:29.396-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:10:29.400-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:11:21.418-1000] {processor.py:186} INFO - Started process (PID=38254) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:11:21.418-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:11:21.419-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:21.419-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:11:21.428-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:11:21.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:21.451-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:21.455-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:21.455-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:11:21.460-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:12:16.839-1000] {processor.py:186} INFO - Started process (PID=38464) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:12:16.839-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:12:16.840-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:16.840-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:12:16.849-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:12:16.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:16.873-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:16.877-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:16.877-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:12:16.882-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:13:09.909-1000] {processor.py:186} INFO - Started process (PID=38669) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:13:09.910-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:13:09.910-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:09.910-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:13:09.919-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:13:09.942-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:09.942-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:09.946-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:09.946-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:13:09.951-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:14:04.751-1000] {processor.py:186} INFO - Started process (PID=38877) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:04.751-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:14:04.752-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:04.752-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:04.761-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:04.784-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:04.784-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:04.788-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:04.788-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:14:04.793-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:14:59.844-1000] {processor.py:186} INFO - Started process (PID=39090) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:59.844-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:14:59.844-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:59.844-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:59.854-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:14:59.877-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:59.877-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:59.881-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:59.881-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:14:59.886-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:15:54.415-1000] {processor.py:186} INFO - Started process (PID=39291) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:15:54.416-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:15:54.416-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:54.416-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:15:54.425-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:15:54.448-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:54.448-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:54.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:54.452-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:15:54.457-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:16:49.583-1000] {processor.py:186} INFO - Started process (PID=39501) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:16:49.584-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:16:49.584-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:49.584-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:16:49.593-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:16:49.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:49.616-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:49.620-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:49.620-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:16:49.625-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:17:42.683-1000] {processor.py:186} INFO - Started process (PID=39706) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:17:42.683-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:17:42.683-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:42.683-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:17:42.693-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:17:42.716-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:42.716-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:42.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:42.720-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:17:42.725-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:18:37.704-1000] {processor.py:186} INFO - Started process (PID=39930) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:18:37.705-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:18:37.705-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:37.705-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:18:37.714-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:18:37.738-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:37.738-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:37.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:37.742-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:18:37.746-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:19:32.837-1000] {processor.py:186} INFO - Started process (PID=40144) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:19:32.837-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:19:32.837-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:32.837-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:19:32.847-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:19:32.870-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:32.870-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:32.874-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:32.874-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:19:32.879-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:20:29.205-1000] {processor.py:186} INFO - Started process (PID=40354) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:20:29.206-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:20:29.206-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:29.206-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:20:29.215-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:20:29.239-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:29.239-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:29.243-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:29.243-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:20:29.248-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:21:27.122-1000] {processor.py:186} INFO - Started process (PID=40578) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:21:27.122-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:21:27.122-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:27.122-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:21:27.131-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:21:27.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:27.155-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:27.159-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:27.159-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:21:27.164-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:22:24.246-1000] {processor.py:186} INFO - Started process (PID=40799) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:22:24.247-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:22:24.247-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:24.247-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:22:24.257-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:22:24.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:24.280-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:24.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:24.284-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:22:24.289-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:23:18.533-1000] {processor.py:186} INFO - Started process (PID=41036) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:23:18.534-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:23:18.534-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:18.534-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:23:18.544-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:23:18.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:18.567-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:18.571-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:18.571-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:23:18.576-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:24:14.051-1000] {processor.py:186} INFO - Started process (PID=41246) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:24:14.051-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:24:14.051-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:14.051-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:24:14.060-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:24:14.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:14.084-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:14.088-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:14.088-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:24:14.093-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:25:09.895-1000] {processor.py:186} INFO - Started process (PID=41458) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:25:09.895-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:25:09.895-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:09.895-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:25:09.904-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:25:09.928-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:09.928-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:09.932-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:09.932-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:25:09.937-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:26:08.294-1000] {processor.py:186} INFO - Started process (PID=41720) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:26:08.295-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:26:08.295-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:08.295-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:26:08.305-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:26:08.328-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:08.328-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:08.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:08.332-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:26:08.337-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:27:11.711-1000] {processor.py:186} INFO - Started process (PID=42000) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:27:11.712-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:27:11.712-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:11.712-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:27:11.722-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:27:11.746-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:11.745-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:11.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:11.750-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:27:11.755-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2025-03-24T17:28:09.179-1000] {processor.py:186} INFO - Started process (PID=42245) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:28:09.179-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:28:09.179-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:09.179-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:28:09.188-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:28:09.212-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:09.212-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:09.216-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:09.216-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:28:09.221-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:29:06.411-1000] {processor.py:186} INFO - Started process (PID=42472) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:29:06.411-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:29:06.411-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:06.411-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:29:06.421-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:29:06.445-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:06.445-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:06.449-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:06.449-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:29:06.454-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:30:02.833-1000] {processor.py:186} INFO - Started process (PID=42710) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:02.833-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:30:02.834-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:02.833-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:02.847-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:02.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:02.873-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:02.877-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:02.877-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:30:02.882-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.050 seconds
+[2025-03-24T17:30:59.724-1000] {processor.py:186} INFO - Started process (PID=42960) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:59.725-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:30:59.725-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:59.725-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:59.734-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:30:59.759-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:59.759-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:59.764-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:59.764-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:30:59.770-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2025-03-24T17:32:01.937-1000] {processor.py:186} INFO - Started process (PID=43237) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:32:01.938-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:32:01.938-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:01.938-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:32:01.947-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:32:01.971-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:01.971-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:01.975-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:01.975-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:32:01.980-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2025-03-24T17:33:02.292-1000] {processor.py:186} INFO - Started process (PID=43461) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:02.292-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:33:02.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:02.292-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:02.301-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:02.325-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:02.325-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:02.329-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:02.329-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:33:02.334-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds
+[2025-03-24T17:33:59.746-1000] {processor.py:186} INFO - Started process (PID=43716) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:59.746-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T17:33:59.747-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:59.747-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:59.756-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T17:33:59.779-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:59.779-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:59.783-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:59.783-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T17:33:59.788-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.043 seconds

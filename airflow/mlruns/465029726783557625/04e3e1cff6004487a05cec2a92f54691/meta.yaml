@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/04e3e1cff6004487a05cec2a92f54691/artifacts
+deleted_time: 1742870272312
+end_time: 1742868936277
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 04e3e1cff6004487a05cec2a92f54691
+run_name: gifted-duck-325
+run_uuid: 04e3e1cff6004487a05cec2a92f54691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936272
+status: 3
+tags: []
+user_id: manamioyama

@@ -1,0 +1,15 @@
+[2025-03-24T13:50:18.224-1000] {processor.py:186} INFO - Started process (PID=9498) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-03-24T13:50:18.225-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2025-03-24T13:50:18.225-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.225-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-03-24T13:50:18.236-1000] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-03-24T13:50:18.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.280-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_passing_params_via_test_command
+[2025-03-24T13:50:18.282-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.282-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_passing_params_via_test_command
+[2025-03-24T13:50:18.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.283-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_passing_params_via_test_command
+[2025-03-24T13:50:18.285-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.285-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_passing_params_via_test_command
+[2025-03-24T13:50:18.286-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.286-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_passing_params_via_test_command
+[2025-03-24T13:50:18.288-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.288-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_passing_params_via_test_command
+[2025-03-24T13:50:18.289-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.289-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_passing_params_via_test_command
+[2025-03-24T13:50:18.289-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.289-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:18.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.292-1000] {dag.py:3262} INFO - Creating ORM DAG for example_passing_params_via_test_command
+[2025-03-24T13:50:18.294-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:18.294-1000] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2025-03-24 23:49:00+00:00, run_after=2025-03-24 23:50:00+00:00
+[2025-03-24T13:50:18.299-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.094 seconds

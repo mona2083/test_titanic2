@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/418c3ecc62234d08b84e946303076eb0/artifacts
+deleted_time: 1742870272317
+end_time: 1742868933436
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 418c3ecc62234d08b84e946303076eb0
+run_name: bedecked-donkey-782
+run_uuid: 418c3ecc62234d08b84e946303076eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933430
+status: 3
+tags: []
+user_id: manamioyama

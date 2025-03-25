@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/9495781efb1d4050b1b7ad7391db3c3a/artifacts
+deleted_time: 1742870272313
+end_time: 1742868936249
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 9495781efb1d4050b1b7ad7391db3c3a
+run_name: dazzling-bat-410
+run_uuid: 9495781efb1d4050b1b7ad7391db3c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936243
+status: 3
+tags: []
+user_id: manamioyama

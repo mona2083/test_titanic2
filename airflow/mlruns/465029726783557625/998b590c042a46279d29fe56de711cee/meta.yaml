@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/998b590c042a46279d29fe56de711cee/artifacts
+deleted_time: 1742870272316
+end_time: 1742868933455
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 998b590c042a46279d29fe56de711cee
+run_name: sincere-panda-261
+run_uuid: 998b590c042a46279d29fe56de711cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933450
+status: 3
+tags: []
+user_id: manamioyama

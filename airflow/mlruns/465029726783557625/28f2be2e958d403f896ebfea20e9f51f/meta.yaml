@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/28f2be2e958d403f896ebfea20e9f51f/artifacts
+deleted_time: 1742870272315
+end_time: 1742868933501
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 28f2be2e958d403f896ebfea20e9f51f
+run_name: lyrical-shad-981
+run_uuid: 28f2be2e958d403f896ebfea20e9f51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933496
+status: 3
+tags: []
+user_id: manamioyama

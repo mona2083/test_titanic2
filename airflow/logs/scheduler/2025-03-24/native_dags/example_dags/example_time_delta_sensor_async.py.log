@@ -1,0 +1,22 @@
+[2025-03-24T13:32:43.054-1000] {processor.py:186} INFO - Started process (PID=6291) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:32:43.054-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-24T13:32:43.054-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.054-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:32:43.057-1000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:32:43.247-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.247-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2025-03-24T13:32:43.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.249-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2025-03-24T13:32:43.251-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.251-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2025-03-24T13:32:43.253-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.252-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_time_delta_sensor_async
+[2025-03-24T13:32:43.254-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.254-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_time_delta_sensor_async
+[2025-03-24T13:32:43.255-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.255-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_time_delta_sensor_async
+[2025-03-24T13:32:43.256-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.256-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_time_delta_sensor_async
+[2025-03-24T13:32:43.257-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.256-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:43.259-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.259-1000] {dag.py:3262} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2025-03-24T13:32:43.259-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:43.259-1000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-24T13:32:43.263-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.231 seconds
+[2025-03-24T13:49:55.690-1000] {processor.py:186} INFO - Started process (PID=9408) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:49:55.691-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2025-03-24T13:49:55.692-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:55.692-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:49:55.694-1000] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2025-03-24T13:49:55.861-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:55.861-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:49:55.864-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:55.864-1000] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2025-03-24T13:49:55.869-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.199 seconds

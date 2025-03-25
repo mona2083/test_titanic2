@@ -1,0 +1,778 @@
+[2025-03-24T15:52:07.879-1000] {processor.py:186} INFO - Started process (PID=19634) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:52:07.879-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T15:52:07.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:07.880-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:52:08.538-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:08.538-1000] {dagbag.py:387} ERROR - Failed to import: /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py", line 15, in <module>
+    from titanic_preprocessing import TitanicPreprocessing
+ModuleNotFoundError: No module named 'titanic_preprocessing'
+[2025-03-24T15:52:08.538-1000] {processor.py:927} WARNING - No viable dags retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:52:08.567-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.713 seconds
+[2025-03-24T15:54:10.196-1000] {processor.py:186} INFO - Started process (PID=20277) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:54:10.197-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T15:54:10.197-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:10.197-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:54:10.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:10.762-1000] {dagbag.py:387} ERROR - Failed to import: /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py", line 15, in <module>
+    from titanic_preprocessing import TitanicPreprocessing
+ModuleNotFoundError: No module named 'titanic_preprocessing'
+[2025-03-24T15:54:10.762-1000] {processor.py:927} WARNING - No viable dags retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:54:10.790-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.614 seconds
+[2025-03-24T15:55:59.370-1000] {processor.py:186} INFO - Started process (PID=20695) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:55:59.370-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T15:55:59.370-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:59.370-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:55:59.924-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:59.923-1000] {dagbag.py:387} ERROR - Failed to import: /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py", line 15, in <module>
+    from titanic_preprocessing import TitanicPreprocessing
+ModuleNotFoundError: No module named 'titanic_preprocessing'
+[2025-03-24T15:55:59.924-1000] {processor.py:927} WARNING - No viable dags retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:55:59.952-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.602 seconds
+[2025-03-24T15:57:48.006-1000] {processor.py:186} INFO - Started process (PID=21113) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:57:48.008-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T15:57:48.008-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:48.008-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:57:48.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:48.616-1000] {dagbag.py:387} ERROR - Failed to import: /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py", line 15, in <module>
+    from titanic_preprocessing import TitanicPreprocessing
+ModuleNotFoundError: No module named 'titanic_preprocessing'
+[2025-03-24T15:57:48.617-1000] {processor.py:927} WARNING - No viable dags retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:57:48.643-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.665 seconds
+[2025-03-24T15:59:34.564-1000] {processor.py:186} INFO - Started process (PID=21532) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:59:34.565-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T15:59:34.565-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:34.565-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:59:35.191-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:35.191-1000] {dagbag.py:387} ERROR - Failed to import: /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py", line 15, in <module>
+    from titanic_preprocessing import TitanicPreprocessing
+ModuleNotFoundError: No module named 'titanic_preprocessing'
+[2025-03-24T15:59:35.191-1000] {processor.py:927} WARNING - No viable dags retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T15:59:35.219-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.675 seconds
+[2025-03-24T16:00:32.173-1000] {processor.py:186} INFO - Started process (PID=21768) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:00:32.173-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:00:32.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:32.174-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:00:51.516-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:00:51.630-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.630-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:titanic
+[2025-03-24T16:00:51.632-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.632-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:titanic
+[2025-03-24T16:00:51.634-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.634-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:titanic
+[2025-03-24T16:00:51.636-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.636-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:titanic
+[2025-03-24T16:00:51.637-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.637-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:titanic
+[2025-03-24T16:00:51.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.638-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:titanic
+[2025-03-24T16:00:51.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.640-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:titanic
+[2025-03-24T16:00:51.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.640-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:00:51.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.643-1000] {dag.py:3262} INFO - Creating ORM DAG for titanic
+[2025-03-24T16:00:51.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:51.644-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:00:51.649-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 19.498 seconds
+[2025-03-24T16:01:47.891-1000] {processor.py:186} INFO - Started process (PID=22034) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:01:47.892-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:01:47.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:47.892-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:01:48.629-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:01:48.697-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:48.697-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:48.702-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:48.702-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:01:48.707-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.835 seconds
+[2025-03-24T16:02:42.170-1000] {processor.py:186} INFO - Started process (PID=22243) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:02:42.170-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:02:42.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:42.170-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:02:42.902-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:02:42.971-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:42.971-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:42.976-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:42.976-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:02:42.980-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.830 seconds
+[2025-03-24T16:03:36.506-1000] {processor.py:186} INFO - Started process (PID=22445) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:03:36.506-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:03:36.506-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:36.506-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:03:37.227-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:03:37.295-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:37.295-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:37.300-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:37.300-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:03:37.305-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.819 seconds
+[2025-03-24T16:04:31.079-1000] {processor.py:186} INFO - Started process (PID=22651) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:04:31.079-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:04:31.079-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:31.079-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:04:31.815-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:04:31.882-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:31.882-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:31.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:31.887-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:04:31.892-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.833 seconds
+[2025-03-24T16:05:22.060-1000] {processor.py:186} INFO - Started process (PID=22848) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:05:22.060-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:05:22.060-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:22.060-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:05:22.785-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:05:22.853-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:22.852-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:22.857-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:22.857-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:05:22.862-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.823 seconds
+[2025-03-24T16:06:15.795-1000] {processor.py:186} INFO - Started process (PID=23050) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:06:15.795-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:06:15.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:15.795-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:06:16.520-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:06:16.592-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:16.591-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:16.596-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:16.596-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:06:16.601-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:07:10.670-1000] {processor.py:186} INFO - Started process (PID=23294) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:07:10.670-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:07:10.670-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:10.670-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:07:11.402-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:07:11.470-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:11.469-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:11.474-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:11.474-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:07:11.479-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.830 seconds
+[2025-03-24T16:08:06.244-1000] {processor.py:186} INFO - Started process (PID=23503) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:08:06.244-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:08:06.244-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:06.244-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:08:06.971-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:08:07.038-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:07.038-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:07.043-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:07.043-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:08:07.048-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.824 seconds
+[2025-03-24T16:09:03.440-1000] {processor.py:186} INFO - Started process (PID=23719) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:09:03.440-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:09:03.440-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:03.440-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:09:04.167-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:09:04.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:04.236-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:04.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:04.240-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:09:04.245-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.825 seconds
+[2025-03-24T16:09:59.846-1000] {processor.py:186} INFO - Started process (PID=23929) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:09:59.847-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:09:59.847-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:59.847-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:10:00.580-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:10:00.647-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:00.647-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:00.652-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:00.652-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to 2025-03-20 00:00:00+00:00, run_after=2025-03-20 00:00:00+00:00
+[2025-03-24T16:10:00.657-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.831 seconds
+[2025-03-24T16:11:04.255-1000] {processor.py:186} INFO - Started process (PID=24212) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:11:04.256-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:11:04.256-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:04.256-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:11:04.989-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:11:05.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:05.058-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:05.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:05.063-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:11:05.068-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.832 seconds
+[2025-03-24T16:12:02.904-1000] {processor.py:186} INFO - Started process (PID=24428) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:12:02.904-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:12:02.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:02.904-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:12:03.635-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:12:03.702-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:03.702-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:03.707-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:03.707-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:12:03.712-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.829 seconds
+[2025-03-24T16:13:02.546-1000] {processor.py:186} INFO - Started process (PID=24709) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:13:02.547-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:13:02.547-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:02.547-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:13:03.561-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:13:03.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:03.635-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:03.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:03.640-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:13:03.645-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.122 seconds
+[2025-03-24T16:14:03.441-1000] {processor.py:186} INFO - Started process (PID=24952) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:03.442-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:14:03.442-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:03.442-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:04.383-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:04.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:04.451-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:04.456-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:04.456-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:14:04.461-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.040 seconds
+[2025-03-24T16:14:59.021-1000] {processor.py:186} INFO - Started process (PID=25160) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:59.021-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:14:59.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:59.021-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:59.750-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:14:59.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:59.819-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:59.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:59.823-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:14:59.828-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:15:55.772-1000] {processor.py:186} INFO - Started process (PID=25402) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:15:55.772-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:15:55.773-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:55.772-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:15:56.502-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:15:56.571-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:56.571-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:56.576-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:56.576-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:15:56.581-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.829 seconds
+[2025-03-24T16:16:51.740-1000] {processor.py:186} INFO - Started process (PID=25610) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:16:51.741-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:16:51.741-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:51.741-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:16:52.470-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:16:52.538-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:52.537-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:52.542-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:52.542-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:16:52.547-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.826 seconds
+[2025-03-24T16:17:45.540-1000] {processor.py:186} INFO - Started process (PID=25815) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:17:45.541-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:17:45.541-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:45.541-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:17:46.271-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:17:46.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:46.338-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:46.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:46.342-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:17:46.347-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:18:41.606-1000] {processor.py:186} INFO - Started process (PID=26051) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:18:41.607-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:18:41.607-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:41.607-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:18:42.377-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:18:42.446-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:42.446-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:42.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:42.451-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:18:42.456-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.869 seconds
+[2025-03-24T16:19:37.562-1000] {processor.py:186} INFO - Started process (PID=26272) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:19:37.563-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:19:37.563-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:37.563-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:19:38.473-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:19:38.541-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:38.541-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:38.546-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:38.546-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:19:38.551-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.009 seconds
+[2025-03-24T16:20:32.996-1000] {processor.py:186} INFO - Started process (PID=26473) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:20:32.996-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:20:32.996-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:32.996-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:20:33.726-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:20:33.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:33.795-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:33.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:33.799-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:20:33.804-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.828 seconds
+[2025-03-24T16:21:28.386-1000] {processor.py:186} INFO - Started process (PID=26681) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:21:28.386-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:21:28.386-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:28.386-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:21:29.109-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:21:29.177-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:29.176-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:29.181-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:29.181-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:21:29.186-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.820 seconds
+[2025-03-24T16:22:23.341-1000] {processor.py:186} INFO - Started process (PID=26891) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:22:23.342-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:22:23.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:23.342-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:22:24.085-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:22:24.153-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:24.153-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:24.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:24.157-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:22:24.162-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.841 seconds
+[2025-03-24T16:23:19.419-1000] {processor.py:186} INFO - Started process (PID=27119) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:23:19.419-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:23:19.420-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:19.419-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:23:20.144-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:23:20.213-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:20.213-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:20.218-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:20.218-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:23:20.223-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:24:16.782-1000] {processor.py:186} INFO - Started process (PID=27343) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:24:16.782-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:24:16.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:16.782-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:24:17.538-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:24:17.612-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:17.612-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:17.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:17.617-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:24:17.623-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.862 seconds
+[2025-03-24T16:25:13.362-1000] {processor.py:186} INFO - Started process (PID=27552) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:25:13.362-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:25:13.362-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:13.362-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:25:14.097-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:25:14.166-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:14.165-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:14.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:14.170-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:25:14.175-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.835 seconds
+[2025-03-24T16:26:09.484-1000] {processor.py:186} INFO - Started process (PID=27766) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:26:09.484-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:26:09.484-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:09.484-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:26:10.219-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:26:10.297-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:10.296-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:10.302-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:10.302-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:26:10.307-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.843 seconds
+[2025-03-24T16:27:04.537-1000] {processor.py:186} INFO - Started process (PID=27972) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:04.538-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:27:04.538-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:04.538-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:05.268-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:05.335-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:05.335-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:05.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:05.340-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:27:05.345-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:27:59.133-1000] {processor.py:186} INFO - Started process (PID=28186) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:59.134-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:27:59.134-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:59.134-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:59.865-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:27:59.933-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:59.932-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:59.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:59.937-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:27:59.943-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.829 seconds
+[2025-03-24T16:28:52.890-1000] {processor.py:186} INFO - Started process (PID=28387) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:28:52.890-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:28:52.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:52.890-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:28:53.625-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:28:53.692-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:53.692-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:53.697-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:53.697-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:28:53.702-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.832 seconds
+[2025-03-24T16:29:45.989-1000] {processor.py:186} INFO - Started process (PID=28589) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:29:45.989-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:29:45.990-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:45.989-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:29:46.708-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:29:46.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:46.777-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:46.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:46.781-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:29:46.786-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.817 seconds
+[2025-03-24T16:30:40.029-1000] {processor.py:186} INFO - Started process (PID=28791) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:30:40.030-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:30:40.030-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:40.030-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:30:40.747-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:30:40.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:40.816-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:40.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:40.821-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:30:40.826-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.818 seconds
+[2025-03-24T16:31:35.638-1000] {processor.py:186} INFO - Started process (PID=29000) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:31:35.639-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:31:35.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:35.639-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:31:36.377-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:31:36.444-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:36.444-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:36.449-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:36.449-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:31:36.454-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.835 seconds
+[2025-03-24T16:32:30.382-1000] {processor.py:186} INFO - Started process (PID=29227) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:32:30.382-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:32:30.382-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:30.382-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:32:31.153-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:32:31.224-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:31.224-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:31.229-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:31.228-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:32:31.233-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.873 seconds
+[2025-03-24T16:33:25.554-1000] {processor.py:186} INFO - Started process (PID=29439) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:33:25.555-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:33:25.555-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:25.555-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:33:26.281-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:33:26.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:26.349-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:26.354-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:26.354-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:33:26.359-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.824 seconds
+[2025-03-24T16:34:20.080-1000] {processor.py:186} INFO - Started process (PID=29642) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:34:20.080-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:34:20.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:20.080-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:34:20.808-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:34:20.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:20.876-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:20.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:20.880-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:34:20.885-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.826 seconds
+[2025-03-24T16:35:14.662-1000] {processor.py:186} INFO - Started process (PID=29851) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:35:14.662-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:35:14.662-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:14.662-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:35:15.388-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:35:15.455-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:15.455-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:15.459-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:15.459-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:35:15.464-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.822 seconds
+[2025-03-24T16:36:08.491-1000] {processor.py:186} INFO - Started process (PID=30054) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:36:08.491-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:36:08.491-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:08.491-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:36:09.218-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:36:09.285-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:09.285-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:09.290-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:09.290-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:36:09.295-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.823 seconds
+[2025-03-24T16:37:04.190-1000] {processor.py:186} INFO - Started process (PID=30262) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:37:04.190-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:37:04.190-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:04.190-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:37:04.936-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:37:05.005-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:05.005-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:05.010-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:05.010-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:37:05.015-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.846 seconds
+[2025-03-24T16:38:01.291-1000] {processor.py:186} INFO - Started process (PID=30496) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:38:01.292-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:38:01.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:01.292-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:38:02.028-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:38:02.097-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:02.097-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:02.101-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:02.101-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:38:02.106-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.836 seconds
+[2025-03-24T16:39:00.093-1000] {processor.py:186} INFO - Started process (PID=30728) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:00.094-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:39:00.094-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:00.094-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:00.821-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:00.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:00.889-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:00.894-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:00.894-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:39:00.899-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.825 seconds
+[2025-03-24T16:39:57.606-1000] {processor.py:186} INFO - Started process (PID=30951) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:57.606-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:39:57.606-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:57.606-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:58.345-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:39:58.416-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:58.416-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:58.421-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:58.421-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:39:58.425-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.840 seconds
+[2025-03-24T16:40:56.839-1000] {processor.py:186} INFO - Started process (PID=31176) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:40:56.840-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:40:56.840-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:56.840-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:40:57.570-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:40:57.637-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:57.637-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:57.642-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:57.642-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:40:57.647-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:41:55.236-1000] {processor.py:186} INFO - Started process (PID=31399) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:41:55.236-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:41:55.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:55.236-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:41:55.995-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:41:56.067-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:56.066-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:56.072-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:56.072-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:41:56.077-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.860 seconds
+[2025-03-24T16:42:51.946-1000] {processor.py:186} INFO - Started process (PID=31618) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:42:51.946-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:42:51.946-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:51.946-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:42:52.705-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:42:52.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:52.777-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:52.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:52.782-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:42:52.787-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.861 seconds
+[2025-03-24T16:43:47.761-1000] {processor.py:186} INFO - Started process (PID=31832) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:43:47.761-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:43:47.761-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:47.761-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:43:48.501-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:43:48.569-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:48.569-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:48.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:48.573-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:43:48.578-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.841 seconds
+[2025-03-24T16:44:43.015-1000] {processor.py:186} INFO - Started process (PID=32044) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:44:43.015-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:44:43.015-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:43.015-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:44:43.737-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:44:43.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:43.804-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:43.809-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:43.809-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:44:43.814-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.819 seconds
+[2025-03-24T16:45:37.137-1000] {processor.py:186} INFO - Started process (PID=32251) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:45:37.137-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:45:37.137-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:37.137-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:45:37.865-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:45:37.933-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:37.932-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:37.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:37.937-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:45:37.942-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.827 seconds
+[2025-03-24T16:46:33.100-1000] {processor.py:186} INFO - Started process (PID=32466) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:46:33.101-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:46:33.101-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:33.101-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:46:33.844-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:46:33.918-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:33.918-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:33.923-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:33.923-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:46:33.928-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.848 seconds
+[2025-03-24T16:47:28.488-1000] {processor.py:186} INFO - Started process (PID=32704) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:47:28.488-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:47:28.488-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:28.488-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:47:29.412-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:47:29.482-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:29.482-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:29.487-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:29.487-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:47:29.492-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.025 seconds
+[2025-03-24T16:48:28.054-1000] {processor.py:186} INFO - Started process (PID=32956) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:48:28.055-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:48:28.056-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:28.056-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:48:29.145-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:48:29.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:29.170-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:29.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:29.174-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:48:29.180-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.126 seconds
+[2025-03-24T16:49:26.991-1000] {processor.py:186} INFO - Started process (PID=33248) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:49:26.992-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:49:26.992-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:26.992-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:49:28.012-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:49:28.036-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:28.036-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:28.041-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:28.041-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:49:28.046-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 1.056 seconds
+[2025-03-24T16:50:23.731-1000] {processor.py:186} INFO - Started process (PID=33463) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:50:23.732-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:50:23.733-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:23.732-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:50:24.595-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:50:24.619-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:24.619-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:24.624-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:24.624-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:50:24.629-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.899 seconds
+[2025-03-24T16:51:22.602-1000] {processor.py:186} INFO - Started process (PID=33681) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:51:22.603-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:51:22.603-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:22.603-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:51:23.558-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:51:23.583-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:23.582-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:23.587-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:23.587-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:51:23.593-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.991 seconds
+[2025-03-24T16:52:19.768-1000] {processor.py:186} INFO - Started process (PID=33898) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:52:19.768-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:52:19.768-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:19.768-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:52:20.589-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:52:20.614-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:20.614-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:20.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:20.618-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:52:20.624-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.857 seconds
+[2025-03-24T16:53:18.766-1000] {processor.py:186} INFO - Started process (PID=34117) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:53:18.767-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:53:18.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:18.767-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:53:19.695-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:53:19.719-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:19.719-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:19.723-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:19.723-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:53:19.728-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.963 seconds
+[2025-03-24T16:54:17.824-1000] {processor.py:186} INFO - Started process (PID=34342) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:54:17.824-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:54:17.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:17.824-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:54:18.592-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:54:18.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:18.616-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:18.621-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:18.620-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:54:18.626-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.804 seconds
+[2025-03-24T16:55:12.835-1000] {processor.py:186} INFO - Started process (PID=34548) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:55:12.835-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:55:12.835-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:12.835-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:55:13.611-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:55:13.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:13.635-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:55:13.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:13.640-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:55:13.645-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.811 seconds
+[2025-03-24T16:56:07.906-1000] {processor.py:186} INFO - Started process (PID=34759) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:56:07.906-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:56:07.906-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:07.906-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:56:08.673-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:56:08.697-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:08.697-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:08.702-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:08.702-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:56:08.707-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.802 seconds
+[2025-03-24T16:57:03.388-1000] {processor.py:186} INFO - Started process (PID=34965) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:03.388-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:57:03.388-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:03.388-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:04.155-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:04.179-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:04.179-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:04.183-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:04.183-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:57:04.189-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.802 seconds
+[2025-03-24T16:57:56.042-1000] {processor.py:186} INFO - Started process (PID=35164) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:56.043-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:57:56.043-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:56.043-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:56.807-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:57:56.831-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:56.831-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:56.835-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:56.835-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:57:56.841-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.799 seconds
+[2025-03-24T16:58:51.578-1000] {processor.py:186} INFO - Started process (PID=35385) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:58:51.579-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:58:51.579-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:51.579-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:58:52.342-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:58:52.366-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:52.366-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:52.370-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:52.370-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:58:52.376-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.798 seconds
+[2025-03-24T16:59:47.139-1000] {processor.py:186} INFO - Started process (PID=35593) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:59:47.139-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T16:59:47.139-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:47.139-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:59:47.927-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T16:59:47.952-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:47.951-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:47.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:47.956-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T16:59:47.961-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.823 seconds
+[2025-03-24T17:00:45.978-1000] {processor.py:186} INFO - Started process (PID=35811) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:00:45.978-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:00:45.978-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:45.978-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:00:46.817-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:00:46.842-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:46.841-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:46.846-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:46.846-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:00:46.851-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.874 seconds
+[2025-03-24T17:01:45.679-1000] {processor.py:186} INFO - Started process (PID=36038) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:01:45.680-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:01:45.680-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:45.680-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:01:46.486-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:01:46.511-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:46.511-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:46.516-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:46.516-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:01:46.522-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.843 seconds
+[2025-03-24T17:02:44.192-1000] {processor.py:186} INFO - Started process (PID=36267) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:02:44.192-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:02:44.192-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:44.192-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:02:44.988-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:02:45.012-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:45.012-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:45.017-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:45.017-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:02:45.022-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.831 seconds
+[2025-03-24T17:03:42.194-1000] {processor.py:186} INFO - Started process (PID=36482) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:03:42.195-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:03:42.195-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:42.195-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:03:42.984-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:03:43.008-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:43.008-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:43.012-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:43.012-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:03:43.017-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.824 seconds
+[2025-03-24T17:04:39.075-1000] {processor.py:186} INFO - Started process (PID=36694) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:04:39.076-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:04:39.076-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:39.076-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:04:39.828-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:04:39.851-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:39.851-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:39.856-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:39.855-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:04:39.861-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.786 seconds
+[2025-03-24T17:05:36.086-1000] {processor.py:186} INFO - Started process (PID=36903) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:05:36.087-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:05:36.087-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:36.087-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:05:36.853-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:05:36.877-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:36.877-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:36.882-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:36.882-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:05:36.887-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.802 seconds
+[2025-03-24T17:06:28.964-1000] {processor.py:186} INFO - Started process (PID=37105) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:06:28.965-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:06:28.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:28.965-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:06:29.735-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:06:29.759-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:29.759-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:29.764-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:29.764-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:06:29.769-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.806 seconds
+[2025-03-24T17:07:23.739-1000] {processor.py:186} INFO - Started process (PID=37348) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:07:23.739-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:07:23.739-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:23.739-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:07:24.502-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:07:24.526-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:24.526-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:24.530-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:24.530-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:07:24.535-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.798 seconds
+[2025-03-24T17:08:18.243-1000] {processor.py:186} INFO - Started process (PID=37552) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:08:18.243-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:08:18.243-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:18.243-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:08:19.006-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:08:19.030-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:19.030-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:19.035-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:19.035-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:08:19.040-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.798 seconds
+[2025-03-24T17:09:15.957-1000] {processor.py:186} INFO - Started process (PID=37776) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:09:15.957-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:09:15.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:15.957-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:09:16.716-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:09:16.740-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:16.740-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:16.744-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:16.744-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:09:16.749-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.793 seconds
+[2025-03-24T17:10:08.984-1000] {processor.py:186} INFO - Started process (PID=37974) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:10:08.984-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:10:08.984-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:08.984-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:10:09.743-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:10:09.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:09.766-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:09.770-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:09.770-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:10:09.775-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.792 seconds
+[2025-03-24T17:11:02.551-1000] {processor.py:186} INFO - Started process (PID=38179) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:02.551-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:11:02.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:02.552-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:03.315-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:03.339-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:03.339-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:03.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:03.343-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:11:03.348-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.798 seconds
+[2025-03-24T17:11:56.988-1000] {processor.py:186} INFO - Started process (PID=38392) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:56.988-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:11:56.988-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:56.988-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:57.752-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:11:57.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:57.776-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:57.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:57.780-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:11:57.786-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.799 seconds
+[2025-03-24T17:12:51.027-1000] {processor.py:186} INFO - Started process (PID=38595) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:12:51.027-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:12:51.028-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:51.028-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:12:51.790-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:12:51.814-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:51.814-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:51.818-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:51.818-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:12:51.823-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.797 seconds
+[2025-03-24T17:13:45.707-1000] {processor.py:186} INFO - Started process (PID=38805) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:13:45.708-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:13:45.708-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:45.708-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:13:46.480-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:13:46.504-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:46.503-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:46.508-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:46.508-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:13:46.513-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.806 seconds
+[2025-03-24T17:14:41.240-1000] {processor.py:186} INFO - Started process (PID=39019) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:14:41.240-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:14:41.241-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:41.241-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:14:42.017-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:14:42.041-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:42.041-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:42.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:42.045-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:14:42.050-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.811 seconds
+[2025-03-24T17:15:34.652-1000] {processor.py:186} INFO - Started process (PID=39218) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:15:34.652-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:15:34.653-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:34.653-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:15:35.403-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:15:35.427-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:35.426-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:35.431-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:35.431-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:15:35.436-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.785 seconds
+[2025-03-24T17:16:30.781-1000] {processor.py:186} INFO - Started process (PID=39428) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:16:30.781-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:16:30.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:30.781-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:16:31.535-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:16:31.558-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:31.558-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:31.563-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:31.563-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:16:31.568-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.788 seconds
+[2025-03-24T17:17:24.874-1000] {processor.py:186} INFO - Started process (PID=39635) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:17:24.875-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:17:24.875-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:24.875-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:17:25.641-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:17:25.664-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:25.664-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:25.669-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:25.669-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:17:25.674-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.801 seconds
+[2025-03-24T17:18:17.702-1000] {processor.py:186} INFO - Started process (PID=39840) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:18:17.702-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:18:17.703-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:17.703-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:18:18.482-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:18:18.506-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:18.506-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:18.511-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:18.511-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:18:18.516-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.815 seconds
+[2025-03-24T17:19:13.308-1000] {processor.py:186} INFO - Started process (PID=40065) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:19:13.309-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:19:13.309-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:13.309-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:19:14.224-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:19:14.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:14.249-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:14.253-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:14.253-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:19:14.258-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.952 seconds
+[2025-03-24T17:20:09.476-1000] {processor.py:186} INFO - Started process (PID=40281) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:20:09.476-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:20:09.476-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:09.476-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:20:10.225-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:20:10.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:10.249-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:10.253-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:10.253-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:20:10.258-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.784 seconds
+[2025-03-24T17:21:07.686-1000] {processor.py:186} INFO - Started process (PID=40507) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:21:07.686-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:21:07.687-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:07.686-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:21:08.572-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:21:08.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:08.595-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:08.600-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:08.600-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:21:08.605-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.920 seconds
+[2025-03-24T17:22:04.313-1000] {processor.py:186} INFO - Started process (PID=40726) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:04.315-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:22:04.315-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:04.315-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:05.243-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:05.267-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:05.267-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:05.271-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:05.271-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:22:05.276-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.964 seconds
+[2025-03-24T17:22:58.833-1000] {processor.py:186} INFO - Started process (PID=40956) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:58.833-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:22:58.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:58.833-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:59.794-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:22:59.818-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:59.818-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:59.823-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:59.823-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:22:59.831-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.999 seconds
+[2025-03-24T17:23:54.421-1000] {processor.py:186} INFO - Started process (PID=41168) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:23:54.421-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:23:54.421-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:54.421-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:23:55.214-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:23:55.238-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:55.238-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:55.242-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:55.242-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:23:55.248-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.828 seconds
+[2025-03-24T17:24:50.432-1000] {processor.py:186} INFO - Started process (PID=41381) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:24:50.432-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:24:50.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:50.432-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:24:51.197-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:24:51.221-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:51.221-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:51.226-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:51.226-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:24:51.231-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.800 seconds
+[2025-03-24T17:25:48.057-1000] {processor.py:186} INFO - Started process (PID=41615) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:25:48.058-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:25:48.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:48.059-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:25:48.822-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:25:48.846-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:48.846-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:48.851-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:48.851-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:25:48.856-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.800 seconds
+[2025-03-24T17:26:51.401-1000] {processor.py:186} INFO - Started process (PID=41920) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:26:51.402-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:26:51.402-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:51.402-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:26:52.245-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:26:52.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:52.270-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:52.275-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:52.275-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:26:52.280-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.880 seconds
+[2025-03-24T17:27:50.325-1000] {processor.py:186} INFO - Started process (PID=42165) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:27:50.326-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:27:50.326-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:50.326-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:27:51.107-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:27:51.131-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:51.130-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:51.135-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:51.135-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:27:51.140-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.816 seconds
+[2025-03-24T17:28:46.545-1000] {processor.py:186} INFO - Started process (PID=42398) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:28:46.545-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:28:46.546-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:46.546-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:28:47.331-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:28:47.356-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:47.356-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:47.360-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:47.360-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:28:47.366-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.821 seconds
+[2025-03-24T17:29:43.407-1000] {processor.py:186} INFO - Started process (PID=42626) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:29:43.407-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:29:43.407-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:43.407-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:29:44.168-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:29:44.193-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:44.192-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:44.197-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:44.197-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:29:44.202-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.796 seconds
+[2025-03-24T17:30:38.402-1000] {processor.py:186} INFO - Started process (PID=42855) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:30:38.402-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:30:38.402-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:38.402-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:30:39.196-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:30:39.220-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:39.219-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:39.224-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:39.224-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:30:39.229-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.828 seconds
+[2025-03-24T17:31:41.378-1000] {processor.py:186} INFO - Started process (PID=43157) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:31:41.379-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:31:41.379-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:41.379-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:31:42.180-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:31:42.205-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:42.205-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:42.209-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:42.209-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:31:42.215-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.838 seconds
+[2025-03-24T17:32:42.690-1000] {processor.py:186} INFO - Started process (PID=43389) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:32:42.691-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:32:42.691-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:42.691-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:32:43.460-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:32:43.485-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:43.485-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:43.489-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:43.489-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:32:43.495-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.805 seconds
+[2025-03-24T17:33:40.550-1000] {processor.py:186} INFO - Started process (PID=43643) to work on /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:33:40.550-1000] {processor.py:914} INFO - Processing file /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py for tasks to queue
+[2025-03-24T17:33:40.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:40.550-1000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:33:41.343-1000] {processor.py:925} INFO - DAG(s) 'titanic' retrieved from /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py
+[2025-03-24T17:33:41.368-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:41.368-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:41.372-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:41.372-1000] {dag.py:4180} INFO - Setting next_dagrun for titanic to None, run_after=None
+[2025-03-24T17:33:41.378-1000] {processor.py:208} INFO - Processing /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/titanic_airflow.py took 0.828 seconds

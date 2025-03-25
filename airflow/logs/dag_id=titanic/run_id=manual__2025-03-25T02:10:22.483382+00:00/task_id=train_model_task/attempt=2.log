@@ -1,0 +1,55 @@
+[2025-03-24T16:15:35.924-1000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-24T16:15:35.927-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: titanic.train_model_task manual__2025-03-25T02:10:22.483382+00:00 [queued]>
+[2025-03-24T16:15:35.929-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: titanic.train_model_task manual__2025-03-25T02:10:22.483382+00:00 [queued]>
+[2025-03-24T16:15:35.929-1000] {taskinstance.py:2867} INFO - Starting attempt 2 of 2
+[2025-03-24T16:15:35.932-1000] {taskinstance.py:2890} INFO - Executing <Task(_PythonDecoratedOperator): train_model_task> on 2025-03-25 02:10:22.483382+00:00
+[2025-03-24T16:15:35.936-1000] {standard_task_runner.py:72} INFO - Started process 25317 to run task
+[2025-03-24T16:15:35.938-1000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'titanic', 'train_model_task', 'manual__2025-03-25T02:10:22.483382+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/titanic_airflow.py', '--cfg-path', '/var/folders/m_/z_1_g7ln0f54m3f57y9mjg440000gn/T/tmps05kvkfi']
+[2025-03-24T16:15:35.939-1000] {standard_task_runner.py:105} INFO - Job 12: Subtask train_model_task
+[2025-03-24T16:15:35.952-1000] {task_command.py:467} INFO - Running <TaskInstance: titanic.train_model_task manual__2025-03-25T02:10:22.483382+00:00 [running]> on host mac.localdomain
+[2025-03-24T16:15:35.967-1000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='titanic' AIRFLOW_CTX_TASK_ID='train_model_task' AIRFLOW_CTX_EXECUTION_DATE='2025-03-25T02:10:22.483382+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-25T02:10:22.483382+00:00'
+[2025-03-24T16:15:35.967-1000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-24T16:15:35.967-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-24T16:15:35.967-1000] {logging_mixin.py:190} INFO - Current task name:train_model_task state:running start_date:2025-03-25 02:15:35.927690+00:00
+[2025-03-24T16:15:35.967-1000] {logging_mixin.py:190} INFO - Dag name:titanic and current dag run status:running
+[2025-03-24T16:15:35.967-1000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-24T16:15:36.209-1000] {logging_mixin.py:190} INFO - knn: 0.8827751196172249
+[2025-03-24T16:15:36.211-1000] {logging_mixin.py:190} INFO - 🏃 View run intelligent-wolf-953 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/5be57e243e384f4598313fde8d96adb2
+[2025-03-24T16:15:36.211-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.219-1000] {logging_mixin.py:190} INFO - decision_tree: 0.8110047846889952
+[2025-03-24T16:15:36.222-1000] {logging_mixin.py:190} INFO - 🏃 View run popular-hawk-154 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/63fa2283853d4e3892ff51b6a4332e69
+[2025-03-24T16:15:36.222-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.229-1000] {logging_mixin.py:190} INFO - random_forest: 0.854066985645933
+[2025-03-24T16:15:36.232-1000] {logging_mixin.py:190} INFO - 🏃 View run persistent-sloth-503 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/4c10ef87cb2f4fceafc8eb544847bd81
+[2025-03-24T16:15:36.232-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.239-1000] {logging_mixin.py:190} INFO - gaussian: 0.8421052631578947
+[2025-03-24T16:15:36.241-1000] {logging_mixin.py:190} INFO - 🏃 View run adventurous-midge-4 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/8770e7c9901c4c779f4af16fcf591d8b
+[2025-03-24T16:15:36.241-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.249-1000] {logging_mixin.py:190} INFO - svc: 0.9354066985645934
+[2025-03-24T16:15:36.251-1000] {logging_mixin.py:190} INFO - 🏃 View run dazzling-bat-410 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/9495781efb1d4050b1b7ad7391db3c3a
+[2025-03-24T16:15:36.251-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.258-1000] {logging_mixin.py:190} INFO - extra_tree: 0.8229665071770335
+[2025-03-24T16:15:36.261-1000] {logging_mixin.py:190} INFO - 🏃 View run serious-dolphin-919 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/95e681c903df4e27ab6c5686763b9660
+[2025-03-24T16:15:36.261-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.268-1000] {logging_mixin.py:190} INFO - extra_trees: 0.8301435406698564
+[2025-03-24T16:15:36.270-1000] {logging_mixin.py:190} INFO - 🏃 View run sincere-sponge-577 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/a051c8a37cd4466db880c325480e6b2c
+[2025-03-24T16:15:36.270-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.277-1000] {logging_mixin.py:190} INFO - bagging: 0.8397129186602871
+[2025-03-24T16:15:36.279-1000] {logging_mixin.py:190} INFO - 🏃 View run gifted-duck-325 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/04e3e1cff6004487a05cec2a92f54691
+[2025-03-24T16:15:36.279-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.286-1000] {logging_mixin.py:190} INFO - ada_boost: 0.9354066985645934
+[2025-03-24T16:15:36.288-1000] {logging_mixin.py:190} INFO - 🏃 View run valuable-finch-13 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/36ea75e607d54f21939b4d822e45b7a6
+[2025-03-24T16:15:36.289-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.296-1000] {logging_mixin.py:190} INFO - gradient_boosting: 0.8827751196172249
+[2025-03-24T16:15:36.298-1000] {logging_mixin.py:190} INFO - 🏃 View run treasured-trout-435 at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/10c7198dab094bdba630609a29cf84e8
+[2025-03-24T16:15:36.298-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:15:36.301-1000] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-24T16:15:36.303-1000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-24T16:15:36.303-1000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=titanic, task_id=train_model_task, run_id=manual__2025-03-25T02:10:22.483382+00:00, execution_date=20250325T021022, start_date=20250325T021535, end_date=20250325T021536
+[2025-03-24T16:15:36.307-1000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-24T16:15:36.307-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-24T16:15:36.307-1000] {logging_mixin.py:190} INFO - Dag name:titanic queued_at:2025-03-25 02:10:22.491025+00:00
+[2025-03-24T16:15:36.307-1000] {logging_mixin.py:190} INFO - Task hostname:mac.localdomain operator:_PythonDecoratedOperator
+[2025-03-24T16:15:36.318-1000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-24T16:15:36.322-1000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-24T16:15:36.322-1000] {local_task_job_runner.py:245} INFO - ::endgroup::

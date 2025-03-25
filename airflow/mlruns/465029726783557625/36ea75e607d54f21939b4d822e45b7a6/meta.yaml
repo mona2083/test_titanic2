@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/36ea75e607d54f21939b4d822e45b7a6/artifacts
+deleted_time: 1742870272312
+end_time: 1742868936287
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 36ea75e607d54f21939b4d822e45b7a6
+run_name: valuable-finch-13
+run_uuid: 36ea75e607d54f21939b4d822e45b7a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936281
+status: 3
+tags: []
+user_id: manamioyama

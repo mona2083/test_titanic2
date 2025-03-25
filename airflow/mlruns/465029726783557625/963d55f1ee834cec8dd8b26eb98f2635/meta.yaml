@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/963d55f1ee834cec8dd8b26eb98f2635/artifacts
+end_time: 1742873182219
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: active
+run_id: 963d55f1ee834cec8dd8b26eb98f2635
+run_name: gaussian
+run_uuid: 963d55f1ee834cec8dd8b26eb98f2635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742873182213
+status: 3
+tags: []
+user_id: manamioyama

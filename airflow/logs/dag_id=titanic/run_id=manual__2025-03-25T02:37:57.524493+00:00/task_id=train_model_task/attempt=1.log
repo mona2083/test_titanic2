@@ -1,0 +1,55 @@
+[2025-03-24T16:38:03.687-1000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-24T16:38:03.690-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: titanic.train_model_task manual__2025-03-25T02:37:57.524493+00:00 [queued]>
+[2025-03-24T16:38:03.691-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: titanic.train_model_task manual__2025-03-25T02:37:57.524493+00:00 [queued]>
+[2025-03-24T16:38:03.691-1000] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2025-03-24T16:38:03.694-1000] {taskinstance.py:2890} INFO - Executing <Task(_PythonDecoratedOperator): train_model_task> on 2025-03-25 02:37:57.524493+00:00
+[2025-03-24T16:38:03.699-1000] {standard_task_runner.py:72} INFO - Started process 30507 to run task
+[2025-03-24T16:38:03.701-1000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'titanic', 'train_model_task', 'manual__2025-03-25T02:37:57.524493+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/titanic_airflow.py', '--cfg-path', '/var/folders/m_/z_1_g7ln0f54m3f57y9mjg440000gn/T/tmpvlbnayae']
+[2025-03-24T16:38:03.702-1000] {standard_task_runner.py:105} INFO - Job 14: Subtask train_model_task
+[2025-03-24T16:38:03.716-1000] {task_command.py:467} INFO - Running <TaskInstance: titanic.train_model_task manual__2025-03-25T02:37:57.524493+00:00 [running]> on host mac.localdomain
+[2025-03-24T16:38:03.734-1000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='titanic' AIRFLOW_CTX_TASK_ID='train_model_task' AIRFLOW_CTX_EXECUTION_DATE='2025-03-25T02:37:57.524493+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-25T02:37:57.524493+00:00'
+[2025-03-24T16:38:03.735-1000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-24T16:38:03.735-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-24T16:38:03.735-1000] {logging_mixin.py:190} INFO - Current task name:train_model_task state:running start_date:2025-03-25 02:38:03.690338+00:00
+[2025-03-24T16:38:03.735-1000] {logging_mixin.py:190} INFO - Dag name:titanic and current dag run status:running
+[2025-03-24T16:38:03.735-1000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-24T16:38:03.993-1000] {logging_mixin.py:190} INFO - knn: 0.8827751196172249
+[2025-03-24T16:38:03.995-1000] {logging_mixin.py:190} INFO - 🏃 View run knn at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/6d289b6f22e04cb1aa11f78db1029397
+[2025-03-24T16:38:03.996-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.003-1000] {logging_mixin.py:190} INFO - decision_tree: 0.8229665071770335
+[2025-03-24T16:38:04.006-1000] {logging_mixin.py:190} INFO - 🏃 View run decision_tree at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/57c6f9319a5146a48d4a90ca9d617d76
+[2025-03-24T16:38:04.006-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.013-1000] {logging_mixin.py:190} INFO - random_forest: 0.861244019138756
+[2025-03-24T16:38:04.016-1000] {logging_mixin.py:190} INFO - 🏃 View run random_forest at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/0d5e91f71e4b489e98fbf59c0cbe7aab
+[2025-03-24T16:38:04.016-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.023-1000] {logging_mixin.py:190} INFO - gaussian: 0.8421052631578947
+[2025-03-24T16:38:04.026-1000] {logging_mixin.py:190} INFO - 🏃 View run gaussian at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/98fd609bd2d54d85a9e23b5a9e2cba5b
+[2025-03-24T16:38:04.026-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.033-1000] {logging_mixin.py:190} INFO - svc: 0.9354066985645934
+[2025-03-24T16:38:04.035-1000] {logging_mixin.py:190} INFO - 🏃 View run svc at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/45f93c1660504f878613e243dacb5dea
+[2025-03-24T16:38:04.035-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.042-1000] {logging_mixin.py:190} INFO - extra_tree: 0.8133971291866029
+[2025-03-24T16:38:04.045-1000] {logging_mixin.py:190} INFO - 🏃 View run extra_tree at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/18edad082b3a4127a6ab9fddf24ff75f
+[2025-03-24T16:38:04.045-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.052-1000] {logging_mixin.py:190} INFO - extra_trees: 0.8253588516746412
+[2025-03-24T16:38:04.054-1000] {logging_mixin.py:190} INFO - 🏃 View run extra_trees at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/770f8124bdbd41b59d5b130383348b1c
+[2025-03-24T16:38:04.054-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.061-1000] {logging_mixin.py:190} INFO - bagging: 0.8349282296650717
+[2025-03-24T16:38:04.063-1000] {logging_mixin.py:190} INFO - 🏃 View run bagging at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/3e3bae25d1af47c0929a85655aab961d
+[2025-03-24T16:38:04.064-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.070-1000] {logging_mixin.py:190} INFO - ada_boost: 0.9354066985645934
+[2025-03-24T16:38:04.072-1000] {logging_mixin.py:190} INFO - 🏃 View run ada_boost at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/3a61915bc1cf4ee898b4aae4a6d02986
+[2025-03-24T16:38:04.072-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.080-1000] {logging_mixin.py:190} INFO - gradient_boosting: 0.8827751196172249
+[2025-03-24T16:38:04.082-1000] {logging_mixin.py:190} INFO - 🏃 View run gradient_boosting at: http://127.0.0.1:5000/#/experiments/465029726783557625/runs/1faa40a43525470fbd0daba04a5d0286
+[2025-03-24T16:38:04.082-1000] {logging_mixin.py:190} INFO - 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/465029726783557625
+[2025-03-24T16:38:04.084-1000] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-24T16:38:04.087-1000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-24T16:38:04.087-1000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=titanic, task_id=train_model_task, run_id=manual__2025-03-25T02:37:57.524493+00:00, execution_date=20250325T023757, start_date=20250325T023803, end_date=20250325T023804
+[2025-03-24T16:38:04.091-1000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-24T16:38:04.091-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-24T16:38:04.091-1000] {logging_mixin.py:190} INFO - Dag name:titanic queued_at:2025-03-25 02:37:57.528749+00:00
+[2025-03-24T16:38:04.091-1000] {logging_mixin.py:190} INFO - Task hostname:mac.localdomain operator:_PythonDecoratedOperator
+[2025-03-24T16:38:04.124-1000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-24T16:38:04.128-1000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-24T16:38:04.128-1000] {local_task_job_runner.py:245} INFO - ::endgroup::

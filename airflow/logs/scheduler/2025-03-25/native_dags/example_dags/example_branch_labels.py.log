@@ -1,0 +1,393 @@
+[2025-03-24T15:51:59.819-1000] {processor.py:186} INFO - Started process (PID=19531) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:51:59.819-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T15:51:59.820-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.820-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:51:59.823-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:51:59.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.876-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-03-24T15:51:59.879-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.879-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-03-24T15:51:59.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.880-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-03-24T15:51:59.883-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.883-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-03-24T15:51:59.885-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.885-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-03-24T15:51:59.886-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.886-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-03-24T15:51:59.888-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.888-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-03-24T15:51:59.888-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.888-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:59.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.892-1000] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-03-24T15:51:59.894-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:59.894-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:51:59.898-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.104 seconds
+[2025-03-24T15:54:02.284-1000] {processor.py:186} INFO - Started process (PID=20247) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:54:02.284-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T15:54:02.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:02.284-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:54:02.287-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:54:02.312-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:02.312-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:02.317-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:02.317-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:54:02.322-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T15:55:52.306-1000] {processor.py:186} INFO - Started process (PID=20665) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:55:52.306-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T15:55:52.306-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:52.306-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:55:52.309-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:55:52.334-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:52.334-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:52.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:52.338-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:55:52.343-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T15:57:40.679-1000] {processor.py:186} INFO - Started process (PID=21083) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:57:40.680-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T15:57:40.680-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:40.680-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:57:40.683-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:57:40.708-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:40.708-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:40.713-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:40.713-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:57:40.717-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-03-24T15:59:27.219-1000] {processor.py:186} INFO - Started process (PID=21499) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:59:27.220-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T15:59:27.220-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:27.220-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:59:27.223-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T15:59:27.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:27.249-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:27.254-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:27.254-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:59:27.258-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.062 seconds
+[2025-03-24T16:01:40.577-1000] {processor.py:186} INFO - Started process (PID=22004) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:01:40.577-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:01:40.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:40.577-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:01:40.580-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:01:40.604-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:40.604-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:40.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:40.609-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:01:40.613-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:03:29.191-1000] {processor.py:186} INFO - Started process (PID=22418) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:03:29.192-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:03:29.192-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:29.192-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:03:29.194-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:03:29.219-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:29.219-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:29.223-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:29.223-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:03:29.228-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:05:15.710-1000] {processor.py:186} INFO - Started process (PID=22823) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:05:15.710-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:05:15.710-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:15.710-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:05:15.713-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:05:15.737-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:15.737-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:15.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:15.742-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:05:15.747-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:07:03.394-1000] {processor.py:186} INFO - Started process (PID=23269) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:07:03.395-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:07:03.395-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:03.395-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:07:03.398-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:07:03.422-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:03.422-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:03.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:03.426-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:07:03.431-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:08:55.724-1000] {processor.py:186} INFO - Started process (PID=23687) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:08:55.724-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:08:55.725-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:55.724-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:08:55.727-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:08:55.751-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:55.751-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:55.756-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:55.756-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:08:55.761-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:10:57.025-1000] {processor.py:186} INFO - Started process (PID=24178) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:10:57.027-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:10:57.027-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:57.027-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:10:57.029-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:10:57.054-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:57.054-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:57.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:57.058-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:10:57.063-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:12:54.903-1000] {processor.py:186} INFO - Started process (PID=24682) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:12:54.904-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:12:54.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:54.904-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:12:54.906-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:12:54.931-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:54.931-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:54.936-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:54.936-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:12:54.940-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:14:51.788-1000] {processor.py:186} INFO - Started process (PID=25135) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:14:51.789-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:14:51.789-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:51.789-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:14:51.792-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:14:51.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:51.816-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:51.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:51.821-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:14:51.826-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:16:44.455-1000] {processor.py:186} INFO - Started process (PID=25580) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:16:44.456-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:16:44.456-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:44.456-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:16:44.458-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:16:44.482-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:44.482-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:44.487-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:44.487-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:16:44.492-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:18:34.316-1000] {processor.py:186} INFO - Started process (PID=26024) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:18:34.316-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:18:34.316-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:34.316-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:18:34.319-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:18:34.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:34.343-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:34.348-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:34.348-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:18:34.353-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:20:26.357-1000] {processor.py:186} INFO - Started process (PID=26448) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:20:26.357-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:20:26.357-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:26.357-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:20:26.360-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:20:26.384-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:26.384-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:26.389-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:26.389-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:20:26.393-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:22:16.952-1000] {processor.py:186} INFO - Started process (PID=26864) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:22:16.953-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:22:16.953-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:16.953-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:22:16.956-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:22:16.980-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:16.980-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:16.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:16.985-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:22:16.989-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:24:09.471-1000] {processor.py:186} INFO - Started process (PID=27313) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:24:09.471-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:24:09.471-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:09.471-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:24:09.474-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:24:09.498-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:09.498-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:09.503-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:09.503-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:24:09.508-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:26:02.143-1000] {processor.py:186} INFO - Started process (PID=27741) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:26:02.143-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:26:02.143-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:02.143-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:26:02.146-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:26:02.171-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:02.171-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:02.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:02.175-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:26:02.180-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:27:52.127-1000] {processor.py:186} INFO - Started process (PID=28161) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:27:52.127-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:27:52.128-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:52.127-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:27:52.130-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:27:52.154-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:52.154-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:52.160-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:52.160-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:27:52.164-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:29:38.894-1000] {processor.py:186} INFO - Started process (PID=28564) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:29:38.894-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:29:38.894-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:38.894-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:29:38.897-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:29:38.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:38.921-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:38.926-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:38.926-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:29:38.931-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:31:28.383-1000] {processor.py:186} INFO - Started process (PID=28975) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:31:28.383-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:31:28.384-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:28.384-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:31:28.386-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:31:28.410-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:28.410-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:28.415-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:28.415-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:31:28.419-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:33:18.184-1000] {processor.py:186} INFO - Started process (PID=29409) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:33:18.184-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:33:18.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:18.184-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:33:18.187-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:33:18.211-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:18.211-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:18.216-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:18.216-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:33:18.220-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:35:07.423-1000] {processor.py:186} INFO - Started process (PID=29826) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:35:07.423-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:35:07.424-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:07.423-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:35:07.426-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:35:07.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:07.450-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:07.455-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:07.455-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:35:07.460-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:36:57.501-1000] {processor.py:186} INFO - Started process (PID=30235) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:36:57.501-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:36:57.501-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:57.501-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:36:57.504-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:36:57.528-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:57.528-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:57.533-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:57.533-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:36:57.537-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:38:53.307-1000] {processor.py:186} INFO - Started process (PID=30703) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:38:53.308-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:38:53.308-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:53.308-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:38:53.311-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:38:53.336-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:53.336-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:53.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:53.341-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:38:53.345-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:40:50.567-1000] {processor.py:186} INFO - Started process (PID=31151) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:40:50.568-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:40:50.568-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:50.568-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:40:50.570-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:40:50.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:50.595-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:50.600-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:50.600-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:40:50.605-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2025-03-24T16:42:44.629-1000] {processor.py:186} INFO - Started process (PID=31588) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:42:44.630-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:42:44.630-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:44.630-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:42:44.633-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:42:44.657-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:44.657-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:44.662-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:44.662-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:42:44.667-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:44:35.734-1000] {processor.py:186} INFO - Started process (PID=32012) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:44:35.735-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:44:35.735-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:35.735-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:44:35.738-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:44:35.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:35.762-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:35.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:35.766-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:44:35.771-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:46:26.714-1000] {processor.py:186} INFO - Started process (PID=32441) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:46:26.714-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:46:26.714-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:26.714-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:46:26.717-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:46:26.741-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:26.741-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:26.746-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:26.746-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:46:26.751-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2025-03-24T16:48:19.055-1000] {processor.py:186} INFO - Started process (PID=32915) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:48:19.056-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:48:19.056-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:19.056-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:48:19.059-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:48:19.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:19.083-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:19.088-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:19.088-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:48:19.093-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2025-03-24T16:50:17.057-1000] {processor.py:186} INFO - Started process (PID=33438) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:50:17.058-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:50:17.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:17.059-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:50:17.061-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:50:17.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:17.085-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:17.090-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:17.090-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:50:17.095-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T16:52:12.559-1000] {processor.py:186} INFO - Started process (PID=33873) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:52:12.561-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:52:12.561-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:12.561-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:52:12.564-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:52:12.591-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:12.591-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:12.596-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:12.596-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:52:12.602-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.043 seconds
+[2025-03-24T16:54:10.516-1000] {processor.py:186} INFO - Started process (PID=34312) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:54:10.517-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:54:10.517-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:10.517-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:54:10.520-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:54:10.544-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:10.544-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:10.549-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:10.549-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:54:10.554-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T16:56:00.887-1000] {processor.py:186} INFO - Started process (PID=34729) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:56:00.887-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:56:00.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:00.887-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:56:00.890-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:56:00.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:00.914-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:00.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:00.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:56:00.924-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T16:57:50.031-1000] {processor.py:186} INFO - Started process (PID=35144) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:57:50.031-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:57:50.032-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:50.032-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:57:50.034-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:57:50.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:50.058-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:50.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:50.063-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:57:50.068-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T16:59:39.749-1000] {processor.py:186} INFO - Started process (PID=35568) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:59:39.750-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T16:59:39.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:39.750-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:59:39.752-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T16:59:39.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:39.776-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:39.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:39.781-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:59:39.786-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T17:01:38.362-1000] {processor.py:186} INFO - Started process (PID=36011) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:01:38.363-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:01:38.363-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:38.363-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:01:38.365-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:01:38.390-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:38.390-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:38.395-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:38.395-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:01:38.400-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:03:34.887-1000] {processor.py:186} INFO - Started process (PID=36455) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:03:34.888-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:03:34.888-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:34.888-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:03:34.890-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:03:34.915-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:34.915-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:34.920-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:34.920-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:03:34.925-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T17:05:28.860-1000] {processor.py:186} INFO - Started process (PID=36878) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:05:28.860-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:05:28.860-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:28.860-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:05:28.863-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:05:28.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:28.887-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:28.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:28.892-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:05:28.897-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T17:07:16.449-1000] {processor.py:186} INFO - Started process (PID=37323) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:07:16.449-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:07:16.450-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:16.450-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:07:16.452-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:07:16.476-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:16.476-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:16.481-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:16.481-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:07:16.486-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T17:09:08.665-1000] {processor.py:186} INFO - Started process (PID=37746) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:09:08.665-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:09:08.665-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:08.665-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:09:08.668-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:09:08.691-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:08.691-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:08.696-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:08.696-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:09:08.701-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:10:54.573-1000] {processor.py:186} INFO - Started process (PID=38152) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:10:54.573-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:10:54.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:54.573-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:10:54.575-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:10:54.599-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:54.599-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:54.604-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:54.604-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:10:54.609-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:12:43.749-1000] {processor.py:186} INFO - Started process (PID=38569) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:12:43.750-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:12:43.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:43.750-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:12:43.752-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:12:43.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:43.777-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:43.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:43.782-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:12:43.787-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:14:33.473-1000] {processor.py:186} INFO - Started process (PID=38987) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:14:33.473-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:14:33.473-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:33.473-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:14:33.476-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:14:33.499-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:33.499-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:33.504-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:33.504-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:14:33.509-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:16:23.506-1000] {processor.py:186} INFO - Started process (PID=39403) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:16:23.506-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:16:23.507-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:23.506-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:16:23.509-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:16:23.532-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:23.532-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:23.537-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:23.537-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:16:23.542-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:18:10.412-1000] {processor.py:186} INFO - Started process (PID=39810) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:18:10.412-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:18:10.413-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:10.413-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:18:10.415-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:18:10.439-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:10.439-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:10.444-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:10.444-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:18:10.448-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:20:02.194-1000] {processor.py:186} INFO - Started process (PID=40251) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:20:02.195-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:20:02.195-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:02.195-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:20:02.198-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:20:02.221-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:02.221-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:02.226-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:02.226-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:20:02.231-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2025-03-24T17:21:57.029-1000] {processor.py:186} INFO - Started process (PID=40694) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:21:57.030-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:21:57.031-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:57.030-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:21:57.033-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:21:57.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:57.058-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:57.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:57.063-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:21:57.068-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:23:47.792-1000] {processor.py:186} INFO - Started process (PID=41143) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:23:47.793-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:23:47.793-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:47.793-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:23:47.796-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:23:47.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:47.821-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:47.826-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:47.826-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:23:47.831-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:25:38.203-1000] {processor.py:186} INFO - Started process (PID=41570) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:25:38.204-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:25:38.204-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:38.204-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:25:38.207-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:25:38.231-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:38.231-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:38.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:38.236-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:25:38.241-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:27:43.911-1000] {processor.py:186} INFO - Started process (PID=42138) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:27:43.912-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:27:43.912-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:43.912-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:27:43.915-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:27:43.942-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:43.942-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:43.947-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:43.947-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:27:43.952-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.042 seconds
+[2025-03-24T17:29:36.819-1000] {processor.py:186} INFO - Started process (PID=42597) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:29:36.819-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:29:36.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:36.819-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:29:36.822-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:29:36.846-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:36.846-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:36.851-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:36.851-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:29:36.855-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2025-03-24T17:31:35.111-1000] {processor.py:186} INFO - Started process (PID=43130) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:31:35.112-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:31:35.112-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:35.112-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:31:35.114-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:31:35.139-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:35.139-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:35.144-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:35.143-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:31:35.148-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2025-03-24T17:33:33.241-1000] {processor.py:186} INFO - Started process (PID=43615) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:33:33.242-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-03-24T17:33:33.242-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:33.242-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:33:33.244-1000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-03-24T17:33:33.268-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:33.268-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:33.273-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:33.273-1000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:33:33.278-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds

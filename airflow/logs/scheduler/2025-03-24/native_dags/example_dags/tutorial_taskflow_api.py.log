@@ -1,0 +1,22 @@
+[2025-03-24T13:32:28.635-1000] {processor.py:186} INFO - Started process (PID=6228) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:32:28.635-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T13:32:28.636-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.636-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:32:28.645-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:32:28.689-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.689-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2025-03-24T13:32:28.691-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.691-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2025-03-24T13:32:28.692-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.692-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2025-03-24T13:32:28.694-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.694-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial_taskflow_api
+[2025-03-24T13:32:28.695-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.695-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial_taskflow_api
+[2025-03-24T13:32:28.696-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.696-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial_taskflow_api
+[2025-03-24T13:32:28.698-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.697-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial_taskflow_api
+[2025-03-24T13:32:28.698-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.698-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:28.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.700-1000] {dag.py:3262} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2025-03-24T13:32:28.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:28.700-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T13:32:28.704-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.089 seconds
+[2025-03-24T13:49:42.746-1000] {processor.py:186} INFO - Started process (PID=9355) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:49:42.747-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T13:49:42.747-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:42.747-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:49:42.757-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T13:49:42.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:42.782-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:49:42.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:42.786-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T13:49:42.791-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.074 seconds

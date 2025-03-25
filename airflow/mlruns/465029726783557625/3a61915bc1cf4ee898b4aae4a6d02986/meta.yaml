@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/3a61915bc1cf4ee898b4aae4a6d02986/artifacts
+end_time: 1742870284071
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: active
+run_id: 3a61915bc1cf4ee898b4aae4a6d02986
+run_name: ada_boost
+run_uuid: 3a61915bc1cf4ee898b4aae4a6d02986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742870284065
+status: 3
+tags: []
+user_id: manamioyama

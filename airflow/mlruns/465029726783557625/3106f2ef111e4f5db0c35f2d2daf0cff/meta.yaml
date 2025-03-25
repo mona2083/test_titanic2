@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/3106f2ef111e4f5db0c35f2d2daf0cff/artifacts
+end_time: 1742873466067
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: active
+run_id: 3106f2ef111e4f5db0c35f2d2daf0cff
+run_name: svc
+run_uuid: 3106f2ef111e4f5db0c35f2d2daf0cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742873466061
+status: 3
+tags: []
+user_id: manamioyama

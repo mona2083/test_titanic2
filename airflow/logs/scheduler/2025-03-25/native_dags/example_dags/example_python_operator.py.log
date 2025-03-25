@@ -1,0 +1,440 @@
+[2025-03-24T15:51:19.030-1000] {processor.py:186} INFO - Started process (PID=18983) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:51:19.031-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T15:51:19.031-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:19.031-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:51:19.038-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:19.038-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T15:51:19.039-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:51:19.066-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:19.066-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:19.069-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:19.069-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T15:51:19.075-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.071 seconds
+[2025-03-24T15:52:53.858-1000] {processor.py:186} INFO - Started process (PID=19971) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:52:53.860-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T15:52:53.860-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:53.860-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:52:53.866-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:53.866-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T15:52:53.867-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:52:53.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:53.892-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:53.895-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:53.895-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T15:52:53.900-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds
+[2025-03-24T15:54:48.044-1000] {processor.py:186} INFO - Started process (PID=20418) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:54:48.045-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T15:54:48.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:48.045-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:54:48.051-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:48.051-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T15:54:48.052-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:54:48.077-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:48.077-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:48.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:48.080-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T15:54:48.085-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2025-03-24T15:56:37.790-1000] {processor.py:186} INFO - Started process (PID=20847) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:56:37.791-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T15:56:37.791-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:37.791-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:56:37.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:37.797-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T15:56:37.798-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:56:37.823-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:37.823-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:56:37.826-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:37.826-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T15:56:37.831-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2025-03-24T15:58:24.518-1000] {processor.py:186} INFO - Started process (PID=21262) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:58:24.519-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T15:58:24.520-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:24.520-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:58:24.527-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:24.527-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T15:58:24.528-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T15:58:24.556-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:24.556-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:24.559-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:24.559-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T15:58:24.566-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.075 seconds
+[2025-03-24T16:00:13.139-1000] {processor.py:186} INFO - Started process (PID=21691) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:00:13.140-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:00:13.140-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:13.140-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:00:13.147-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:13.146-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:00:13.147-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:00:13.172-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:13.172-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:00:13.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:13.175-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:00:13.180-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds
+[2025-03-24T16:02:23.946-1000] {processor.py:186} INFO - Started process (PID=22165) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:02:23.946-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:02:23.947-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:23.947-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:02:23.953-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:23.953-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:02:23.954-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:02:23.979-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:23.979-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:23.982-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:23.982-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:02:23.987-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2025-03-24T16:04:12.349-1000] {processor.py:186} INFO - Started process (PID=22580) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:04:12.350-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:04:12.350-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:12.350-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:04:12.356-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:12.356-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:04:12.357-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:04:12.381-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:12.381-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:12.384-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:12.384-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:04:12.389-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2025-03-24T16:05:57.206-1000] {processor.py:186} INFO - Started process (PID=22984) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:05:57.206-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:05:57.206-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:57.206-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:05:57.212-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:57.212-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:05:57.213-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:05:57.237-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:57.237-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:57.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:57.240-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:05:57.245-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:07:46.742-1000] {processor.py:186} INFO - Started process (PID=23432) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:07:46.742-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:07:46.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:46.742-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:07:46.749-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:46.749-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:07:46.750-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:07:46.774-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:46.774-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:46.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:46.776-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:07:46.782-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2025-03-24T16:09:41.395-1000] {processor.py:186} INFO - Started process (PID=23861) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:09:41.395-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:09:41.395-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:41.395-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:09:41.401-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:41.401-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:09:41.402-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:09:41.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:41.426-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:41.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:41.428-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:09:41.434-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:11:44.240-1000] {processor.py:186} INFO - Started process (PID=24357) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:11:44.242-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:11:44.242-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:44.242-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:11:44.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:44.248-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:11:44.249-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:11:44.274-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:44.273-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:44.276-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:44.276-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:11:44.282-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.064 seconds
+[2025-03-24T16:13:43.791-1000] {processor.py:186} INFO - Started process (PID=24872) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:13:43.792-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:13:43.792-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:43.792-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:13:43.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:43.798-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:13:43.799-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:13:43.823-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:43.823-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:43.826-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:43.826-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:13:43.833-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.064 seconds
+[2025-03-24T16:15:38.240-1000] {processor.py:186} INFO - Started process (PID=25326) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:15:38.242-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:15:38.242-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:38.242-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:15:38.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:38.248-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:15:38.249-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:15:38.273-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:38.272-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:38.275-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:38.275-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:15:38.280-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2025-03-24T16:17:26.890-1000] {processor.py:186} INFO - Started process (PID=25738) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:17:26.890-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:17:26.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:26.890-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:17:26.896-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:26.896-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:17:26.897-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:17:26.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:26.921-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:26.924-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:26.924-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:17:26.929-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:19:18.797-1000] {processor.py:186} INFO - Started process (PID=26195) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:19:18.797-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:19:18.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:18.798-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:19:18.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:18.803-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:19:18.804-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:19:18.829-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:18.829-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:18.831-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:18.831-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:19:18.837-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:21:08.783-1000] {processor.py:186} INFO - Started process (PID=26610) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:21:08.784-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:21:08.785-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:08.785-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:21:08.791-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:08.791-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:21:08.792-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:21:08.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:08.816-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:08.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:08.819-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:21:08.825-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2025-03-24T16:23:00.735-1000] {processor.py:186} INFO - Started process (PID=27048) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:23:00.736-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:23:00.736-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:00.736-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:23:00.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:00.742-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:23:00.743-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:23:00.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:00.766-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:00.769-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:00.769-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:23:00.775-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:24:54.652-1000] {processor.py:186} INFO - Started process (PID=27481) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:24:54.652-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:24:54.652-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:54.652-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:24:54.658-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:54.658-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:24:54.659-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:24:54.682-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:54.682-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:54.685-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:54.685-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:24:54.690-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2025-03-24T16:26:45.589-1000] {processor.py:186} INFO - Started process (PID=27901) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:26:45.589-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:26:45.589-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:45.589-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:26:45.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:45.595-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:26:45.596-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:26:45.620-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:45.620-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:45.623-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:45.623-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:26:45.628-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:28:34.920-1000] {processor.py:186} INFO - Started process (PID=28319) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:28:34.921-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:28:34.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:34.921-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:28:34.926-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:34.926-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:28:34.927-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:28:34.951-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:34.951-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:34.954-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:34.954-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:28:34.959-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.058 seconds
+[2025-03-24T16:30:21.880-1000] {processor.py:186} INFO - Started process (PID=28723) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:30:21.880-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:30:21.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:21.880-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:30:21.886-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:21.886-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:30:21.887-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:30:21.911-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:21.911-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:21.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:21.914-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:30:21.919-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:32:11.607-1000] {processor.py:186} INFO - Started process (PID=29135) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:32:11.607-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:32:11.607-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:11.607-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:32:11.613-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:11.613-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:32:11.614-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:32:11.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:11.638-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:11.641-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:11.641-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:32:11.646-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:34:01.398-1000] {processor.py:186} INFO - Started process (PID=29576) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:34:01.398-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:34:01.398-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:01.398-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:34:01.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:01.404-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:34:01.405-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:34:01.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:01.428-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:01.431-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:01.431-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:34:01.436-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.058 seconds
+[2025-03-24T16:35:50.547-1000] {processor.py:186} INFO - Started process (PID=29986) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:35:50.547-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:35:50.547-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:50.547-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:35:50.554-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:50.554-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:35:50.555-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:35:50.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:50.578-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:50.581-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:50.581-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:35:50.586-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:37:41.589-1000] {processor.py:186} INFO - Started process (PID=30413) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:37:41.589-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:37:41.590-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:41.590-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:37:41.596-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:41.596-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:37:41.596-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:37:41.621-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:41.620-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:41.623-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:41.623-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:37:41.629-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2025-03-24T16:39:37.860-1000] {processor.py:186} INFO - Started process (PID=30866) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:39:37.861-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:39:37.861-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:37.861-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:39:37.868-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:37.867-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:39:37.868-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:39:37.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:37.892-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:37.895-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:37.895-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:39:37.900-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:41:35.505-1000] {processor.py:186} INFO - Started process (PID=31320) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:41:35.505-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:41:35.505-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:35.505-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:41:35.511-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:35.511-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:41:35.512-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:41:35.536-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:35.536-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:35.539-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:35.539-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:41:35.544-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:43:29.041-1000] {processor.py:186} INFO - Started process (PID=31759) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:43:29.042-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:43:29.043-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:29.043-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:43:29.049-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:29.049-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:43:29.050-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:43:29.074-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:29.073-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:29.076-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:29.076-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:43:29.081-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2025-03-24T16:45:18.052-1000] {processor.py:186} INFO - Started process (PID=32176) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:45:18.052-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:45:18.052-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:18.052-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:45:18.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:18.058-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:45:18.059-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:45:18.083-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:18.083-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:18.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:18.085-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:45:18.091-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.059 seconds
+[2025-03-24T16:47:09.891-1000] {processor.py:186} INFO - Started process (PID=32621) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:47:09.892-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:47:09.893-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:09.893-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:47:09.899-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:09.899-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:47:09.900-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:47:09.924-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:09.924-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:09.927-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:09.927-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:47:09.932-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds
+[2025-03-24T16:49:08.224-1000] {processor.py:186} INFO - Started process (PID=33176) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:49:08.226-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:49:08.226-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:08.226-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:49:08.232-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:08.232-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:49:08.233-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:49:08.258-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:08.258-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:08.261-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:08.261-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:49:08.266-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.042 seconds
+[2025-03-24T16:51:02.884-1000] {processor.py:186} INFO - Started process (PID=33609) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:51:02.884-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:51:02.885-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:02.885-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:51:02.891-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:02.891-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:51:02.892-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:51:02.916-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:02.916-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:02.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:02.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:51:02.924-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2025-03-24T16:52:58.061-1000] {processor.py:186} INFO - Started process (PID=34041) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:52:58.061-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:52:58.061-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:58.061-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:52:58.067-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:58.067-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:52:58.068-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:52:58.093-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:58.093-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:58.096-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:58.096-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:52:58.101-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2025-03-24T16:54:53.582-1000] {processor.py:186} INFO - Started process (PID=34477) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:54:53.582-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:54:53.583-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:53.582-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:54:53.589-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:53.589-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:54:53.590-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:54:53.614-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:53.614-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:53.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:53.616-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:54:53.621-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T16:56:44.840-1000] {processor.py:186} INFO - Started process (PID=34894) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:56:44.840-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:56:44.840-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:44.840-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:56:44.846-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:44.846-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:56:44.847-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:56:44.871-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:44.871-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:44.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:44.873-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:56:44.878-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T16:58:32.874-1000] {processor.py:186} INFO - Started process (PID=35313) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:58:32.874-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T16:58:32.874-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:32.874-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:58:32.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:32.880-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T16:58:32.881-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T16:58:32.905-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:32.904-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:32.907-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:32.907-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T16:58:32.912-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:00:26.057-1000] {processor.py:186} INFO - Started process (PID=35738) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:00:26.058-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:00:26.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:26.058-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:00:26.064-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:26.064-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:00:26.065-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:00:26.089-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:26.089-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:26.092-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:26.092-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:00:26.096-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T17:02:25.600-1000] {processor.py:186} INFO - Started process (PID=36190) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:02:25.600-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:02:25.600-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:25.600-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:02:25.606-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:25.606-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:02:25.607-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:02:25.632-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:25.631-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:25.634-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:25.634-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:02:25.639-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2025-03-24T17:04:20.407-1000] {processor.py:186} INFO - Started process (PID=36621) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:04:20.407-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:04:20.407-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:20.407-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:04:20.413-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:20.413-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:04:20.414-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:04:20.438-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:20.437-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:20.440-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:20.440-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:04:20.445-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:06:10.825-1000] {processor.py:186} INFO - Started process (PID=37038) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:06:10.826-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:06:10.826-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:10.826-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:06:10.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:10.832-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:06:10.833-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:06:10.856-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:10.856-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:10.859-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:10.859-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:06:10.864-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T17:07:58.843-1000] {processor.py:186} INFO - Started process (PID=37481) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:07:58.843-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:07:58.843-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:58.843-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:07:58.849-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:58.849-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:07:58.850-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:07:58.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:58.873-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:58.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:58.876-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:07:58.881-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:09:50.456-1000] {processor.py:186} INFO - Started process (PID=37908) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:09:50.456-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:09:50.456-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:50.456-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:09:50.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:50.462-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:09:50.463-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:09:50.487-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:50.487-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:50.489-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:50.489-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:09:50.494-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:11:39.775-1000] {processor.py:186} INFO - Started process (PID=38326) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:11:39.776-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:11:39.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:39.776-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:11:39.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:39.782-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:11:39.783-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:11:39.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:39.806-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:39.808-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:39.808-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:11:39.813-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:13:27.034-1000] {processor.py:186} INFO - Started process (PID=38732) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:13:27.035-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:13:27.035-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:27.035-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:13:27.041-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:27.041-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:13:27.042-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:13:27.065-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:27.065-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:27.068-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:27.068-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:13:27.073-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:15:15.761-1000] {processor.py:186} INFO - Started process (PID=39147) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:15:15.762-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:15:15.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:15.762-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:15:15.768-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:15.768-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:15:15.769-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:15:15.792-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:15.792-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:15.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:15.795-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:15:15.800-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:17:06.358-1000] {processor.py:186} INFO - Started process (PID=39563) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:17:06.358-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:17:06.358-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:06.358-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:17:06.364-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:06.364-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:17:06.365-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:17:06.389-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:06.388-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:06.391-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:06.391-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:17:06.396-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:18:55.359-1000] {processor.py:186} INFO - Started process (PID=39994) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:18:55.360-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:18:55.360-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:55.360-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:18:55.366-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:55.366-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:18:55.367-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:18:55.390-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:55.390-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:55.393-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:55.392-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:18:55.397-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:20:48.011-1000] {processor.py:186} INFO - Started process (PID=40434) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:20:48.012-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:20:48.012-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:48.012-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:20:48.019-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:48.019-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:20:48.019-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:20:48.043-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:48.043-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:48.046-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:48.046-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:20:48.050-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T17:22:40.042-1000] {processor.py:186} INFO - Started process (PID=40874) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:22:40.043-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:22:40.043-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:40.043-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:22:40.049-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:40.049-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:22:40.050-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:22:40.074-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:40.074-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:40.076-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:40.076-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:22:40.081-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T17:24:31.855-1000] {processor.py:186} INFO - Started process (PID=41308) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:24:31.856-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:24:31.856-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:31.856-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:24:31.862-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:31.862-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:24:31.863-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:24:31.886-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:31.886-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:31.889-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:31.889-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:24:31.893-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.040 seconds
+[2025-03-24T17:26:31.642-1000] {processor.py:186} INFO - Started process (PID=41836) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:26:31.643-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:26:31.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:31.643-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:26:31.650-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:31.650-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:26:31.651-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:26:31.675-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:31.675-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:31.678-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:31.678-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:26:31.682-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2025-03-24T17:28:26.805-1000] {processor.py:186} INFO - Started process (PID=42317) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:28:26.806-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:28:26.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:26.806-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:28:26.812-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:26.812-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:28:26.813-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:28:26.836-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:26.836-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:26.839-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:26.839-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:28:26.844-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:30:19.616-1000] {processor.py:186} INFO - Started process (PID=42780) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:30:19.617-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:30:19.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:19.617-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:30:19.623-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:19.623-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:30:19.624-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:30:19.647-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:19.647-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:19.650-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:19.650-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:30:19.655-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.039 seconds
+[2025-03-24T17:32:23.080-1000] {processor.py:186} INFO - Started process (PID=43313) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:32:23.081-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-03-24T17:32:23.081-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:23.081-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:32:23.087-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:23.087-1000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-03-24T17:32:23.088-1000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-03-24T17:32:23.112-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:23.112-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:23.115-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:23.115-1000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-03-24T17:32:23.119-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds

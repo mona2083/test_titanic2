@@ -1,0 +1,385 @@
+[2025-03-24T15:51:14.047-1000] {processor.py:186} INFO - Started process (PID=18921) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:51:14.047-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T15:51:14.048-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:14.047-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:51:14.050-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:51:14.077-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:14.077-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:14.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:14.080-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T15:51:14.086-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2025-03-24T15:52:49.841-1000] {processor.py:186} INFO - Started process (PID=19955) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:52:49.842-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T15:52:49.842-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:49.842-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:52:49.845-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:52:49.870-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:49.870-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:49.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:49.873-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T15:52:49.878-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2025-03-24T15:54:43.541-1000] {processor.py:186} INFO - Started process (PID=20402) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:54:43.542-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T15:54:43.543-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:43.542-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:54:43.545-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:54:43.570-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:43.570-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:43.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:43.572-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T15:54:43.577-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T15:56:32.929-1000] {processor.py:186} INFO - Started process (PID=20829) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:56:32.930-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T15:56:32.931-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:32.931-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:56:32.933-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:56:32.958-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:32.958-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:56:32.961-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:32.961-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T15:56:32.966-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T15:58:19.411-1000] {processor.py:186} INFO - Started process (PID=21242) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:58:19.411-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T15:58:19.411-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:19.411-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:58:19.414-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T15:58:19.439-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:19.439-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:19.442-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:19.442-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T15:58:19.447-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2025-03-24T16:00:07.935-1000] {processor.py:186} INFO - Started process (PID=21671) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:00:07.936-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:00:07.936-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:07.936-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:00:07.939-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:00:07.964-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:07.964-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:00:07.966-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:07.966-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:00:07.971-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2025-03-24T16:02:19.694-1000] {processor.py:186} INFO - Started process (PID=22149) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:02:19.695-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:02:19.695-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:19.695-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:02:19.697-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:02:19.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:19.721-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:19.724-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:19.724-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:02:19.729-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:04:08.004-1000] {processor.py:186} INFO - Started process (PID=22564) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:04:08.005-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:04:08.005-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:08.005-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:04:08.007-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:04:08.032-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:08.032-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:08.034-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:08.034-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:04:08.040-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2025-03-24T16:05:51.976-1000] {processor.py:186} INFO - Started process (PID=22961) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:05:51.976-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:05:51.976-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:51.976-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:05:51.979-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:05:52.003-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:52.003-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:52.006-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:52.006-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:05:52.011-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:07:42.423-1000] {processor.py:186} INFO - Started process (PID=23416) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:07:42.423-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:07:42.423-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:42.423-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:07:42.426-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:07:42.450-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:42.450-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:42.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:42.453-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:07:42.458-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:09:36.565-1000] {processor.py:186} INFO - Started process (PID=23845) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:09:36.565-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:09:36.566-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:36.566-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:09:36.568-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:09:36.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:36.593-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:36.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:36.595-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:09:36.600-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T16:11:38.953-1000] {processor.py:186} INFO - Started process (PID=24341) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:11:38.954-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:11:38.954-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:38.954-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:11:38.957-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:11:38.981-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:38.981-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:38.984-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:38.984-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:11:38.989-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:13:39.436-1000] {processor.py:186} INFO - Started process (PID=24856) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:13:39.437-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:13:39.438-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:39.437-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:13:39.440-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:13:39.464-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:39.464-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:39.467-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:39.467-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:13:39.472-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:15:31.286-1000] {processor.py:186} INFO - Started process (PID=25279) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:15:31.286-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:15:31.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:31.287-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:15:31.289-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:15:31.313-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:31.313-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:31.316-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:31.316-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:15:31.321-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:17:21.957-1000] {processor.py:186} INFO - Started process (PID=25722) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:17:21.957-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:17:21.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:21.957-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:17:21.960-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:17:21.984-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:21.984-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:21.986-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:21.986-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:17:21.991-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:19:13.546-1000] {processor.py:186} INFO - Started process (PID=26171) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:19:13.547-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:19:13.547-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:13.547-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:19:13.549-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:19:13.574-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:13.574-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:13.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:13.577-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:19:13.582-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T16:21:04.127-1000] {processor.py:186} INFO - Started process (PID=26594) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:21:04.128-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:21:04.128-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:04.128-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:21:04.131-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:21:04.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:04.155-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:04.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:04.158-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:21:04.163-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T16:22:55.548-1000] {processor.py:186} INFO - Started process (PID=27027) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:22:55.548-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:22:55.549-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:55.548-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:22:55.551-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:22:55.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:55.575-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:55.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:55.578-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:22:55.583-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:24:49.425-1000] {processor.py:186} INFO - Started process (PID=27465) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:24:49.426-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:24:49.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:49.426-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:24:49.428-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:24:49.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:49.453-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:49.455-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:49.455-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:24:49.460-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:26:41.259-1000] {processor.py:186} INFO - Started process (PID=27885) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:26:41.259-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:26:41.259-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:41.259-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:26:41.262-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:26:41.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:41.286-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:41.289-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:41.289-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:26:41.294-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:28:30.756-1000] {processor.py:186} INFO - Started process (PID=28303) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:28:30.756-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:28:30.757-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:30.757-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:28:30.759-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:28:30.783-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:30.783-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:30.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:30.786-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:28:30.791-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:30:17.713-1000] {processor.py:186} INFO - Started process (PID=28707) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:30:17.714-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:30:17.714-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:17.714-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:30:17.716-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:30:17.740-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:17.740-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:17.743-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:17.743-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:30:17.748-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T16:32:07.314-1000] {processor.py:186} INFO - Started process (PID=29119) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:32:07.314-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:32:07.314-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:07.314-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:32:07.317-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:32:07.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:07.341-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:07.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:07.343-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:32:07.348-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:33:56.179-1000] {processor.py:186} INFO - Started process (PID=29555) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:33:56.179-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:33:56.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:56.180-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:33:56.182-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:33:56.206-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:56.206-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:56.209-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:56.209-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:33:56.214-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:35:46.386-1000] {processor.py:186} INFO - Started process (PID=29970) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:35:46.386-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:35:46.386-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:46.386-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:35:46.389-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:35:46.413-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:46.413-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:46.416-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:46.416-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:35:46.421-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:37:37.099-1000] {processor.py:186} INFO - Started process (PID=30396) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:37:37.099-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:37:37.099-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:37.099-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:37:37.102-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:37:37.127-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:37.127-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:37.130-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:37.130-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:37:37.135-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2025-03-24T16:39:33.105-1000] {processor.py:186} INFO - Started process (PID=30848) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:39:33.106-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:39:33.106-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:33.106-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:39:33.109-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:39:33.133-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:33.133-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:33.136-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:33.135-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:39:33.140-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:41:30.265-1000] {processor.py:186} INFO - Started process (PID=31299) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:41:30.265-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:41:30.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:30.265-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:41:30.268-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:41:30.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:30.292-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:30.295-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:30.295-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:41:30.300-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-03-24T16:43:23.845-1000] {processor.py:186} INFO - Started process (PID=31743) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:43:23.846-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:43:23.847-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:23.847-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:43:23.849-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:43:23.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:23.873-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:23.876-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:23.876-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:43:23.881-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.056 seconds
+[2025-03-24T16:45:14.399-1000] {processor.py:186} INFO - Started process (PID=32160) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:45:14.399-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:45:14.399-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:14.399-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:45:14.402-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:45:14.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:14.426-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:14.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:14.429-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:45:14.434-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:47:05.318-1000] {processor.py:186} INFO - Started process (PID=32605) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:47:05.319-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:47:05.320-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:05.320-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:47:05.322-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:47:05.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:05.346-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:05.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:05.349-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:47:05.353-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2025-03-24T16:49:03.103-1000] {processor.py:186} INFO - Started process (PID=33160) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:49:03.104-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:49:03.105-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:03.105-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:49:03.107-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:49:03.132-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:03.132-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:03.135-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:03.135-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:49:03.140-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.038 seconds
+[2025-03-24T16:50:58.116-1000] {processor.py:186} INFO - Started process (PID=33589) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:50:58.117-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:50:58.117-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:58.117-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:50:58.120-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:50:58.144-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:58.144-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:58.147-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:58.147-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:50:58.152-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T16:52:52.717-1000] {processor.py:186} INFO - Started process (PID=34025) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:52:52.718-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:52:52.719-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:52.718-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:52:52.721-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:52:52.747-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:52.746-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:52.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:52.750-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:52:52.755-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.039 seconds
+[2025-03-24T16:54:49.213-1000] {processor.py:186} INFO - Started process (PID=34461) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:54:49.213-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:54:49.213-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:49.213-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:54:49.215-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:54:49.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:49.240-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:49.243-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:49.243-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:54:49.248-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T16:56:39.566-1000] {processor.py:186} INFO - Started process (PID=34873) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:56:39.566-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:56:39.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:39.566-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:56:39.569-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:56:39.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:39.593-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:39.596-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:39.596-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:56:39.601-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T16:58:27.643-1000] {processor.py:186} INFO - Started process (PID=35289) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:58:27.644-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T16:58:27.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:27.644-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:58:27.646-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T16:58:27.670-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:27.670-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:27.674-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:27.673-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T16:58:27.678-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:00:21.029-1000] {processor.py:186} INFO - Started process (PID=35717) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:00:21.029-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:00:21.030-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:21.029-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:00:21.032-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:00:21.056-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:21.056-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:21.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:21.059-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:00:21.064-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:02:20.322-1000] {processor.py:186} INFO - Started process (PID=36174) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:02:20.322-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:02:20.322-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:20.322-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:02:20.324-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:02:20.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:20.349-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:20.352-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:20.352-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:02:20.357-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:04:15.177-1000] {processor.py:186} INFO - Started process (PID=36600) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:04:15.178-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:04:15.178-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:15.178-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:04:15.181-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:04:15.205-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:15.205-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:15.208-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:15.208-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:04:15.213-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2025-03-24T17:06:05.624-1000] {processor.py:186} INFO - Started process (PID=37017) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:06:05.625-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:06:05.625-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:05.625-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:06:05.627-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:06:05.652-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:05.652-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:05.655-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:05.655-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:06:05.660-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2025-03-24T17:07:53.616-1000] {processor.py:186} INFO - Started process (PID=37465) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:07:53.616-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:07:53.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:53.617-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:07:53.619-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:07:53.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:53.643-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:53.646-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:53.646-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:07:53.651-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:09:46.149-1000] {processor.py:186} INFO - Started process (PID=37891) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:09:46.149-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:09:46.149-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:46.149-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:09:46.152-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:09:46.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:46.175-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:46.178-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:46.178-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:09:46.183-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2025-03-24T17:11:34.687-1000] {processor.py:186} INFO - Started process (PID=38308) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:11:34.688-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:11:34.688-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:34.688-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:11:34.690-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:11:34.714-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:34.714-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:34.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:34.720-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:11:34.725-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.038 seconds
+[2025-03-24T17:13:21.829-1000] {processor.py:186} INFO - Started process (PID=38716) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:13:21.829-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:13:21.829-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:21.829-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:13:21.832-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:13:21.855-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:21.855-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:21.858-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:21.858-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:13:21.863-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2025-03-24T17:15:10.523-1000] {processor.py:186} INFO - Started process (PID=39131) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:15:10.524-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:15:10.524-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:10.524-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:15:10.526-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:15:10.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:10.550-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:10.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:10.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:15:10.558-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2025-03-24T17:17:01.848-1000] {processor.py:186} INFO - Started process (PID=39547) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:17:01.849-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:17:01.849-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:01.849-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:17:01.851-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:17:01.875-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:01.875-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:01.878-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:01.878-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:17:01.883-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2025-03-24T17:18:50.090-1000] {processor.py:186} INFO - Started process (PID=39978) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:18:50.091-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:18:50.091-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:50.091-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:18:50.094-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:18:50.118-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:50.118-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:50.121-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:50.121-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:18:50.125-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:20:43.309-1000] {processor.py:186} INFO - Started process (PID=40417) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:20:43.309-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:20:43.309-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:43.309-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:20:43.312-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:20:43.337-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:43.337-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:43.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:43.340-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:20:43.345-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2025-03-24T17:22:35.607-1000] {processor.py:186} INFO - Started process (PID=40858) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:22:35.608-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:22:35.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:35.608-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:22:35.611-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:22:35.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:35.635-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:35.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:35.638-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:22:35.643-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:24:27.547-1000] {processor.py:186} INFO - Started process (PID=41292) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:24:27.548-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:24:27.548-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:27.548-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:24:27.550-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:24:27.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:27.575-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:27.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:27.578-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:24:27.582-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:26:26.351-1000] {processor.py:186} INFO - Started process (PID=41818) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:26:26.352-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:26:26.352-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:26.352-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:26:26.354-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:26:26.379-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:26.379-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:26.382-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:26.382-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:26:26.387-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2025-03-24T17:28:21.490-1000] {processor.py:186} INFO - Started process (PID=42295) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:28:21.491-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:28:21.491-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:21.491-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:28:21.493-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:28:21.517-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:21.517-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:21.520-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:21.520-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:28:21.525-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:30:14.315-1000] {processor.py:186} INFO - Started process (PID=42757) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:30:14.316-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:30:14.316-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:14.316-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:30:14.318-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:30:14.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:14.342-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:14.345-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:14.345-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:30:14.350-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds
+[2025-03-24T17:32:17.808-1000] {processor.py:186} INFO - Started process (PID=43292) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:32:17.809-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-03-24T17:32:17.810-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:17.809-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:32:17.812-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-03-24T17:32:17.836-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:17.836-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:17.839-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:17.839-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-03-24T17:32:17.844-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds

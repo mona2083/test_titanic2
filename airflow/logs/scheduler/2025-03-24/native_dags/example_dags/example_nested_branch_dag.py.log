@@ -1,0 +1,15 @@
+[2025-03-24T13:50:24.145-1000] {processor.py:186} INFO - Started process (PID=9521) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-24T13:50:24.145-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-03-24T13:50:24.146-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.145-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-24T13:50:24.156-1000] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-03-24T13:50:24.201-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.201-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2025-03-24T13:50:24.203-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.203-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2025-03-24T13:50:24.204-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.204-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2025-03-24T13:50:24.206-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.206-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_nested_branch_dag
+[2025-03-24T13:50:24.207-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.207-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_nested_branch_dag
+[2025-03-24T13:50:24.209-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.209-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_nested_branch_dag
+[2025-03-24T13:50:24.210-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.210-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_nested_branch_dag
+[2025-03-24T13:50:24.210-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.210-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:24.213-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.213-1000] {dag.py:3262} INFO - Creating ORM DAG for example_nested_branch_dag
+[2025-03-24T13:50:24.215-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:24.215-1000] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-03-23 00:00:00+00:00, run_after=2025-03-24 00:00:00+00:00
+[2025-03-24T13:50:24.220-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.096 seconds

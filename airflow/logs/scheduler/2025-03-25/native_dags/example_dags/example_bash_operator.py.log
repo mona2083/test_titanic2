@@ -1,0 +1,393 @@
+[2025-03-24T15:52:05.221-1000] {processor.py:186} INFO - Started process (PID=19601) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:52:05.221-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T15:52:05.222-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.222-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:52:05.226-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:52:05.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.280-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-03-24T15:52:05.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.283-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-03-24T15:52:05.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.284-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-03-24T15:52:05.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.286-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_bash_operator
+[2025-03-24T15:52:05.288-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.288-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_bash_operator
+[2025-03-24T15:52:05.290-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.290-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_bash_operator
+[2025-03-24T15:52:05.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.291-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_bash_operator
+[2025-03-24T15:52:05.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.292-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:05.296-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.296-1000] {dag.py:3262} INFO - Creating ORM DAG for example_bash_operator
+[2025-03-24T15:52:05.298-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:05.298-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:52:05.303-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2025-03-24T15:54:06.903-1000] {processor.py:186} INFO - Started process (PID=20263) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:54:06.904-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T15:54:06.905-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:06.904-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:54:06.908-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:54:06.935-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:06.935-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:06.940-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:06.940-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:54:06.944-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T15:55:56.283-1000] {processor.py:186} INFO - Started process (PID=20681) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:55:56.284-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T15:55:56.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:56.284-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:55:56.287-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:55:56.314-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:56.314-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:56.319-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:56.319-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:55:56.324-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T15:57:45.010-1000] {processor.py:186} INFO - Started process (PID=21099) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:57:45.011-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T15:57:45.011-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:45.011-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:57:45.014-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:57:45.040-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:45.040-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:45.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:45.045-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:57:45.050-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T15:59:31.179-1000] {processor.py:186} INFO - Started process (PID=21516) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:59:31.180-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T15:59:31.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:31.180-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:59:31.184-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T15:59:31.210-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:31.210-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:31.214-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:31.214-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:59:31.219-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:01:44.955-1000] {processor.py:186} INFO - Started process (PID=22020) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:01:44.956-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:01:44.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:44.957-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:01:44.960-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:01:44.986-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:44.986-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:44.991-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:44.991-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:01:44.995-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:03:33.187-1000] {processor.py:186} INFO - Started process (PID=22434) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:03:33.187-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:03:33.187-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:33.187-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:03:33.190-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:03:33.216-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:33.216-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:33.221-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:33.221-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:03:33.226-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:05:18.767-1000] {processor.py:186} INFO - Started process (PID=22834) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:05:18.768-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:05:18.768-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:18.768-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:05:18.771-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:05:18.797-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:18.797-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:18.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:18.802-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:05:18.807-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:07:08.292-1000] {processor.py:186} INFO - Started process (PID=23285) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:07:08.292-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:07:08.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:08.292-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:07:08.296-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:07:08.322-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:08.322-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:08.326-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:08.326-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:07:08.331-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:09:00.137-1000] {processor.py:186} INFO - Started process (PID=23705) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:09:00.138-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:09:00.138-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:00.138-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:09:00.141-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:09:00.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:00.167-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:00.172-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:00.172-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:09:00.176-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:11:01.616-1000] {processor.py:186} INFO - Started process (PID=24198) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:11:01.617-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:11:01.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:01.617-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:11:01.621-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:11:01.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:01.649-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:01.654-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:01.654-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:11:01.659-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2025-03-24T16:12:59.325-1000] {processor.py:186} INFO - Started process (PID=24698) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:12:59.326-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:12:59.326-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:59.326-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:12:59.330-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:12:59.356-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:59.356-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:59.361-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:59.361-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:12:59.366-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T16:14:55.791-1000] {processor.py:186} INFO - Started process (PID=25146) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:14:55.793-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:14:55.793-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:55.793-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:14:55.796-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:14:55.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:55.822-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:55.827-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:55.827-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:14:55.832-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:16:48.446-1000] {processor.py:186} INFO - Started process (PID=25596) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:16:48.447-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:16:48.447-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:48.447-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:16:48.450-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:16:48.476-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:48.476-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:48.481-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:48.481-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:16:48.485-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:18:39.220-1000] {processor.py:186} INFO - Started process (PID=26042) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:18:39.221-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:18:39.221-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:39.221-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:18:39.224-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:18:39.250-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:39.250-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:39.255-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:39.254-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:18:39.259-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2025-03-24T16:20:31.286-1000] {processor.py:186} INFO - Started process (PID=26469) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:20:31.287-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:20:31.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:31.287-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:20:31.291-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:20:31.317-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:31.317-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:31.322-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:31.322-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:20:31.326-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:22:20.953-1000] {processor.py:186} INFO - Started process (PID=26882) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:22:20.954-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:22:20.954-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:20.954-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:22:20.958-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:22:20.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:20.985-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:20.990-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:20.990-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:22:20.995-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2025-03-24T16:24:13.727-1000] {processor.py:186} INFO - Started process (PID=27329) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:24:13.727-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:24:13.727-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:13.727-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:24:13.731-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:24:13.758-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:13.758-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:13.763-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:13.763-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:24:13.769-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2025-03-24T16:26:06.463-1000] {processor.py:186} INFO - Started process (PID=27757) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:26:06.463-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:26:06.463-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:06.463-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:26:06.467-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:26:06.493-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:06.493-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:06.498-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:06.498-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:26:06.503-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T16:27:56.786-1000] {processor.py:186} INFO - Started process (PID=28177) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:27:56.787-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:27:56.787-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:56.787-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:27:56.790-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:27:56.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:56.816-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:56.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:56.821-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:27:56.826-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:29:43.645-1000] {processor.py:186} INFO - Started process (PID=28580) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:29:43.646-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:29:43.646-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:43.646-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:29:43.649-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:29:43.675-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:43.675-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:43.679-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:43.679-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:29:43.684-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:31:32.855-1000] {processor.py:186} INFO - Started process (PID=28991) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:31:32.855-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:31:32.856-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:32.855-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:31:32.859-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:31:32.885-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:32.884-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:32.889-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:32.889-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:31:32.894-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:33:22.274-1000] {processor.py:186} INFO - Started process (PID=29425) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:33:22.274-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:33:22.274-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:22.274-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:33:22.278-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:33:22.303-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:22.303-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:22.308-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:22.308-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:33:22.313-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:35:12.313-1000] {processor.py:186} INFO - Started process (PID=29842) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:35:12.314-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:35:12.314-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:12.314-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:35:12.317-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:35:12.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:12.343-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:12.347-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:12.347-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:35:12.352-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:37:01.332-1000] {processor.py:186} INFO - Started process (PID=30253) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:37:01.332-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:37:01.333-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:01.333-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:37:01.336-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:37:01.362-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:01.362-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:01.366-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:01.366-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:37:01.371-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:38:57.320-1000] {processor.py:186} INFO - Started process (PID=30714) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:38:57.320-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:38:57.320-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:57.320-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:38:57.324-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:38:57.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:57.349-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:57.354-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:57.354-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:38:57.359-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.061 seconds
+[2025-03-24T16:40:53.952-1000] {processor.py:186} INFO - Started process (PID=31162) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:40:53.952-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:40:53.952-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:53.952-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:40:53.956-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:40:53.982-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:53.982-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:53.986-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:53.986-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:40:53.991-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:42:49.062-1000] {processor.py:186} INFO - Started process (PID=31604) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:42:49.063-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:42:49.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:49.063-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:42:49.067-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:42:49.093-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:49.093-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:49.097-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:49.097-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:42:49.102-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.060 seconds
+[2025-03-24T16:44:40.614-1000] {processor.py:186} INFO - Started process (PID=32035) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:44:40.614-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:44:40.615-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:40.615-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:44:40.618-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:44:40.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:40.644-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:40.648-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:40.648-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:44:40.653-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:46:30.778-1000] {processor.py:186} INFO - Started process (PID=32457) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:46:30.778-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:46:30.779-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:30.779-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:46:30.782-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:46:30.808-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:30.808-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:30.813-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:30.813-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:46:30.818-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.059 seconds
+[2025-03-24T16:48:24.628-1000] {processor.py:186} INFO - Started process (PID=32940) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:48:24.629-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:48:24.629-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:24.629-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:48:24.632-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:48:24.658-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:24.658-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:24.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:24.663-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:48:24.668-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T16:50:21.035-1000] {processor.py:186} INFO - Started process (PID=33454) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:50:21.036-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:50:21.036-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:21.036-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:50:21.039-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:50:21.066-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:21.066-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:21.071-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:21.071-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:50:21.076-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2025-03-24T16:52:16.548-1000] {processor.py:186} INFO - Started process (PID=33889) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:52:16.549-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:52:16.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:16.549-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:52:16.553-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:52:16.579-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:16.579-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:16.584-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:16.584-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:52:16.589-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.042 seconds
+[2025-03-24T16:54:15.460-1000] {processor.py:186} INFO - Started process (PID=34333) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:54:15.461-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:54:15.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:15.462-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:54:15.465-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:54:15.490-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:15.490-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:15.495-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:15.495-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:54:15.500-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T16:56:05.557-1000] {processor.py:186} INFO - Started process (PID=34745) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:56:05.557-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:56:05.558-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:05.558-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:56:05.562-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:56:05.588-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:05.587-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:05.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:05.593-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:56:05.598-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T16:57:54.034-1000] {processor.py:186} INFO - Started process (PID=35155) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:57:54.034-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:57:54.034-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:54.034-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:57:54.038-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:57:54.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:54.063-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:54.068-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:54.068-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:57:54.073-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T16:59:43.783-1000] {processor.py:186} INFO - Started process (PID=35584) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:59:43.783-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T16:59:43.783-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:43.783-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:59:43.787-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T16:59:43.813-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:43.813-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:43.818-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:43.818-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:59:43.823-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:01:42.314-1000] {processor.py:186} INFO - Started process (PID=36029) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:01:42.314-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:01:42.314-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:42.314-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:01:42.318-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:01:42.344-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:42.344-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:42.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:42.349-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:01:42.354-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:03:39.236-1000] {processor.py:186} INFO - Started process (PID=36473) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:03:39.236-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:03:39.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:39.236-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:03:39.240-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:03:39.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:39.265-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:39.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:39.270-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:03:39.275-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:05:33.745-1000] {processor.py:186} INFO - Started process (PID=36894) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:05:33.745-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:05:33.745-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:33.745-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:05:33.749-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:05:33.774-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:33.774-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:33.779-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:33.779-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:05:33.784-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:07:21.311-1000] {processor.py:186} INFO - Started process (PID=37339) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:07:21.311-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:07:21.312-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:21.312-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:07:21.315-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:07:21.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:21.340-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:21.345-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:21.345-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:07:21.350-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2025-03-24T17:09:12.643-1000] {processor.py:186} INFO - Started process (PID=37762) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:09:12.643-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:09:12.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:12.643-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:09:12.646-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:09:12.673-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:12.672-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:12.678-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:12.678-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:09:12.683-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:10:59.259-1000] {processor.py:186} INFO - Started process (PID=38168) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:10:59.259-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:10:59.260-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:59.260-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:10:59.263-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:10:59.288-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:59.288-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:59.292-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:59.292-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:10:59.297-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2025-03-24T17:12:47.745-1000] {processor.py:186} INFO - Started process (PID=38585) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:12:47.745-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:12:47.745-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:47.745-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:12:47.749-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:12:47.774-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:47.774-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:47.779-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:47.779-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:12:47.784-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:14:37.947-1000] {processor.py:186} INFO - Started process (PID=39003) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:14:37.947-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:14:37.948-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:37.947-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:14:37.951-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:14:37.976-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:37.976-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:37.981-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:37.981-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:14:37.986-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2025-03-24T17:16:28.353-1000] {processor.py:186} INFO - Started process (PID=39419) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:16:28.353-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:16:28.353-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:28.353-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:16:28.356-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:16:28.382-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:28.382-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:28.387-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:28.387-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:16:28.392-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:18:15.299-1000] {processor.py:186} INFO - Started process (PID=39826) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:18:15.299-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:18:15.299-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:15.299-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:18:15.302-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:18:15.327-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:15.327-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:15.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:15.332-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:18:15.337-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2025-03-24T17:20:06.173-1000] {processor.py:186} INFO - Started process (PID=40267) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:20:06.174-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:20:06.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:06.175-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:20:06.178-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:20:06.203-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:06.203-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:06.208-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:06.208-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:20:06.213-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:22:01.928-1000] {processor.py:186} INFO - Started process (PID=40716) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:22:01.929-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:22:01.930-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:01.929-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:22:01.933-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:22:01.959-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:01.958-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:01.963-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:01.963-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:22:01.968-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:23:51.132-1000] {processor.py:186} INFO - Started process (PID=41159) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:23:51.133-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:23:51.133-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:51.133-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:23:51.136-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:23:51.162-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:51.162-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:51.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:51.167-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:23:51.173-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.042 seconds
+[2025-03-24T17:25:43.824-1000] {processor.py:186} INFO - Started process (PID=41596) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:25:43.825-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:25:43.825-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:43.825-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:25:43.829-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:25:43.855-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:43.854-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:43.860-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:43.859-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:25:43.864-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:27:48.019-1000] {processor.py:186} INFO - Started process (PID=42156) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:27:48.020-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:27:48.020-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:48.020-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:27:48.023-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:27:48.049-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:48.049-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:48.054-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:48.054-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:27:48.058-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:29:40.798-1000] {processor.py:186} INFO - Started process (PID=42615) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:29:40.799-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:29:40.799-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:40.799-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:29:40.802-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:29:40.828-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:40.827-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:40.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:40.833-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:29:40.838-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2025-03-24T17:31:39.152-1000] {processor.py:186} INFO - Started process (PID=43148) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:31:39.153-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:31:39.154-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:39.154-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:31:39.157-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:31:39.183-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:39.183-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:39.188-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:39.188-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:31:39.192-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2025-03-24T17:33:37.248-1000] {processor.py:186} INFO - Started process (PID=43629) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:33:37.249-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-03-24T17:33:37.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:37.249-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:33:37.252-1000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-03-24T17:33:37.278-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:37.278-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:37.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:37.283-1000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:33:37.287-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds

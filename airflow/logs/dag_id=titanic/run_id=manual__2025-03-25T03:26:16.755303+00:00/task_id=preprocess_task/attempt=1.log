@@ -1,0 +1,49 @@
+[2025-03-24T17:26:19.126-1000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-24T17:26:19.128-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: titanic.preprocess_task manual__2025-03-25T03:26:16.755303+00:00 [queued]>
+[2025-03-24T17:26:19.129-1000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: titanic.preprocess_task manual__2025-03-25T03:26:16.755303+00:00 [queued]>
+[2025-03-24T17:26:19.129-1000] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2025-03-24T17:26:19.132-1000] {taskinstance.py:2890} INFO - Executing <Task(_PythonDecoratedOperator): preprocess_task> on 2025-03-25 03:26:16.755303+00:00
+[2025-03-24T17:26:19.137-1000] {standard_task_runner.py:72} INFO - Started process 41777 to run task
+[2025-03-24T17:26:19.140-1000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'titanic', 'preprocess_task', 'manual__2025-03-25T03:26:16.755303+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/titanic_airflow.py', '--cfg-path', '/var/folders/m_/z_1_g7ln0f54m3f57y9mjg440000gn/T/tmpwzbavpbw']
+[2025-03-24T17:26:19.141-1000] {standard_task_runner.py:105} INFO - Job 17: Subtask preprocess_task
+[2025-03-24T17:26:19.157-1000] {task_command.py:467} INFO - Running <TaskInstance: titanic.preprocess_task manual__2025-03-25T03:26:16.755303+00:00 [running]> on host mac.localdomain
+[2025-03-24T17:26:19.174-1000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='titanic' AIRFLOW_CTX_TASK_ID='preprocess_task' AIRFLOW_CTX_EXECUTION_DATE='2025-03-25T03:26:16.755303+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-25T03:26:16.755303+00:00'
+[2025-03-24T17:26:19.175-1000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-24T17:26:19.176-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-24T17:26:19.176-1000] {logging_mixin.py:190} INFO - Current task name:preprocess_task state:running start_date:2025-03-25 03:26:19.128398+00:00
+[2025-03-24T17:26:19.176-1000] {logging_mixin.py:190} INFO - Dag name:titanic and current dag run status:running
+[2025-03-24T17:26:19.176-1000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-24T17:26:19.185-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:74 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.187-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:77 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.189-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:98 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.190-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:101 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.192-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:127 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.193-1000] {logging_mixin.py:190} WARNING - /Users/manamioyama/Desktop/workspace/GA/ml_playground/ml_playground_test/manami/airflow/dags/python/titanic_preprocessing.py:130 FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+[2025-03-24T17:26:19.195-1000] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-24T17:26:19.196-1000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-24T17:26:19.197-1000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=titanic, task_id=preprocess_task, run_id=manual__2025-03-25T03:26:16.755303+00:00, execution_date=20250325T032616, start_date=20250325T032619, end_date=20250325T032619
+[2025-03-24T17:26:19.200-1000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-24T17:26:19.200-1000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-24T17:26:19.200-1000] {logging_mixin.py:190} INFO - Dag name:titanic queued_at:2025-03-25 03:26:16.759561+00:00
+[2025-03-24T17:26:19.200-1000] {logging_mixin.py:190} INFO - Task hostname:mac.localdomain operator:_PythonDecoratedOperator
+[2025-03-24T17:26:19.235-1000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-24T17:26:19.242-1000] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-24T17:26:19.242-1000] {local_task_job_runner.py:245} INFO - ::endgroup::

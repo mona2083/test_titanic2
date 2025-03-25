@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/3fc009f2ee5444a8b51e71e2af4d3457/artifacts
+deleted_time: 1742870272320
+end_time: 1742868631870
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 3fc009f2ee5444a8b51e71e2af4d3457
+run_name: big-cow-808
+run_uuid: 3fc009f2ee5444a8b51e71e2af4d3457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868631863
+status: 4
+tags: []
+user_id: manamioyama

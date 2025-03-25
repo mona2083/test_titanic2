@@ -1,0 +1,24 @@
+[2025-03-24T13:50:31.345-1000] {processor.py:186} INFO - Started process (PID=9546) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-03-24T13:50:31.345-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_inlet_event_extra.py for tasks to queue
+[2025-03-24T13:50:31.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.346-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-03-24T13:50:31.363-1000] {processor.py:925} INFO - DAG(s) 'read_dataset_event_from_classic', 'read_dataset_event' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2025-03-24T13:50:31.407-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.407-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:read_dataset_event_from_classic
+[2025-03-24T13:50:31.409-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.409-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:read_dataset_event_from_classic
+[2025-03-24T13:50:31.410-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.410-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:read_dataset_event_from_classic
+[2025-03-24T13:50:31.412-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.412-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:read_dataset_event_from_classic
+[2025-03-24T13:50:31.414-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.414-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:read_dataset_event_from_classic
+[2025-03-24T13:50:31.415-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.415-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:read_dataset_event_from_classic
+[2025-03-24T13:50:31.416-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.416-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:read_dataset_event_from_classic
+[2025-03-24T13:50:31.419-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.419-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:read_dataset_event
+[2025-03-24T13:50:31.420-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.420-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:read_dataset_event
+[2025-03-24T13:50:31.421-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.421-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:read_dataset_event
+[2025-03-24T13:50:31.423-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.423-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:read_dataset_event
+[2025-03-24T13:50:31.424-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.424-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:read_dataset_event
+[2025-03-24T13:50:31.425-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.425-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:read_dataset_event
+[2025-03-24T13:50:31.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.426-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:read_dataset_event
+[2025-03-24T13:50:31.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.426-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T13:50:31.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.429-1000] {dag.py:3262} INFO - Creating ORM DAG for read_dataset_event
+[2025-03-24T13:50:31.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.429-1000] {dag.py:3262} INFO - Creating ORM DAG for read_dataset_event_from_classic
+[2025-03-24T13:50:31.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.432-1000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2025-03-23 00:00:00+00:00, run_after=2025-03-24 00:00:00+00:00
+[2025-03-24T13:50:31.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:31.432-1000] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2025-03-23 00:00:00+00:00, run_after=2025-03-24 00:00:00+00:00
+[2025-03-24T13:50:31.436-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.111 seconds

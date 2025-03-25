@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/2fcf4984475d428a8461b69aa4ea3299/artifacts
+deleted_time: 1742870272319
+end_time: 1742868765929
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 2fcf4984475d428a8461b69aa4ea3299
+run_name: bittersweet-auk-721
+run_uuid: 2fcf4984475d428a8461b69aa4ea3299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868765924
+status: 3
+tags: []
+user_id: manamioyama

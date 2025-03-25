@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/1faa40a43525470fbd0daba04a5d0286/artifacts
+end_time: 1742870284080
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: active
+run_id: 1faa40a43525470fbd0daba04a5d0286
+run_name: gradient_boosting
+run_uuid: 1faa40a43525470fbd0daba04a5d0286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742870284074
+status: 3
+tags: []
+user_id: manamioyama

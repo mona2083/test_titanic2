@@ -1,0 +1,770 @@
+[2025-03-24T15:50:44.280-1000] {processor.py:186} INFO - Started process (PID=18536) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:50:44.280-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:50:44.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:44.281-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:50:44.291-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:50:44.317-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:44.317-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:50:44.321-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:50:44.321-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:50:44.327-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2025-03-24T15:52:21.524-1000] {processor.py:186} INFO - Started process (PID=19811) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:52:21.525-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:52:21.525-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:21.525-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:52:21.535-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:52:21.562-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:21.562-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:21.565-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:21.565-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:52:21.571-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.071 seconds
+[2025-03-24T15:53:25.544-1000] {processor.py:186} INFO - Started process (PID=20090) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:53:25.544-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:53:25.544-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:25.544-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:53:25.554-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:53:25.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:25.578-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:25.582-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:25.581-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:53:25.587-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.063 seconds
+[2025-03-24T15:54:23.131-1000] {processor.py:186} INFO - Started process (PID=20323) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:54:23.132-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:54:23.132-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:23.132-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:54:23.142-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:54:23.166-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:23.166-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:23.169-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:23.169-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:54:23.174-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T15:55:16.783-1000] {processor.py:186} INFO - Started process (PID=20531) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:55:16.784-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:55:16.784-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:16.784-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:55:16.793-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:55:16.817-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:16.817-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:16.820-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:16.820-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:55:16.825-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T15:56:12.481-1000] {processor.py:186} INFO - Started process (PID=20748) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:56:12.482-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:56:12.483-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:12.483-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:56:12.492-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:56:12.516-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:12.516-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:56:12.519-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:12.519-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:56:12.524-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.063 seconds
+[2025-03-24T15:57:05.857-1000] {processor.py:186} INFO - Started process (PID=20953) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:05.857-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:57:05.858-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:05.858-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:05.868-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:05.892-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:05.892-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:05.895-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:05.895-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:57:05.900-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T15:57:59.214-1000] {processor.py:186} INFO - Started process (PID=21156) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:59.214-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:57:59.215-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:59.215-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:59.224-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:57:59.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:59.248-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:59.251-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:59.251-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:57:59.256-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T15:58:52.133-1000] {processor.py:186} INFO - Started process (PID=21369) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:58:52.134-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:58:52.134-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:52.134-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:58:52.144-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:58:52.168-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:52.168-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:52.171-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:52.171-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:58:52.176-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.065 seconds
+[2025-03-24T15:59:45.785-1000] {processor.py:186} INFO - Started process (PID=21578) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:59:45.785-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T15:59:45.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:45.786-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:59:45.795-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T15:59:45.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:45.819-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:45.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:45.822-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T15:59:45.827-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.064 seconds
+[2025-03-24T16:01:03.988-1000] {processor.py:186} INFO - Started process (PID=21866) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:01:03.988-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:01:03.988-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:03.988-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:01:03.998-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:01:04.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:04.022-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:04.025-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:04.025-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:01:04.030-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:02:00.932-1000] {processor.py:186} INFO - Started process (PID=22080) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:00.932-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:02:00.932-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:00.932-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:00.941-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:00.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:00.965-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:00.968-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:00.968-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:02:00.973-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:02:54.286-1000] {processor.py:186} INFO - Started process (PID=22289) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:54.286-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:02:54.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:54.287-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:54.296-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:02:54.319-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:54.319-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:54.322-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:54.322-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:02:54.327-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:03:49.426-1000] {processor.py:186} INFO - Started process (PID=22496) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:03:49.426-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:03:49.427-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:49.426-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:03:49.436-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:03:49.459-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:49.459-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:49.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:49.462-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:03:49.467-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:04:42.847-1000] {processor.py:186} INFO - Started process (PID=22700) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:04:42.848-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:04:42.848-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:42.848-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:04:42.857-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:04:42.881-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:42.881-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:42.884-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:42.884-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:04:42.889-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:05:34.854-1000] {processor.py:186} INFO - Started process (PID=22897) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:05:34.854-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:05:34.854-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:34.854-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:05:34.863-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:05:34.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:34.887-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:34.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:34.890-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:05:34.895-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:06:26.974-1000] {processor.py:186} INFO - Started process (PID=23096) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:06:26.974-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:06:26.974-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:26.974-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:06:26.983-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:06:27.007-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:27.007-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:27.010-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:27.010-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:06:27.015-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:07:23.699-1000] {processor.py:186} INFO - Started process (PID=23340) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:07:23.700-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:07:23.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:23.700-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:07:23.709-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:07:23.732-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:23.732-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:23.735-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:23.735-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:07:23.740-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:08:19.290-1000] {processor.py:186} INFO - Started process (PID=23550) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:08:19.290-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:08:19.290-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:19.290-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:08:19.300-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:08:19.323-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:19.323-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:19.326-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:19.326-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:08:19.331-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:09:16.246-1000] {processor.py:186} INFO - Started process (PID=23765) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:09:16.246-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:09:16.247-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:16.247-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:09:16.256-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:09:16.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:16.280-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:16.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:16.283-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:09:16.288-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:10:13.113-1000] {processor.py:186} INFO - Started process (PID=23986) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:10:13.113-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:10:13.113-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:13.113-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:10:13.122-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:10:13.147-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:13.146-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:13.150-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:13.150-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:10:13.156-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.063 seconds
+[2025-03-24T16:11:17.468-1000] {processor.py:186} INFO - Started process (PID=24259) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:11:17.469-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:11:17.469-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:17.469-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:11:17.478-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:11:17.501-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:17.501-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:17.505-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:17.505-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:11:17.510-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.063 seconds
+[2025-03-24T16:12:15.590-1000] {processor.py:186} INFO - Started process (PID=24474) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:12:15.591-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:12:15.591-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:15.591-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:12:15.600-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:12:15.624-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:15.624-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:15.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:15.627-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:12:15.632-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:13:15.766-1000] {processor.py:186} INFO - Started process (PID=24761) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:13:15.766-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:13:15.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:15.766-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:13:15.776-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:13:15.801-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:15.801-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:15.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:15.804-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:13:15.810-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.066 seconds
+[2025-03-24T16:14:15.166-1000] {processor.py:186} INFO - Started process (PID=24993) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:14:15.167-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:14:15.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:15.167-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:14:15.176-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:14:15.201-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:15.201-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:15.204-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:15.204-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:14:15.209-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:15:11.313-1000] {processor.py:186} INFO - Started process (PID=25206) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:15:11.313-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:15:11.313-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:11.313-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:15:11.322-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:15:11.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:11.346-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:11.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:11.349-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:15:11.354-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:16:08.781-1000] {processor.py:186} INFO - Started process (PID=25448) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:16:08.781-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:16:08.782-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:08.781-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:16:08.791-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:16:08.814-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:08.814-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:08.817-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:08.817-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:16:08.822-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:17:02.288-1000] {processor.py:186} INFO - Started process (PID=25651) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:02.289-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:17:02.289-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:02.289-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:02.298-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:02.321-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:02.321-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:02.324-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:02.324-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:17:02.329-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:17:57.726-1000] {processor.py:186} INFO - Started process (PID=25861) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:57.727-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:17:57.727-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:57.727-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:57.736-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:17:57.759-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:57.759-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:57.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:57.762-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:17:57.767-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:18:54.644-1000] {processor.py:186} INFO - Started process (PID=26097) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:18:54.644-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:18:54.645-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:54.644-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:18:54.654-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:18:54.678-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:54.678-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:54.681-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:54.681-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:18:54.686-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:19:50.601-1000] {processor.py:186} INFO - Started process (PID=26318) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:19:50.603-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:19:50.603-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:50.603-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:19:50.612-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:19:50.636-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:50.636-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:50.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:50.639-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:19:50.644-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:20:46.121-1000] {processor.py:186} INFO - Started process (PID=26526) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:20:46.121-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:20:46.122-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:46.122-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:20:46.131-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:20:46.154-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:46.154-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:46.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:46.157-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:20:46.162-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:21:41.444-1000] {processor.py:186} INFO - Started process (PID=26734) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:21:41.445-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:21:41.445-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:41.445-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:21:41.454-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:21:41.477-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:41.477-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:41.480-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:41.480-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:21:41.485-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:22:36.665-1000] {processor.py:186} INFO - Started process (PID=26948) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:22:36.665-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:22:36.665-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:36.665-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:22:36.674-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:22:36.699-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:36.699-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:36.702-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:36.702-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:22:36.707-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:23:31.588-1000] {processor.py:186} INFO - Started process (PID=27161) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:23:31.588-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:23:31.588-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:31.588-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:23:31.597-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:23:31.621-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:31.621-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:31.624-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:31.624-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:23:31.629-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:24:29.399-1000] {processor.py:186} INFO - Started process (PID=27385) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:24:29.400-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:24:29.400-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:29.400-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:24:29.409-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:24:29.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:29.432-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:24:29.435-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:29.435-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:24:29.440-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:25:26.422-1000] {processor.py:186} INFO - Started process (PID=27600) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:25:26.422-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:25:26.423-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:26.423-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:25:26.432-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:25:26.455-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:26.455-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:26.459-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:26.458-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:25:26.464-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:26:22.582-1000] {processor.py:186} INFO - Started process (PID=27817) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:26:22.582-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:26:22.582-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:22.582-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:26:22.591-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:26:22.615-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:22.615-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:22.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:22.618-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:26:22.623-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.065 seconds
+[2025-03-24T16:27:16.371-1000] {processor.py:186} INFO - Started process (PID=28018) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:27:16.371-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:27:16.371-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:16.371-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:27:16.381-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:27:16.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:16.404-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:16.407-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:16.407-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:27:16.412-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:28:11.228-1000] {processor.py:186} INFO - Started process (PID=28232) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:28:11.229-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:28:11.229-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:11.229-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:28:11.238-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:28:11.262-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:11.262-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:11.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:11.265-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:28:11.270-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:29:05.831-1000] {processor.py:186} INFO - Started process (PID=28433) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:05.832-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:29:05.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:05.832-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:05.841-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:05.864-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:05.864-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:05.867-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:05.867-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:29:05.872-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:29:58.087-1000] {processor.py:186} INFO - Started process (PID=28635) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:58.091-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:29:58.094-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:58.093-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:58.102-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:29:58.127-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:58.127-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:58.130-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:58.130-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:29:58.135-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.067 seconds
+[2025-03-24T16:30:52.946-1000] {processor.py:186} INFO - Started process (PID=28838) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:30:52.946-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:30:52.946-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:52.946-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:30:52.955-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:30:52.979-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:52.979-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:52.982-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:52.982-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:30:52.987-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:31:47.789-1000] {processor.py:186} INFO - Started process (PID=29048) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:31:47.790-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:31:47.790-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:47.790-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:31:47.799-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:31:47.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:47.822-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:47.825-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:47.825-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:31:47.830-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:32:42.921-1000] {processor.py:186} INFO - Started process (PID=29277) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:32:42.921-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:32:42.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:42.921-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:32:42.931-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:32:42.954-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:42.954-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:42.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:42.957-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:32:42.962-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:33:38.340-1000] {processor.py:186} INFO - Started process (PID=29489) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:33:38.341-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:33:38.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:38.341-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:33:38.350-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:33:38.373-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:38.373-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:38.376-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:38.376-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:33:38.381-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:34:33.083-1000] {processor.py:186} INFO - Started process (PID=29688) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:34:33.083-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:34:33.083-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:33.083-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:34:33.092-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:34:33.115-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:33.115-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:33.118-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:33.118-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:34:33.123-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:35:26.767-1000] {processor.py:186} INFO - Started process (PID=29897) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:35:26.767-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:35:26.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:26.767-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:35:26.776-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:35:26.799-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:26.799-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:26.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:26.802-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:35:26.807-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:36:21.616-1000] {processor.py:186} INFO - Started process (PID=30100) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:36:21.616-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:36:21.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:21.616-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:36:21.625-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:36:21.648-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:21.648-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:21.651-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:21.651-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:36:21.657-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:37:16.342-1000] {processor.py:186} INFO - Started process (PID=30309) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:37:16.342-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:37:16.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:16.342-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:37:16.351-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:37:16.376-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:16.375-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:16.379-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:16.379-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:37:16.383-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.064 seconds
+[2025-03-24T16:38:14.920-1000] {processor.py:186} INFO - Started process (PID=30559) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:38:14.921-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:38:14.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:14.921-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:38:14.930-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:38:14.955-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:14.954-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:14.958-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:14.958-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:38:14.962-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:39:12.235-1000] {processor.py:186} INFO - Started process (PID=30769) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:39:12.236-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:39:12.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:12.236-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:39:12.245-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:39:12.268-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:12.268-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:12.272-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:12.271-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:39:12.277-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:40:10.564-1000] {processor.py:186} INFO - Started process (PID=30997) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:40:10.565-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:40:10.565-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:10.565-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:40:10.574-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:40:10.598-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:10.598-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:10.601-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:10.601-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:40:10.606-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:41:09.880-1000] {processor.py:186} INFO - Started process (PID=31224) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:41:09.880-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:41:09.881-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:09.881-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:41:09.890-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:41:09.913-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:09.913-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:09.916-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:09.916-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:41:09.921-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:42:08.362-1000] {processor.py:186} INFO - Started process (PID=31445) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:42:08.364-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:42:08.364-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:08.364-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:42:08.373-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:42:08.397-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:08.397-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:08.400-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:08.400-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:42:08.405-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:43:04.899-1000] {processor.py:186} INFO - Started process (PID=31671) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:43:04.899-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:43:04.900-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:04.900-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:43:04.909-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:43:04.933-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:04.933-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:04.936-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:04.936-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:43:04.941-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.064 seconds
+[2025-03-24T16:44:00.212-1000] {processor.py:186} INFO - Started process (PID=31882) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:00.212-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:44:00.213-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:00.213-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:00.222-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:00.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:00.245-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:00.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:00.248-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:44:00.253-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2025-03-24T16:44:55.573-1000] {processor.py:186} INFO - Started process (PID=32090) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:55.573-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:44:55.574-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:55.573-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:55.583-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:44:55.606-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:55.606-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:55.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:55.609-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:44:55.614-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2025-03-24T16:45:50.295-1000] {processor.py:186} INFO - Started process (PID=32299) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:45:50.296-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:45:50.296-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:50.296-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:45:50.305-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:45:50.329-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:50.329-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:50.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:50.332-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:45:50.337-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.061 seconds
+[2025-03-24T16:46:46.362-1000] {processor.py:186} INFO - Started process (PID=32527) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:46:46.363-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:46:46.363-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:46.363-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:46:46.374-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:46:46.400-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:46.400-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:46.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:46.404-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:46:46.409-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2025-03-24T16:47:40.860-1000] {processor.py:186} INFO - Started process (PID=32760) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:47:40.861-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:47:40.861-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:40.861-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:47:40.870-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:47:40.895-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:40.895-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:40.898-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:40.898-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:47:40.904-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.064 seconds
+[2025-03-24T16:48:41.046-1000] {processor.py:186} INFO - Started process (PID=33009) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:48:41.048-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:48:41.048-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:41.048-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:48:41.057-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:48:41.081-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:41.081-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:41.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:41.084-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:48:41.089-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T16:49:40.106-1000] {processor.py:186} INFO - Started process (PID=33297) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:49:40.107-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:49:40.107-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:40.107-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:49:40.116-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:49:40.140-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:40.140-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:40.143-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:40.143-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:49:40.148-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T16:50:36.049-1000] {processor.py:186} INFO - Started process (PID=33509) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:50:36.050-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:50:36.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:36.050-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:50:36.059-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:50:36.083-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:36.083-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:36.086-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:36.086-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:50:36.091-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T16:51:35.732-1000] {processor.py:186} INFO - Started process (PID=33733) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:51:35.733-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:51:35.733-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:35.733-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:51:35.742-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:51:35.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:35.766-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:35.769-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:35.769-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:51:35.774-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T16:52:32.826-1000] {processor.py:186} INFO - Started process (PID=33952) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:52:32.827-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:52:32.827-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:32.827-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:52:32.836-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:52:32.859-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:32.859-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:52:32.862-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:52:32.862-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:52:32.867-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T16:53:31.625-1000] {processor.py:186} INFO - Started process (PID=34163) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:53:31.626-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:53:31.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:31.627-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:53:31.636-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:53:31.660-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:31.660-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:31.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:31.663-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:53:31.668-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T16:54:30.848-1000] {processor.py:186} INFO - Started process (PID=34388) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:54:30.848-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:54:30.848-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:30.848-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:54:30.857-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:54:30.880-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:30.880-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:30.883-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:30.883-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:54:30.888-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T16:55:25.780-1000] {processor.py:186} INFO - Started process (PID=34594) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:55:25.781-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:55:25.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:25.781-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:55:25.790-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:55:25.813-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:25.813-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:55:25.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:25.816-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:55:25.821-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T16:56:20.032-1000] {processor.py:186} INFO - Started process (PID=34800) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:56:20.033-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:56:20.033-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:20.033-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:56:20.042-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:56:20.065-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:20.065-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:20.068-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:20.068-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:56:20.073-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T16:57:14.491-1000] {processor.py:186} INFO - Started process (PID=35006) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:57:14.492-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:57:14.492-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:14.492-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:57:14.501-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:57:14.524-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:14.524-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:14.527-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:14.527-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:57:14.532-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T16:58:08.716-1000] {processor.py:186} INFO - Started process (PID=35214) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:58:08.716-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:58:08.716-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:08.716-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:58:08.725-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:58:08.749-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:08.749-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:08.752-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:08.752-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:58:08.757-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T16:59:03.046-1000] {processor.py:186} INFO - Started process (PID=35431) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:59:03.046-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T16:59:03.046-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:03.046-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:59:03.056-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T16:59:03.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:03.080-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:03.083-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:03.083-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T16:59:03.088-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T17:00:00.115-1000] {processor.py:186} INFO - Started process (PID=35644) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:00.116-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:00:00.116-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:00.116-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:00.125-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:00.148-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:00.148-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:00.151-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:00.151-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:00:00.156-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:00:58.948-1000] {processor.py:186} INFO - Started process (PID=35858) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:58.949-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:00:58.949-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:58.949-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:58.959-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:00:58.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:58.984-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:58.987-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:58.987-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:00:58.992-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.045 seconds
+[2025-03-24T17:01:57.956-1000] {processor.py:186} INFO - Started process (PID=36085) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:01:57.956-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:01:57.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:57.956-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:01:57.965-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:01:57.989-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:57.989-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:57.992-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:57.992-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:01:57.997-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:02:57.543-1000] {processor.py:186} INFO - Started process (PID=36313) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:02:57.543-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:02:57.543-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:57.543-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:02:57.552-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:02:57.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:57.577-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:57.579-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:57.579-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:02:57.584-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T17:03:54.867-1000] {processor.py:186} INFO - Started process (PID=36528) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:03:54.867-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:03:54.867-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:54.867-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:03:54.876-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:03:54.900-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:54.900-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:54.902-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:54.902-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:03:54.907-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:04:51.925-1000] {processor.py:186} INFO - Started process (PID=36740) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:04:51.926-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:04:51.926-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:51.926-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:04:51.935-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:04:51.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:51.957-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:51.960-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:51.960-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:04:51.965-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.040 seconds
+[2025-03-24T17:05:47.676-1000] {processor.py:186} INFO - Started process (PID=36951) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:05:47.677-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:05:47.677-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:47.677-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:05:47.686-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:05:47.709-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:47.709-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:47.711-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:47.711-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:05:47.716-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:06:41.940-1000] {processor.py:186} INFO - Started process (PID=37153) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:06:41.940-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:06:41.940-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:41.940-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:06:41.949-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:06:41.973-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:41.973-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:41.975-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:41.975-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:06:41.980-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:07:35.107-1000] {processor.py:186} INFO - Started process (PID=37392) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:07:35.108-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:07:35.108-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:35.108-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:07:35.117-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:07:35.140-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:35.140-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:35.143-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:35.143-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:07:35.148-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:08:30.738-1000] {processor.py:186} INFO - Started process (PID=37602) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:08:30.738-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:08:30.738-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:30.738-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:08:30.747-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:08:30.770-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:30.770-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:30.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:30.772-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:08:30.777-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:09:27.288-1000] {processor.py:186} INFO - Started process (PID=37817) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:09:27.288-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:09:27.289-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:27.289-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:09:27.298-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:09:27.321-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:27.321-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:27.323-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:27.323-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:09:27.328-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:10:22.098-1000] {processor.py:186} INFO - Started process (PID=38025) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:10:22.098-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:10:22.098-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:22.098-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:10:22.107-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:10:22.130-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:22.130-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:22.133-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:22.133-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:10:22.138-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:11:15.086-1000] {processor.py:186} INFO - Started process (PID=38225) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:11:15.086-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:11:15.086-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:15.086-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:11:15.095-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:11:15.118-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:15.118-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:15.121-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:15.121-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:11:15.126-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:12:09.729-1000] {processor.py:186} INFO - Started process (PID=38438) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:12:09.730-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:12:09.730-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:09.730-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:12:09.739-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:12:09.762-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:09.762-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:09.765-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:09.765-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:12:09.770-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:13:03.129-1000] {processor.py:186} INFO - Started process (PID=38644) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:03.130-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:13:03.130-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:03.130-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:03.139-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:03.162-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:03.162-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:03.165-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:03.165-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:13:03.170-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:13:58.377-1000] {processor.py:186} INFO - Started process (PID=38851) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:58.377-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:13:58.377-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:58.377-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:58.386-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:13:58.409-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:58.409-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:58.412-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:58.412-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:13:58.417-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:14:52.576-1000] {processor.py:186} INFO - Started process (PID=39060) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:14:52.576-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:14:52.576-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:52.576-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:14:52.585-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:14:52.608-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:52.608-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:52.611-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:52.611-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:14:52.616-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:15:47.777-1000] {processor.py:186} INFO - Started process (PID=39266) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:15:47.777-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:15:47.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:47.777-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:15:47.786-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:15:47.810-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:47.809-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:47.812-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:47.812-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:15:47.817-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:16:43.175-1000] {processor.py:186} INFO - Started process (PID=39476) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:16:43.176-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:16:43.176-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:43.176-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:16:43.185-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:16:43.208-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:43.208-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:43.210-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:43.210-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:16:43.215-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.040 seconds
+[2025-03-24T17:17:36.417-1000] {processor.py:186} INFO - Started process (PID=39679) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:17:36.418-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:17:36.418-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:36.418-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:17:36.427-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:17:36.449-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:36.449-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:36.452-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:36.452-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:17:36.457-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.040 seconds
+[2025-03-24T17:18:30.340-1000] {processor.py:186} INFO - Started process (PID=39896) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:18:30.340-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:18:30.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:30.340-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:18:30.351-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:18:30.377-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:30.377-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:30.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:30.380-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:18:30.386-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.047 seconds
+[2025-03-24T17:19:26.497-1000] {processor.py:186} INFO - Started process (PID=40118) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:19:26.498-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:19:26.498-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:26.498-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:19:26.508-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:19:26.531-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:26.531-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:26.533-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:26.533-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:19:26.538-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:20:22.430-1000] {processor.py:186} INFO - Started process (PID=40327) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:20:22.430-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:20:22.431-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:22.431-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:20:22.439-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:20:22.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:22.462-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:22.465-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:22.465-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:20:22.470-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:21:20.721-1000] {processor.py:186} INFO - Started process (PID=40553) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:21:20.722-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:21:20.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:20.722-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:21:20.731-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:21:20.754-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:20.754-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:20.757-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:20.757-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:21:20.762-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:22:16.931-1000] {processor.py:186} INFO - Started process (PID=40774) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:22:16.932-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:22:16.933-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:16.933-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:22:16.942-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:22:16.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:16.965-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:16.967-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:16.967-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:22:16.972-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:23:11.196-1000] {processor.py:186} INFO - Started process (PID=41005) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:23:11.197-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:23:11.198-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:11.198-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:23:11.207-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:23:11.230-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:11.230-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:11.233-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:11.233-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:23:11.237-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:24:06.753-1000] {processor.py:186} INFO - Started process (PID=41216) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:24:06.753-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:24:06.753-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:06.753-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:24:06.762-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:24:06.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:06.786-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:06.789-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:06.789-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:24:06.794-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:25:02.616-1000] {processor.py:186} INFO - Started process (PID=41432) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:25:02.617-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:25:02.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:02.617-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:25:02.626-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:25:02.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:02.649-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:02.652-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:02.652-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:25:02.657-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:26:00.921-1000] {processor.py:186} INFO - Started process (PID=41666) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:26:00.922-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:26:00.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:00.922-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:26:00.932-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:26:00.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:00.955-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:00.958-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:00.958-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:26:00.963-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.043 seconds
+[2025-03-24T17:27:04.438-1000] {processor.py:186} INFO - Started process (PID=41973) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:27:04.439-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:27:04.439-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:04.439-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:27:04.448-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:27:04.472-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:04.472-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:04.474-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:04.474-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:27:04.479-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:28:01.887-1000] {processor.py:186} INFO - Started process (PID=42216) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:01.887-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:28:01.887-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:01.887-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:01.896-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:01.920-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:01.919-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:01.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:01.922-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:28:01.927-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:28:59.603-1000] {processor.py:186} INFO - Started process (PID=42445) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:59.603-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:28:59.603-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:59.603-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:59.612-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:28:59.636-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:59.636-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:59.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:59.639-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:28:59.643-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:29:55.683-1000] {processor.py:186} INFO - Started process (PID=42676) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:29:55.684-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:29:55.684-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:55.684-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:29:55.693-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:29:55.717-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:55.717-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:55.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:55.720-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:29:55.725-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:30:52.411-1000] {processor.py:186} INFO - Started process (PID=42926) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:30:52.412-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:30:52.412-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:52.412-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:30:52.421-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:30:52.444-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:52.444-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:52.447-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:52.447-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:30:52.452-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:31:54.625-1000] {processor.py:186} INFO - Started process (PID=43207) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:31:54.626-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:31:54.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:54.626-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:31:54.635-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:31:54.659-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:54.659-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:54.661-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:54.661-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:31:54.666-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2025-03-24T17:32:55.738-1000] {processor.py:186} INFO - Started process (PID=43435) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:32:55.739-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:32:55.739-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:55.739-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:32:55.748-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:32:55.771-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:55.771-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:55.774-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:55.774-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:32:55.778-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2025-03-24T17:33:53.427-1000] {processor.py:186} INFO - Started process (PID=43691) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:33:53.427-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-24T17:33:53.428-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:53.428-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:33:53.437-1000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-24T17:33:53.460-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:53.460-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:53.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:53.462-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-24T17:33:53.467-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds

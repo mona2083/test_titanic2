@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/4153f30a94954eaeae693b7ceb64d043/artifacts
+deleted_time: 1742870272319
+end_time: 1742868765968
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 4153f30a94954eaeae693b7ceb64d043
+run_name: nervous-grouse-260
+run_uuid: 4153f30a94954eaeae693b7ceb64d043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868765963
+status: 3
+tags: []
+user_id: manamioyama

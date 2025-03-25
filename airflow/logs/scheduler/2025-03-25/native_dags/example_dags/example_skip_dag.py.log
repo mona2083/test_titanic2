@@ -1,0 +1,392 @@
+[2025-03-24T15:51:07.815-1000] {processor.py:186} INFO - Started process (PID=18841) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:51:07.815-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:51:07.815-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:07.815-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:51:07.818-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:51:07.845-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:07.845-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:07.850-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:07.850-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:51:07.855-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2025-03-24T15:52:43.151-1000] {processor.py:186} INFO - Started process (PID=19930) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:52:43.152-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:52:43.152-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:43.152-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:52:43.154-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:52:43.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:43.180-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:43.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:43.184-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:52:43.189-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2025-03-24T15:53:46.024-1000] {processor.py:186} INFO - Started process (PID=20183) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:53:46.025-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:53:46.025-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:46.025-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:53:46.028-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:53:46.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:46.053-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:46.058-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:46.058-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:53:46.062-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2025-03-24T15:55:35.347-1000] {processor.py:186} INFO - Started process (PID=20604) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:55:35.347-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:55:35.348-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:35.347-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:55:35.350-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:55:35.375-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:35.375-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:35.379-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:35.379-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:55:35.384-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T15:57:23.767-1000] {processor.py:186} INFO - Started process (PID=21017) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:57:23.769-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:57:23.769-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:23.769-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:57:23.771-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:57:23.796-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:23.796-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:23.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:23.800-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:57:23.805-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T15:59:10.212-1000] {processor.py:186} INFO - Started process (PID=21433) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:59:10.213-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T15:59:10.214-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:10.214-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:59:10.216-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T15:59:10.241-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:10.241-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:10.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:10.245-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T15:59:10.250-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:01:23.695-1000] {processor.py:186} INFO - Started process (PID=21938) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:01:23.696-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:01:23.696-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:23.696-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:01:23.698-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:01:23.723-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:23.723-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:23.727-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:23.727-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:01:23.732-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:03:11.575-1000] {processor.py:186} INFO - Started process (PID=22353) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:03:11.575-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:03:11.576-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:11.575-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:03:11.578-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:03:11.602-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:11.602-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:11.607-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:11.607-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:03:11.612-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:04:59.514-1000] {processor.py:186} INFO - Started process (PID=22759) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:04:59.515-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:04:59.515-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:59.515-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:04:59.517-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:04:59.541-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:59.541-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:59.546-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:59.546-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:04:59.551-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:06:46.863-1000] {processor.py:186} INFO - Started process (PID=23204) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:06:46.863-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:06:46.863-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:46.863-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:06:46.865-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:06:46.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:46.889-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:46.894-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:46.894-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:06:46.899-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:08:38.405-1000] {processor.py:186} INFO - Started process (PID=23623) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:08:38.405-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:08:38.405-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:38.405-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:08:38.408-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:08:38.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:38.432-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:38.436-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:38.436-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:08:38.441-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:10:39.637-1000] {processor.py:186} INFO - Started process (PID=24104) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:10:39.638-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:10:39.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:39.638-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:10:39.640-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:10:39.665-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:39.665-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:39.670-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:39.670-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:10:39.674-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-24T16:12:34.336-1000] {processor.py:186} INFO - Started process (PID=24558) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:12:34.336-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:12:34.337-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:34.337-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:12:34.339-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:12:34.364-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:34.363-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:34.368-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:34.368-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:12:34.373-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-24T16:14:33.870-1000] {processor.py:186} INFO - Started process (PID=25064) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:14:33.871-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:14:33.872-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:33.871-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:14:33.874-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:14:33.898-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:33.898-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:33.903-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:33.903-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:14:33.907-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:16:27.546-1000] {processor.py:186} INFO - Started process (PID=25514) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:16:27.546-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:16:27.546-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:27.546-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:16:27.549-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:16:27.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:27.573-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:27.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:27.578-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:16:27.583-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:18:16.645-1000] {processor.py:186} INFO - Started process (PID=25932) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:18:16.645-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:18:16.646-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:16.646-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:18:16.649-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:18:16.673-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:16.673-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:16.677-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:16.677-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:18:16.682-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:20:09.357-1000] {processor.py:186} INFO - Started process (PID=26384) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:20:09.358-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:20:09.358-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:09.358-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:20:09.361-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:20:09.385-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:09.385-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:09.389-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:09.389-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:20:09.394-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:22:00.126-1000] {processor.py:186} INFO - Started process (PID=26800) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:22:00.126-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:22:00.127-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:00.127-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:22:00.129-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:22:00.153-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:00.153-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:00.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:00.158-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:22:00.162-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:23:52.404-1000] {processor.py:186} INFO - Started process (PID=27241) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:23:52.404-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:23:52.405-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:52.405-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:23:52.407-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:23:52.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:52.432-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:52.436-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:52.436-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:23:52.441-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:25:45.239-1000] {processor.py:186} INFO - Started process (PID=27674) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:25:45.239-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:25:45.239-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:45.239-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:25:45.242-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:25:45.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:45.266-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:45.271-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:45.271-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:25:45.275-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:27:35.965-1000] {processor.py:186} INFO - Started process (PID=28095) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:27:35.965-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:27:35.966-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:35.965-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:27:35.968-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:27:35.992-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:35.992-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:35.996-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:35.996-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:27:36.001-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:29:22.710-1000] {processor.py:186} INFO - Started process (PID=28497) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:29:22.710-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:29:22.710-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:22.710-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:29:22.712-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:29:22.737-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:22.737-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:22.741-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:22.741-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:29:22.746-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:31:12.095-1000] {processor.py:186} INFO - Started process (PID=28911) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:31:12.096-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:31:12.096-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:12.096-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:31:12.098-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:31:12.123-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:12.123-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:12.127-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:12.127-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:31:12.132-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:33:01.635-1000] {processor.py:186} INFO - Started process (PID=29348) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:33:01.635-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:33:01.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:01.635-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:33:01.638-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:33:01.662-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:01.662-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:01.666-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:01.666-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:33:01.671-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2025-03-24T16:34:51.806-1000] {processor.py:186} INFO - Started process (PID=29761) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:34:51.806-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:34:51.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:51.806-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:34:51.808-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:34:51.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:51.832-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:51.837-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:51.837-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:34:51.841-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.055 seconds
+[2025-03-24T16:36:40.501-1000] {processor.py:186} INFO - Started process (PID=30171) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:36:40.501-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:36:40.501-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:40.501-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:36:40.503-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:36:40.528-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:40.528-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:40.532-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:40.532-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:36:40.537-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:38:35.399-1000] {processor.py:186} INFO - Started process (PID=30632) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:38:35.400-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:38:35.401-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:35.401-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:38:35.403-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:38:35.427-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:35.427-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:35.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:35.432-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:38:35.436-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:40:32.617-1000] {processor.py:186} INFO - Started process (PID=31077) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:40:32.618-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:40:32.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:32.618-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:40:32.620-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:40:32.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:32.644-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:32.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:32.649-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:40:32.654-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2025-03-24T16:42:27.771-1000] {processor.py:186} INFO - Started process (PID=31519) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:42:27.773-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:42:27.773-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:27.773-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:42:27.775-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:42:27.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:27.800-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:27.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:27.804-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:42:27.809-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2025-03-24T16:44:18.843-1000] {processor.py:186} INFO - Started process (PID=31948) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:44:18.844-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:44:18.844-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:18.844-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:44:18.846-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:44:18.871-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:18.870-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:18.875-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:18.875-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:44:18.880-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:46:09.918-1000] {processor.py:186} INFO - Started process (PID=32377) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:46:09.918-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:46:09.918-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:09.918-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:46:09.921-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:46:09.945-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:09.945-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:09.949-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:09.949-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:46:09.954-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2025-03-24T16:48:00.987-1000] {processor.py:186} INFO - Started process (PID=32845) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:48:00.988-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:48:00.988-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:00.988-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:48:00.991-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:48:01.017-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:01.017-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:01.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:01.022-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:48:01.027-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2025-03-24T16:49:59.104-1000] {processor.py:186} INFO - Started process (PID=33368) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:49:59.105-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:49:59.105-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:59.105-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:49:59.107-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:49:59.132-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:59.132-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:59.137-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:59.137-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:49:59.142-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2025-03-24T16:51:56.279-1000] {processor.py:186} INFO - Started process (PID=33808) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:51:56.280-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:51:56.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:56.280-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:51:56.283-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:51:56.307-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:56.307-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:56.312-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:56.312-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:51:56.317-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2025-03-24T16:53:52.877-1000] {processor.py:186} INFO - Started process (PID=34244) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:53:52.878-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:53:52.879-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:52.879-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:53:52.881-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:53:52.906-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:52.906-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:52.910-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:52.910-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:53:52.915-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2025-03-24T16:55:43.052-1000] {processor.py:186} INFO - Started process (PID=34660) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:55:43.052-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:55:43.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:43.053-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:55:43.055-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:55:43.079-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:43.079-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:55:43.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:43.083-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:55:43.088-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T16:57:31.501-1000] {processor.py:186} INFO - Started process (PID=35071) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:57:31.502-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:57:31.502-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:31.502-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:57:31.504-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:57:31.528-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:31.528-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:31.533-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:31.533-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:57:31.537-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T16:59:20.882-1000] {processor.py:186} INFO - Started process (PID=35495) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:59:20.882-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T16:59:20.883-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:20.882-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:59:20.885-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T16:59:20.909-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:20.909-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:20.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:20.914-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T16:59:20.919-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:01:17.617-1000] {processor.py:186} INFO - Started process (PID=35935) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:01:17.617-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:01:17.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:17.618-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:01:17.620-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:01:17.646-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:17.645-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:17.650-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:17.650-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:01:17.656-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2025-03-24T17:03:17.299-1000] {processor.py:186} INFO - Started process (PID=36384) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:03:17.299-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:03:17.299-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:17.299-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:03:17.302-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:03:17.327-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:17.327-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:17.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:17.332-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:03:17.336-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:05:10.806-1000] {processor.py:186} INFO - Started process (PID=36811) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:05:10.807-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:05:10.807-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:10.807-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:05:10.809-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:05:10.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:10.833-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:10.838-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:10.838-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:05:10.843-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:06:58.805-1000] {processor.py:186} INFO - Started process (PID=37252) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:06:58.805-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:06:58.805-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:58.805-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:06:58.807-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:06:58.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:58.831-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:58.836-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:58.836-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:06:58.841-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:08:50.121-1000] {processor.py:186} INFO - Started process (PID=37675) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:08:50.121-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:08:50.121-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:50.121-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:08:50.123-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:08:50.147-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:50.147-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:50.152-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:50.152-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:08:50.157-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:10:36.590-1000] {processor.py:186} INFO - Started process (PID=38078) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:10:36.590-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:10:36.591-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:36.591-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:10:36.593-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:10:36.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:36.618-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:36.622-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:36.622-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:10:36.627-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:12:25.231-1000] {processor.py:186} INFO - Started process (PID=38496) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:12:25.232-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:12:25.232-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:25.232-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:12:25.234-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:12:25.259-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:25.259-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:25.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:25.263-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:12:25.268-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:14:15.403-1000] {processor.py:186} INFO - Started process (PID=38916) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:14:15.403-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:14:15.404-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:15.404-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:14:15.406-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:14:15.430-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:15.430-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:15.435-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:15.435-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:14:15.439-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:16:04.999-1000] {processor.py:186} INFO - Started process (PID=39332) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:16:05.000-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:16:05.000-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:05.000-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:16:05.002-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:16:05.026-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:05.026-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:05.030-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:05.030-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:16:05.035-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:17:52.794-1000] {processor.py:186} INFO - Started process (PID=39744) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:17:52.795-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:17:52.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:52.795-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:17:52.797-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:17:52.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:52.821-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:52.825-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:52.825-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:17:52.830-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:19:42.844-1000] {processor.py:186} INFO - Started process (PID=40180) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:19:42.845-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:19:42.845-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:42.845-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:19:42.848-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:19:42.872-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:42.872-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:42.877-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:42.877-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:19:42.881-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:21:39.204-1000] {processor.py:186} INFO - Started process (PID=40625) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:21:39.205-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:21:39.205-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:39.205-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:21:39.207-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:21:39.231-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:39.231-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:39.235-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:39.235-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:21:39.240-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2025-03-24T17:23:28.166-1000] {processor.py:186} INFO - Started process (PID=41070) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:23:28.167-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:23:28.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:28.167-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:23:28.169-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:23:28.194-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:28.193-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:28.198-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:28.198-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:23:28.203-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:25:19.528-1000] {processor.py:186} INFO - Started process (PID=41493) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:25:19.528-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:25:19.529-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:19.529-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:25:19.531-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:25:19.555-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:19.555-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:19.560-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:19.560-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:25:19.565-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:27:25.038-1000] {processor.py:186} INFO - Started process (PID=42055) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:27:25.039-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:27:25.039-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:25.039-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:27:25.041-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:27:25.066-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:25.066-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:25.071-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:25.071-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:27:25.075-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:29:17.936-1000] {processor.py:186} INFO - Started process (PID=42524) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:29:17.936-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:29:17.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:17.937-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:29:17.939-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:29:17.963-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:17.963-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:17.968-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:17.968-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:29:17.973-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:31:13.237-1000] {processor.py:186} INFO - Started process (PID=43035) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:31:13.238-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:31:13.238-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:13.238-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:31:13.240-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:31:13.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:13.265-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:13.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:13.270-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:31:13.274-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2025-03-24T17:33:14.670-1000] {processor.py:186} INFO - Started process (PID=43517) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:33:14.672-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T17:33:14.672-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:14.672-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:33:14.674-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T17:33:14.698-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:14.698-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:14.703-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:14.703-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-24 00:00:00+00:00, run_after=2025-03-25 00:00:00+00:00
+[2025-03-24T17:33:14.708-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds

@@ -1,0 +1,15 @@
+[2025-03-24T13:50:08.100-1000] {processor.py:186} INFO - Started process (PID=9461) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-24T13:50:08.101-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-03-24T13:50:08.101-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.101-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-24T13:50:08.111-1000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-03-24T13:50:08.156-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.156-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.158-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.159-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.159-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.161-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.161-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.163-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.163-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.164-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.164-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.165-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.165-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_setup_teardown_taskflow
+[2025-03-24T13:50:08.165-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.165-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:08.168-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.168-1000] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown_taskflow
+[2025-03-24T13:50:08.168-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:08.168-1000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2025-03-24T13:50:08.172-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.092 seconds

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/5be57e243e384f4598313fde8d96adb2/artifacts
+deleted_time: 1742870272314
+end_time: 1742868936209
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 5be57e243e384f4598313fde8d96adb2
+run_name: intelligent-wolf-953
+run_uuid: 5be57e243e384f4598313fde8d96adb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936202
+status: 3
+tags: []
+user_id: manamioyama

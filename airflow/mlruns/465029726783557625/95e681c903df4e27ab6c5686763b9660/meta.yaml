@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/95e681c903df4e27ab6c5686763b9660/artifacts
+deleted_time: 1742870272313
+end_time: 1742868936259
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 95e681c903df4e27ab6c5686763b9660
+run_name: serious-dolphin-919
+run_uuid: 95e681c903df4e27ab6c5686763b9660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936253
+status: 3
+tags: []
+user_id: manamioyama

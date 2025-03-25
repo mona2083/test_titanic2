@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/65251d5da8e44ac6b58c312fc6dc7156/artifacts
+deleted_time: 1742870272317
+end_time: 1742868933415
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 65251d5da8e44ac6b58c312fc6dc7156
+run_name: salty-mole-656
+run_uuid: 65251d5da8e44ac6b58c312fc6dc7156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933408
+status: 3
+tags: []
+user_id: manamioyama

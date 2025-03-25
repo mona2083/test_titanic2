@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/808615b3df4e4603bce317b29910a7d8/artifacts
+deleted_time: 1742870272319
+end_time: 1742868765920
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 808615b3df4e4603bce317b29910a7d8
+run_name: peaceful-hawk-104
+run_uuid: 808615b3df4e4603bce317b29910a7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868765914
+status: 3
+tags: []
+user_id: manamioyama

@@ -1,0 +1,393 @@
+[2025-03-24T15:51:44.480-1000] {processor.py:186} INFO - Started process (PID=19331) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:51:44.480-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T15:51:44.481-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.481-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:51:44.492-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:51:44.545-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.545-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_display_name
+[2025-03-24T15:51:44.548-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.548-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_display_name
+[2025-03-24T15:51:44.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.549-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_display_name
+[2025-03-24T15:51:44.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.552-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_display_name
+[2025-03-24T15:51:44.554-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.554-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_display_name
+[2025-03-24T15:51:44.555-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.555-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_display_name
+[2025-03-24T15:51:44.557-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.557-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_display_name
+[2025-03-24T15:51:44.557-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.557-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:44.560-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.560-1000] {dag.py:3262} INFO - Creating ORM DAG for example_display_name
+[2025-03-24T15:51:44.561-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:44.561-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T15:51:44.566-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.111 seconds
+[2025-03-24T15:53:49.976-1000] {processor.py:186} INFO - Started process (PID=20199) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:53:49.977-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T15:53:49.977-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:49.977-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:53:49.987-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:53:50.011-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:50.011-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:50.014-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:50.014-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T15:53:50.019-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.063 seconds
+[2025-03-24T15:55:39.340-1000] {processor.py:186} INFO - Started process (PID=20617) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:55:39.341-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T15:55:39.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:39.341-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:55:39.350-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:55:39.375-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:39.374-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:39.378-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:39.378-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T15:55:39.383-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-24T15:57:28.688-1000] {processor.py:186} INFO - Started process (PID=21038) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:57:28.689-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T15:57:28.689-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:28.689-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:57:28.698-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:57:28.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:28.722-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:28.725-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:28.725-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T15:57:28.730-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-24T15:59:14.200-1000] {processor.py:186} INFO - Started process (PID=21450) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:59:14.201-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T15:59:14.201-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:14.201-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:59:14.210-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T15:59:14.234-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:14.234-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:14.237-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:14.237-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T15:59:14.242-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.064 seconds
+[2025-03-24T16:01:28.607-1000] {processor.py:186} INFO - Started process (PID=21954) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:01:28.608-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:01:28.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:28.608-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:01:28.617-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:01:28.641-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:28.641-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:28.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:28.644-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:01:28.649-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:03:16.280-1000] {processor.py:186} INFO - Started process (PID=22370) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:03:16.281-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:03:16.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:16.281-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:03:16.290-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:03:16.313-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:16.313-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:16.316-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:16.316-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:03:16.321-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:05:03.515-1000] {processor.py:186} INFO - Started process (PID=22775) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:05:03.515-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:05:03.515-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:03.515-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:05:03.524-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:05:03.547-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:03.547-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:05:03.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:05:03.550-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:05:03.555-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:06:50.745-1000] {processor.py:186} INFO - Started process (PID=23221) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:06:50.746-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:06:50.746-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:50.746-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:06:50.755-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:06:50.778-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:50.778-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:50.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:50.781-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:06:50.786-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:08:43.229-1000] {processor.py:186} INFO - Started process (PID=23639) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:08:43.229-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:08:43.229-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:43.229-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:08:43.238-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:08:43.262-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:43.262-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:43.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:43.265-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:08:43.270-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:10:43.616-1000] {processor.py:186} INFO - Started process (PID=24122) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:10:43.616-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:10:43.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:43.617-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:10:43.626-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:10:43.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:43.649-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:43.652-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:43.652-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:10:43.657-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.063 seconds
+[2025-03-24T16:12:38.302-1000] {processor.py:186} INFO - Started process (PID=24577) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:12:38.303-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:12:38.303-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:38.303-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:12:38.312-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:12:38.335-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:38.335-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:38.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:38.338-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:12:38.343-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-24T16:14:38.105-1000] {processor.py:186} INFO - Started process (PID=25082) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:14:38.106-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:14:38.107-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:38.107-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:14:38.116-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:14:38.139-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:38.139-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:38.142-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:38.142-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:14:38.147-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:16:31.530-1000] {processor.py:186} INFO - Started process (PID=25530) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:16:31.531-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:16:31.531-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:31.531-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:16:31.540-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:16:31.563-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:31.563-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:31.566-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:31.566-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:16:31.571-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:18:21.298-1000] {processor.py:186} INFO - Started process (PID=25948) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:18:21.298-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:18:21.298-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:21.298-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:18:21.307-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:18:21.331-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:21.331-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:21.334-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:21.334-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:18:21.339-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:20:13.308-1000] {processor.py:186} INFO - Started process (PID=26400) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:20:13.310-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:20:13.310-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:13.310-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:20:13.319-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:20:13.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:13.342-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:13.345-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:13.345-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:20:13.350-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:22:03.100-1000] {processor.py:186} INFO - Started process (PID=26816) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:22:03.100-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:22:03.101-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:03.101-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:22:03.110-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:22:03.133-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:03.133-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:22:03.136-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:03.136-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:22:03.141-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:23:56.429-1000] {processor.py:186} INFO - Started process (PID=27257) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:23:56.429-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:23:56.429-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:56.429-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:23:56.439-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:23:56.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:56.462-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:56.465-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:56.465-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:23:56.470-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:25:50.156-1000] {processor.py:186} INFO - Started process (PID=27690) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:25:50.157-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:25:50.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:50.157-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:25:50.166-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:25:50.189-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:50.189-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:50.192-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:50.192-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:25:50.197-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:27:39.901-1000] {processor.py:186} INFO - Started process (PID=28113) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:27:39.902-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:27:39.902-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:39.902-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:27:39.911-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:27:39.934-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:39.934-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:39.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:39.937-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:27:39.942-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:29:26.665-1000] {processor.py:186} INFO - Started process (PID=28513) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:29:26.665-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:29:26.665-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:26.665-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:29:26.674-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:29:26.697-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:26.697-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:26.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:26.700-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:29:26.705-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:31:16.031-1000] {processor.py:186} INFO - Started process (PID=28927) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:31:16.032-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:31:16.032-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:16.032-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:31:16.041-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:31:16.064-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:16.064-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:16.067-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:16.067-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:31:16.072-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:33:05.638-1000] {processor.py:186} INFO - Started process (PID=29364) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:33:05.638-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:33:05.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:05.638-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:33:05.647-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:33:05.670-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:05.670-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:33:05.673-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:05.673-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:33:05.678-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.059 seconds
+[2025-03-24T16:34:55.771-1000] {processor.py:186} INFO - Started process (PID=29778) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:34:55.772-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:34:55.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:55.772-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:34:55.781-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:34:55.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:55.804-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:55.807-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:55.807-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:34:55.812-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:36:44.604-1000] {processor.py:186} INFO - Started process (PID=30187) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:36:44.604-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:36:44.605-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:44.605-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:36:44.614-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:36:44.637-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:44.637-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:44.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:44.640-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:36:44.645-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:38:39.383-1000] {processor.py:186} INFO - Started process (PID=30650) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:38:39.384-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:38:39.384-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:39.384-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:38:39.393-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:38:39.417-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:39.417-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:39.420-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:39.420-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:38:39.424-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-24T16:40:37.495-1000] {processor.py:186} INFO - Started process (PID=31095) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:40:37.495-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:40:37.496-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:37.496-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:40:37.505-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:40:37.528-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:37.528-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:37.531-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:37.531-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:40:37.536-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:42:32.646-1000] {processor.py:186} INFO - Started process (PID=31543) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:42:32.647-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:42:32.647-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:32.647-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:42:32.656-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:42:32.679-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:32.679-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:32.682-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:32.682-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:42:32.687-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-24T16:44:23.739-1000] {processor.py:186} INFO - Started process (PID=31969) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:44:23.739-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:44:23.740-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:23.740-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:44:23.749-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:44:23.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:23.772-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:23.775-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:23.775-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:44:23.780-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.060 seconds
+[2025-03-24T16:46:13.803-1000] {processor.py:186} INFO - Started process (PID=32388) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:46:13.804-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:46:13.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:13.804-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:46:13.813-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:46:13.836-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:13.836-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:13.839-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:13.839-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:46:13.844-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.063 seconds
+[2025-03-24T16:48:05.592-1000] {processor.py:186} INFO - Started process (PID=32866) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:48:05.593-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:48:05.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:05.593-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:48:05.603-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:48:05.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:05.627-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:05.630-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:05.630-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:48:05.636-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.066 seconds
+[2025-03-24T16:50:04.045-1000] {processor.py:186} INFO - Started process (PID=33389) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:50:04.046-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:50:04.046-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:04.046-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:50:04.055-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:50:04.079-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:04.079-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:50:04.081-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:50:04.081-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:50:04.086-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T16:51:59.551-1000] {processor.py:186} INFO - Started process (PID=33824) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:51:59.552-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:51:59.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:59.552-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:51:59.562-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:51:59.586-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:59.586-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:59.589-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:59.589-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:51:59.594-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.044 seconds
+[2025-03-24T16:53:58.504-1000] {processor.py:186} INFO - Started process (PID=34267) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:53:58.505-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:53:58.505-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:58.505-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:53:58.514-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:53:58.537-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:58.537-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:58.540-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:58.540-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:53:58.545-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T16:55:48.634-1000] {processor.py:186} INFO - Started process (PID=34679) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:55:48.634-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:55:48.634-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:48.634-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:55:48.643-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:55:48.666-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:48.666-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:55:48.669-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:48.669-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:55:48.674-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T16:57:37.136-1000] {processor.py:186} INFO - Started process (PID=35089) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:57:37.137-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:57:37.137-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:37.137-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:57:37.146-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:57:37.169-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:37.169-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:57:37.171-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:37.171-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:57:37.176-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T16:59:26.831-1000] {processor.py:186} INFO - Started process (PID=35518) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:59:26.831-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T16:59:26.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:26.832-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:59:26.841-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T16:59:26.863-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:26.863-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:59:26.866-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:26.866-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T16:59:26.871-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:01:23.245-1000] {processor.py:186} INFO - Started process (PID=35958) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:01:23.245-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:01:23.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:23.245-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:01:23.256-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:01:23.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:23.281-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:01:23.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:23.284-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:01:23.290-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.046 seconds
+[2025-03-24T17:03:21.985-1000] {processor.py:186} INFO - Started process (PID=36402) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:03:21.985-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:03:21.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:21.985-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:03:21.994-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:03:22.018-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:22.018-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:22.021-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:22.021-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:03:22.025-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:05:16.608-1000] {processor.py:186} INFO - Started process (PID=36829) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:05:16.609-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:05:16.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:16.609-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:05:16.618-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:05:16.642-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:16.641-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:16.644-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:16.644-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:05:16.649-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T17:07:04.361-1000] {processor.py:186} INFO - Started process (PID=37275) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:07:04.362-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:07:04.362-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:04.362-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:07:04.372-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:07:04.395-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:04.395-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:07:04.398-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:04.398-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:07:04.402-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T17:08:55.734-1000] {processor.py:186} INFO - Started process (PID=37698) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:08:55.734-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:08:55.735-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:55.735-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:08:55.744-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:08:55.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:55.766-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:55.769-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:55.769-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:08:55.774-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:10:41.725-1000] {processor.py:186} INFO - Started process (PID=38103) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:10:41.726-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:10:41.726-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:41.726-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:10:41.735-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:10:41.758-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:41.757-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:41.760-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:41.760-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:10:41.765-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:12:30.810-1000] {processor.py:186} INFO - Started process (PID=38519) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:12:30.811-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:12:30.811-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:30.811-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:12:30.820-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:12:30.843-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:30.843-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:12:30.845-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:12:30.845-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:12:30.850-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:14:21.018-1000] {processor.py:186} INFO - Started process (PID=38944) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:14:21.018-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:14:21.018-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:21.018-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:14:21.027-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:14:21.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:21.050-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:14:21.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:14:21.053-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:14:21.057-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:16:10.644-1000] {processor.py:186} INFO - Started process (PID=39355) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:16:10.644-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:16:10.645-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:10.645-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:16:10.653-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:16:10.677-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:10.677-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:10.679-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:10.679-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:16:10.684-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:17:57.798-1000] {processor.py:186} INFO - Started process (PID=39762) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:17:57.799-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:17:57.799-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:57.799-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:17:57.808-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:17:57.831-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:57.830-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:57.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:57.833-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:17:57.838-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.040 seconds
+[2025-03-24T17:19:48.423-1000] {processor.py:186} INFO - Started process (PID=40203) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:19:48.425-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:19:48.425-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:48.425-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:19:48.434-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:19:48.457-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:48.457-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:48.460-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:48.460-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:19:48.464-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T17:21:45.037-1000] {processor.py:186} INFO - Started process (PID=40650) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:21:45.038-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:21:45.038-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:45.038-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:21:45.047-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:21:45.070-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:45.070-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:45.072-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:45.072-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:21:45.077-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:23:33.823-1000] {processor.py:186} INFO - Started process (PID=41093) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:23:33.824-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:23:33.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:33.824-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:23:33.833-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:23:33.857-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:33.857-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:33.860-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:33.860-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:23:33.865-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.043 seconds
+[2025-03-24T17:25:25.196-1000] {processor.py:186} INFO - Started process (PID=41516) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:25:25.196-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:25:25.196-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:25.196-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:25:25.206-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:25:25.231-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:25.230-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:25.233-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:25.233-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:25:25.239-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.044 seconds
+[2025-03-24T17:27:29.020-1000] {processor.py:186} INFO - Started process (PID=42075) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:27:29.022-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:27:29.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:29.022-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:27:29.031-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:27:29.054-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:29.054-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:29.057-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:29.057-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:27:29.062-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T17:29:23.720-1000] {processor.py:186} INFO - Started process (PID=42544) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:29:23.720-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:29:23.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:23.720-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:29:23.729-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:29:23.753-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:23.753-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:29:23.756-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:23.756-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:29:23.761-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.042 seconds
+[2025-03-24T17:31:18.879-1000] {processor.py:186} INFO - Started process (PID=43055) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:31:18.879-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:31:18.879-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:18.879-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:31:18.888-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:31:18.912-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:18.912-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:31:18.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:18.914-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:31:18.919-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds
+[2025-03-24T17:33:20.325-1000] {processor.py:186} INFO - Started process (PID=43541) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:33:20.326-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-24T17:33:20.326-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:20.326-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:33:20.335-1000] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-24T17:33:20.358-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:20.358-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:20.361-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:20.361-1000] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-24T17:33:20.365-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_display_name.py took 0.041 seconds

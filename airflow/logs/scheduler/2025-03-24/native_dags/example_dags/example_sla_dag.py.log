@@ -1,0 +1,22 @@
+[2025-03-24T13:32:50.118-1000] {processor.py:186} INFO - Started process (PID=6320) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:32:50.118-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-24T13:32:50.119-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.119-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:32:50.128-1000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:32:50.172-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.172-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2025-03-24T13:32:50.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.174-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2025-03-24T13:32:50.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.175-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2025-03-24T13:32:50.177-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.177-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_sla_dag
+[2025-03-24T13:32:50.178-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.178-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_sla_dag
+[2025-03-24T13:32:50.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.180-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_sla_dag
+[2025-03-24T13:32:50.181-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.181-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_sla_dag
+[2025-03-24T13:32:50.181-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.181-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:50.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.184-1000] {dag.py:3262} INFO - Creating ORM DAG for example_sla_dag
+[2025-03-24T13:32:50.186-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:50.186-1000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-24 23:30:00+00:00, run_after=2025-03-24 23:32:00+00:00
+[2025-03-24T13:32:50.191-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.092 seconds
+[2025-03-24T13:50:02.588-1000] {processor.py:186} INFO - Started process (PID=9437) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:50:02.588-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-03-24T13:50:02.588-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:02.588-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:50:02.598-1000] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-03-24T13:50:02.621-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:02.621-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:02.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:02.627-1000] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-03-24 23:48:00+00:00, run_after=2025-03-24 23:50:00+00:00
+[2025-03-24T13:50:02.632-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds

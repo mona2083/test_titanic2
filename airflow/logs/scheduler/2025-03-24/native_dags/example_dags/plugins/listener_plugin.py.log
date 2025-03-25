@@ -1,0 +1,10 @@
+[2025-03-24T13:32:21.937-1000] {processor.py:186} INFO - Started process (PID=6187) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:32:21.937-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-24T13:32:21.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:21.937-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:32:21.938-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:32:21.959-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.044 seconds
+[2025-03-24T13:49:35.964-1000] {processor.py:186} INFO - Started process (PID=9325) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:49:35.965-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-03-24T13:49:35.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:35.965-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:49:35.966-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-03-24T13:49:35.987-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.042 seconds

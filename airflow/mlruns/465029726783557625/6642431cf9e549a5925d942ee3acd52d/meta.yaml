@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/6642431cf9e549a5925d942ee3acd52d/artifacts
+deleted_time: 1742870272320
+end_time: 1742868765900
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 6642431cf9e549a5925d942ee3acd52d
+run_name: blushing-seal-49
+run_uuid: 6642431cf9e549a5925d942ee3acd52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868765892
+status: 3
+tags: []
+user_id: manamioyama

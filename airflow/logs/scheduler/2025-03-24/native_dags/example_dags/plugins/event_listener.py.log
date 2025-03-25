@@ -1,0 +1,10 @@
+[2025-03-24T13:32:23.040-1000] {processor.py:186} INFO - Started process (PID=6196) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:32:23.040-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-24T13:32:23.040-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:23.040-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:32:23.041-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:32:23.062-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds
+[2025-03-24T13:49:37.111-1000] {processor.py:186} INFO - Started process (PID=9334) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:49:37.112-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-24T13:49:37.112-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:37.112-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:49:37.112-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-24T13:49:37.133-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds

@@ -1,0 +1,22 @@
+[2025-03-24T13:32:32.019-1000] {processor.py:186} INFO - Started process (PID=6245) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:32:32.019-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-24T13:32:32.019-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.019-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:32:32.026-1000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:32:32.071-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.071-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2025-03-24T13:32:32.074-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.074-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2025-03-24T13:32:32.075-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.075-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2025-03-24T13:32:32.077-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.077-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2025-03-24T13:32:32.079-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.079-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2025-03-24T13:32:32.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.080-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2025-03-24T13:32:32.081-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.081-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2025-03-24T13:32:32.081-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.081-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:32.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.084-1000] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2025-03-24T13:32:32.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:32.085-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-24T13:32:32.089-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2025-03-24T13:49:46.051-1000] {processor.py:186} INFO - Started process (PID=9372) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:49:46.052-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-24T13:49:46.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:46.053-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:49:46.059-1000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-24T13:49:46.082-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:46.082-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:49:46.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:46.084-1000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-24T13:49:46.089-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds

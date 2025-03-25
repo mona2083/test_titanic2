@@ -1,0 +1,15 @@
+[2025-03-24T13:50:13.274-1000] {processor.py:186} INFO - Started process (PID=9482) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2025-03-24T13:50:13.274-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2025-03-24T13:50:13.274-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.274-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2025-03-24T13:50:13.285-1000] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2025-03-24T13:50:13.480-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.479-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_sensor_decorator
+[2025-03-24T13:50:13.483-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.482-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_sensor_decorator
+[2025-03-24T13:50:13.484-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.484-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_sensor_decorator
+[2025-03-24T13:50:13.486-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.486-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_sensor_decorator
+[2025-03-24T13:50:13.487-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.487-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_sensor_decorator
+[2025-03-24T13:50:13.489-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.489-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_sensor_decorator
+[2025-03-24T13:50:13.490-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.490-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_sensor_decorator
+[2025-03-24T13:50:13.490-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.490-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:13.493-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.493-1000] {dag.py:3262} INFO - Creating ORM DAG for example_sensor_decorator
+[2025-03-24T13:50:13.493-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:13.493-1000] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2025-03-24T13:50:13.497-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.246 seconds

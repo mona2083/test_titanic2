@@ -1,0 +1,10 @@
+[2025-03-24T13:32:20.158-1000] {processor.py:186} INFO - Started process (PID=6185) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:32:20.158-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-24T13:32:20.159-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:20.159-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:32:20.274-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:32:20.323-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.184 seconds
+[2025-03-24T13:49:34.214-1000] {processor.py:186} INFO - Started process (PID=9318) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:49:34.214-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-03-24T13:49:34.214-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:34.214-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:49:34.327-1000] {processor.py:927} WARNING - No viable dags retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2025-03-24T13:49:34.372-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.179 seconds

@@ -1,0 +1,22 @@
+[2025-03-24T13:32:51.767-1000] {processor.py:186} INFO - Started process (PID=6323) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:32:51.767-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T13:32:51.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.767-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:32:51.770-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:32:51.814-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.814-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2025-03-24T13:32:51.816-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.816-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2025-03-24T13:32:51.818-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.817-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2025-03-24T13:32:51.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.819-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2025-03-24T13:32:51.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.821-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2025-03-24T13:32:51.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.822-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2025-03-24T13:32:51.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.824-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2025-03-24T13:32:51.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.824-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:51.827-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.827-1000] {dag.py:3262} INFO - Creating ORM DAG for example_skip_dag
+[2025-03-24T13:32:51.829-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:51.829-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-23 00:00:00+00:00, run_after=2025-03-24 00:00:00+00:00
+[2025-03-24T13:32:51.833-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2025-03-24T13:50:03.325-1000] {processor.py:186} INFO - Started process (PID=9441) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:50:03.326-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-03-24T13:50:03.327-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:03.327-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:50:03.329-1000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-03-24T13:50:03.354-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:03.353-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:03.359-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:03.359-1000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-03-23 00:00:00+00:00, run_after=2025-03-24 00:00:00+00:00
+[2025-03-24T13:50:03.364-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds

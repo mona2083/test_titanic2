@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/1d5bc03167c341dca873cb74bcdeeb70/artifacts
+deleted_time: 1742870272315
+end_time: 1742868933492
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 1d5bc03167c341dca873cb74bcdeeb70
+run_name: merciful-fox-989
+run_uuid: 1d5bc03167c341dca873cb74bcdeeb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868933487
+status: 3
+tags: []
+user_id: manamioyama

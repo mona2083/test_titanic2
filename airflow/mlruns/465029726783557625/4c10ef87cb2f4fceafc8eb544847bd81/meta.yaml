@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/4c10ef87cb2f4fceafc8eb544847bd81/artifacts
+deleted_time: 1742870272314
+end_time: 1742868936230
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 4c10ef87cb2f4fceafc8eb544847bd81
+run_name: persistent-sloth-503
+run_uuid: 4c10ef87cb2f4fceafc8eb544847bd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936224
+status: 3
+tags: []
+user_id: manamioyama

@@ -1,0 +1,462 @@
+[2025-03-24T15:51:02.069-1000] {processor.py:186} INFO - Started process (PID=18766) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:51:02.069-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:51:02.070-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:02.070-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:51:02.082-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:51:02.110-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:02.109-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:02.113-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:02.113-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:51:02.119-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.075 seconds
+[2025-03-24T15:52:36.778-1000] {processor.py:186} INFO - Started process (PID=19904) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:52:36.780-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:52:36.780-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:36.780-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:52:36.792-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:52:36.817-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:36.817-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:52:36.821-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:36.820-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:52:36.826-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.068 seconds
+[2025-03-24T15:53:39.548-1000] {processor.py:186} INFO - Started process (PID=20156) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:53:39.549-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:53:39.549-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:39.549-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:53:39.560-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:53:39.586-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:39.586-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:39.589-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:39.589-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:53:39.594-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.067 seconds
+[2025-03-24T15:54:36.563-1000] {processor.py:186} INFO - Started process (PID=20377) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:54:36.563-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:54:36.564-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:36.564-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:54:36.575-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:54:36.601-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:36.601-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:36.604-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:36.604-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:54:36.609-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T15:55:31.503-1000] {processor.py:186} INFO - Started process (PID=20586) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:55:31.504-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:55:31.504-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:31.504-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:55:31.515-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:55:31.540-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:31.540-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:55:31.543-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:31.543-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:55:31.548-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T15:57:19.768-1000] {processor.py:186} INFO - Started process (PID=21006) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:57:19.770-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:57:19.770-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:19.770-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:57:19.781-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:57:19.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:19.806-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:57:19.809-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:19.809-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:57:19.814-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T15:59:06.203-1000] {processor.py:186} INFO - Started process (PID=21422) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:59:06.204-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T15:59:06.205-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:06.205-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:59:06.216-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T15:59:06.241-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:06.241-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:59:06.244-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:06.244-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T15:59:06.249-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.066 seconds
+[2025-03-24T16:00:00.638-1000] {processor.py:186} INFO - Started process (PID=21641) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:00:00.639-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:00:00.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:00.639-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:00:00.650-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:00:00.676-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:00.676-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:00:00.679-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:00.679-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:00:00.684-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.067 seconds
+[2025-03-24T16:01:19.789-1000] {processor.py:186} INFO - Started process (PID=21922) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:01:19.789-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:01:19.790-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:19.790-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:01:19.801-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:01:19.826-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:19.826-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:01:19.829-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:19.829-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:01:19.834-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:03:08.431-1000] {processor.py:186} INFO - Started process (PID=22337) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:03:08.431-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:03:08.431-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:08.431-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:03:08.442-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:03:08.467-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:08.467-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:03:08.470-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:08.470-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:03:08.475-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:04:54.424-1000] {processor.py:186} INFO - Started process (PID=22743) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:04:54.424-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:04:54.424-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:54.424-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:04:54.435-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:04:54.460-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:54.460-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:54.463-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:54.463-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:04:54.468-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:06:41.751-1000] {processor.py:186} INFO - Started process (PID=23183) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:06:41.752-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:06:41.752-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:41.752-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:06:41.763-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:06:41.788-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:41.788-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:41.791-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:41.791-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:06:41.796-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:08:34.133-1000] {processor.py:186} INFO - Started process (PID=23605) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:08:34.134-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:08:34.134-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:34.134-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:08:34.145-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:08:34.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:34.170-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:08:34.173-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:34.173-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:08:34.178-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:10:34.522-1000] {processor.py:186} INFO - Started process (PID=24086) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:10:34.524-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:10:34.524-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:34.524-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:10:34.535-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:10:34.560-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:34.560-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:10:34.563-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:34.563-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:10:34.568-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.066 seconds
+[2025-03-24T16:12:29.626-1000] {processor.py:186} INFO - Started process (PID=24537) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:12:29.627-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:12:29.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:29.627-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:12:29.638-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:12:29.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:29.663-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:12:29.666-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:29.666-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:12:29.671-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:13:30.521-1000] {processor.py:186} INFO - Started process (PID=24817) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:13:30.522-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:13:30.522-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:30.522-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:13:30.533-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:13:30.558-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:30.558-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:30.561-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:30.561-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:13:30.566-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:14:29.872-1000] {processor.py:186} INFO - Started process (PID=25048) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:14:29.872-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:14:29.873-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:29.873-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:14:29.883-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:14:29.908-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:29.908-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:14:29.911-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:14:29.911-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:14:29.916-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.067 seconds
+[2025-03-24T16:16:23.575-1000] {processor.py:186} INFO - Started process (PID=25503) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:16:23.576-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:16:23.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:23.577-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:16:23.588-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:16:23.612-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:23.612-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:16:23.615-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:16:23.615-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:16:23.620-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:18:12.370-1000] {processor.py:186} INFO - Started process (PID=25916) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:18:12.370-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:18:12.371-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:12.371-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:18:12.381-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:18:12.406-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:12.406-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:18:12.409-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:18:12.409-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:18:12.414-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:20:04.416-1000] {processor.py:186} INFO - Started process (PID=26368) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:20:04.416-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:20:04.417-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:04.416-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:20:04.428-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:20:04.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:04.453-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:20:04.456-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:04.456-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:20:04.461-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:21:55.229-1000] {processor.py:186} INFO - Started process (PID=26784) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:21:55.229-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:21:55.230-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:55.229-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:21:55.240-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:21:55.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:55.265-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:55.268-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:55.267-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:21:55.272-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds
+[2025-03-24T16:23:47.508-1000] {processor.py:186} INFO - Started process (PID=27223) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:23:47.508-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:23:47.508-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:47.508-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:23:47.519-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:23:47.544-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:47.544-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:47.548-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:47.547-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:23:47.553-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:25:41.271-1000] {processor.py:186} INFO - Started process (PID=27658) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:25:41.272-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:25:41.272-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:41.272-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:25:41.283-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:25:41.308-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:41.308-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:41.311-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:41.311-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:25:41.316-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:27:31.055-1000] {processor.py:186} INFO - Started process (PID=28075) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:27:31.055-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:27:31.055-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:31.055-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:27:31.066-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:27:31.091-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:31.091-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:27:31.094-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:27:31.094-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:27:31.099-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds
+[2025-03-24T16:29:17.865-1000] {processor.py:186} INFO - Started process (PID=28481) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:29:17.865-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:29:17.865-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:17.865-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:29:17.876-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:29:17.901-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:17.901-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:29:17.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:29:17.904-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:29:17.909-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:31:07.191-1000] {processor.py:186} INFO - Started process (PID=28895) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:31:07.191-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:31:07.192-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:07.192-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:31:07.202-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:31:07.227-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:07.227-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:31:07.230-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:31:07.230-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:31:07.235-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds
+[2025-03-24T16:32:57.804-1000] {processor.py:186} INFO - Started process (PID=29332) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:32:57.804-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:32:57.805-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:57.805-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:32:57.815-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:32:57.840-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:57.840-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:57.843-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:57.843-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:32:57.848-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:34:46.889-1000] {processor.py:186} INFO - Started process (PID=29745) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:34:46.890-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:34:46.890-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:46.890-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:34:46.901-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:34:46.925-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:46.925-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:46.928-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:46.928-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:34:46.933-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.064 seconds
+[2025-03-24T16:36:35.737-1000] {processor.py:186} INFO - Started process (PID=30153) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:36:35.737-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:36:35.738-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:35.738-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:36:35.749-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:36:35.773-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:35.773-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:36:35.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:36:35.776-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:36:35.781-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds
+[2025-03-24T16:38:28.663-1000] {processor.py:186} INFO - Started process (PID=30609) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:38:28.664-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:38:28.664-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:28.664-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:38:28.675-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:38:28.700-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:28.700-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:38:28.704-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:28.704-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:38:28.712-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.070 seconds
+[2025-03-24T16:39:26.917-1000] {processor.py:186} INFO - Started process (PID=30825) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:39:26.917-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:39:26.917-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:26.917-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:39:26.928-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:39:26.953-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:26.953-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:26.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:26.956-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:39:26.962-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:40:25.869-1000] {processor.py:186} INFO - Started process (PID=31054) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:40:25.869-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:40:25.869-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:25.869-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:40:25.880-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:40:25.905-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:25.905-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:40:25.908-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:25.908-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:40:25.912-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:41:24.044-1000] {processor.py:186} INFO - Started process (PID=31275) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:41:24.044-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:41:24.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:24.045-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:41:24.056-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:41:24.080-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:24.080-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:24.083-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:24.083-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:41:24.088-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:42:22.135-1000] {processor.py:186} INFO - Started process (PID=31501) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:42:22.136-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:42:22.136-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:22.136-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:42:22.148-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:42:22.173-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:22.173-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:42:22.176-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:22.176-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:42:22.181-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.066 seconds
+[2025-03-24T16:44:13.108-1000] {processor.py:186} INFO - Started process (PID=31930) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:44:13.109-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:44:13.109-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:13.109-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:44:13.120-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:44:13.145-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:13.145-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:44:13.148-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:13.148-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:44:13.154-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:46:03.305-1000] {processor.py:186} INFO - Started process (PID=32349) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:46:03.306-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:46:03.306-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:03.306-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:46:03.317-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:46:03.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:03.342-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:46:03.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:03.346-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:46:03.351-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.065 seconds
+[2025-03-24T16:47:54.897-1000] {processor.py:186} INFO - Started process (PID=32820) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:47:54.897-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:47:54.898-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:54.897-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:47:54.909-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:47:54.935-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:54.935-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:54.939-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:54.939-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:47:54.944-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.070 seconds
+[2025-03-24T16:48:55.698-1000] {processor.py:186} INFO - Started process (PID=33117) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:48:55.699-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:48:55.699-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:55.699-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:48:55.712-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:48:55.741-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:55.741-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:48:55.744-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:48:55.744-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:48:55.750-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.052 seconds
+[2025-03-24T16:49:53.958-1000] {processor.py:186} INFO - Started process (PID=33352) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:49:53.959-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:49:53.959-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:53.959-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:49:53.970-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:49:53.995-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:53.995-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:53.998-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:53.998-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:49:54.003-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.046 seconds
+[2025-03-24T16:51:49.539-1000] {processor.py:186} INFO - Started process (PID=33785) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:51:49.540-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:51:49.540-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:49.540-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:51:49.552-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:51:49.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:49.577-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:49.580-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:49.580-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:51:49.585-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.047 seconds
+[2025-03-24T16:53:46.340-1000] {processor.py:186} INFO - Started process (PID=34221) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:53:46.341-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:53:46.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:46.341-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:53:46.352-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:53:46.377-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:46.377-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:46.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:46.380-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:53:46.385-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.046 seconds
+[2025-03-24T16:54:45.212-1000] {processor.py:186} INFO - Started process (PID=34445) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:54:45.213-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:54:45.213-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:45.213-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:54:45.224-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:54:45.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:45.249-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:45.251-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:45.251-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:54:45.256-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T16:56:34.692-1000] {processor.py:186} INFO - Started process (PID=34855) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:56:34.693-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:56:34.693-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:34.693-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:56:34.704-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:56:34.729-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:34.729-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:34.731-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:34.731-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:56:34.736-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T16:58:22.987-1000] {processor.py:186} INFO - Started process (PID=35269) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:58:22.988-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T16:58:22.988-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:22.988-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:58:22.999-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T16:58:23.023-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:23.023-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:23.026-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:23.026-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T16:58:23.031-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:00:15.594-1000] {processor.py:186} INFO - Started process (PID=35699) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:00:15.595-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:00:15.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:15.595-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:00:15.607-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:00:15.632-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:15.632-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:15.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:15.635-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:00:15.640-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.046 seconds
+[2025-03-24T17:02:11.869-1000] {processor.py:186} INFO - Started process (PID=36140) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:02:11.869-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:02:11.870-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:11.870-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:02:11.880-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:02:11.905-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:11.905-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:11.908-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:11.908-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:02:11.913-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:03:12.371-1000] {processor.py:186} INFO - Started process (PID=36368) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:03:12.371-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:03:12.371-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:12.371-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:03:12.382-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:03:12.409-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:12.409-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:03:12.412-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:03:12.412-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:03:12.417-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.047 seconds
+[2025-03-24T17:05:07.602-1000] {processor.py:186} INFO - Started process (PID=36795) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:05:07.602-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:05:07.602-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:07.602-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:05:07.613-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:05:07.638-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:07.637-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:05:07.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:05:07.640-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:05:07.645-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:06:53.935-1000] {processor.py:186} INFO - Started process (PID=37236) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:06:53.935-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:06:53.935-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:53.935-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:06:53.946-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:06:53.970-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:53.970-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:53.973-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:53.973-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:06:53.978-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:08:46.132-1000] {processor.py:186} INFO - Started process (PID=37664) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:08:46.132-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:08:46.132-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:46.132-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:08:46.143-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:08:46.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:46.167-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:46.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:46.170-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:08:46.175-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:10:31.703-1000] {processor.py:186} INFO - Started process (PID=38062) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:10:31.704-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:10:31.704-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:31.704-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:10:31.715-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:10:31.740-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:31.739-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:10:31.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:10:31.742-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:10:31.747-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:11:28.868-1000] {processor.py:186} INFO - Started process (PID=38285) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:11:28.868-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:11:28.869-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:28.869-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:11:28.879-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:11:28.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:28.903-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:28.906-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:28.906-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:11:28.911-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:13:15.625-1000] {processor.py:186} INFO - Started process (PID=38693) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:13:15.625-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:13:15.625-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:15.625-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:13:15.636-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:13:15.661-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:15.660-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:15.663-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:15.663-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:13:15.668-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:15:05.642-1000] {processor.py:186} INFO - Started process (PID=39108) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:15:05.642-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:15:05.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:05.642-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:15:05.653-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:15:05.678-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:05.677-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:05.680-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:05.680-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:15:05.685-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:16:56.227-1000] {processor.py:186} INFO - Started process (PID=39524) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:16:56.228-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:16:56.228-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:56.228-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:16:56.238-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:16:56.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:56.262-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:16:56.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:56.265-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:16:56.270-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:18:43.328-1000] {processor.py:186} INFO - Started process (PID=39955) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:18:43.329-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:18:43.329-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:43.329-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:18:43.340-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:18:43.365-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:43.365-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:18:43.367-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:43.367-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:18:43.372-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:20:36.940-1000] {processor.py:186} INFO - Started process (PID=40391) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:20:36.940-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:20:36.940-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:36.940-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:20:36.952-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:20:36.977-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:36.976-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:36.979-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:36.979-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:20:36.984-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:21:34.470-1000] {processor.py:186} INFO - Started process (PID=40609) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:21:34.470-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:21:34.470-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:34.470-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:21:34.481-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:21:34.505-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:34.505-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:21:34.508-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:21:34.508-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:21:34.513-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:23:24.197-1000] {processor.py:186} INFO - Started process (PID=41054) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:23:24.198-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:23:24.198-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:24.198-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:23:24.209-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:23:24.234-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:24.234-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:23:24.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:23:24.236-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:23:24.241-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:25:15.557-1000] {processor.py:186} INFO - Started process (PID=41481) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:25:15.557-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:25:15.557-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:15.557-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:25:15.568-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:25:15.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:15.593-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:25:15.595-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:25:15.595-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:25:15.600-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.044 seconds
+[2025-03-24T17:26:15.791-1000] {processor.py:186} INFO - Started process (PID=41756) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:26:15.792-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:26:15.792-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:15.792-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:26:15.804-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:26:15.830-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:15.830-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:15.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:15.833-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:26:15.839-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.049 seconds
+[2025-03-24T17:27:18.247-1000] {processor.py:186} INFO - Started process (PID=42030) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:27:18.248-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:27:18.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:18.248-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:27:18.259-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:27:18.284-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:18.284-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:27:18.287-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:18.287-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:27:18.292-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.046 seconds
+[2025-03-24T17:28:17.054-1000] {processor.py:186} INFO - Started process (PID=42277) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:28:17.054-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:28:17.054-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:17.054-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:28:17.066-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:28:17.092-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:17.092-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:17.095-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:17.095-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:28:17.100-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.047 seconds
+[2025-03-24T17:30:10.331-1000] {processor.py:186} INFO - Started process (PID=42739) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:30:10.331-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:30:10.331-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:10.331-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:30:10.342-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:30:10.367-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:10.367-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:10.370-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:10.370-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:30:10.374-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:32:10.483-1000] {processor.py:186} INFO - Started process (PID=43267) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:32:10.484-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:32:10.484-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:10.484-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:32:10.495-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:32:10.519-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:10.519-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:10.522-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:10.522-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:32:10.526-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds
+[2025-03-24T17:33:10.698-1000] {processor.py:186} INFO - Started process (PID=43501) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:33:10.699-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T17:33:10.699-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:10.699-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:33:10.710-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T17:33:10.734-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:10.734-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:33:10.737-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:33:10.737-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T17:33:10.742-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.045 seconds

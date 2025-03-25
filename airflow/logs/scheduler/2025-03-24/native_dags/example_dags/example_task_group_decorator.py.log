@@ -1,0 +1,22 @@
+[2025-03-24T13:32:44.897-1000] {processor.py:186} INFO - Started process (PID=6298) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:32:44.898-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T13:32:44.898-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.898-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:32:44.910-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:32:44.955-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.955-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2025-03-24T13:32:44.958-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.958-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2025-03-24T13:32:44.959-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.959-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2025-03-24T13:32:44.961-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.961-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_task_group_decorator
+[2025-03-24T13:32:44.962-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.962-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_task_group_decorator
+[2025-03-24T13:32:44.964-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.964-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_task_group_decorator
+[2025-03-24T13:32:44.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.965-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_task_group_decorator
+[2025-03-24T13:32:44.965-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.965-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:44.968-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.968-1000] {dag.py:3262} INFO - Creating ORM DAG for example_task_group_decorator
+[2025-03-24T13:32:44.968-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:44.968-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T13:32:44.973-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.096 seconds
+[2025-03-24T13:49:57.480-1000] {processor.py:186} INFO - Started process (PID=9415) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:49:57.481-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-03-24T13:49:57.481-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:57.481-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:49:57.492-1000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-03-24T13:49:57.516-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:57.516-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:49:57.519-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:57.519-1000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-03-24T13:49:57.524-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds

@@ -1,0 +1,708 @@
+[2025-03-24T15:51:04.093-1000] {processor.py:186} INFO - Started process (PID=18792) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:51:04.094-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:51:04.094-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.094-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:51:04.121-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:51:04.300-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.300-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:51:04.306-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.306-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:51:04.307-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.307-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:51:04.307-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.307-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:51:04.309-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.309-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:51:04.310-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.310-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:51:04.310-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:04.310-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:51:04.314-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.247 seconds
+[2025-03-24T15:52:39.604-1000] {processor.py:186} INFO - Started process (PID=19915) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:52:39.604-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:52:39.605-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.605-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:52:39.631-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:52:39.793-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.793-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:52:39.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.798-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:52:39.799-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.799-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:52:39.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.799-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:52:39.801-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.801-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:52:39.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.802-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:52:39.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:52:39.802-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:52:39.805-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.222 seconds
+[2025-03-24T15:53:42.503-1000] {processor.py:186} INFO - Started process (PID=20174) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:53:42.505-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:53:42.505-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.505-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:53:42.532-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:53:42.690-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.690-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:53:42.696-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.695-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:53:42.696-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.696-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:53:42.697-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.697-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:53:42.698-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.698-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:53:42.699-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.699-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:53:42.699-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:42.699-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:53:42.703-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.219 seconds
+[2025-03-24T15:55:32.499-1000] {processor.py:186} INFO - Started process (PID=20588) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:55:32.499-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:55:32.499-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.499-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:55:32.524-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:55:32.676-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.676-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:55:32.681-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.681-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:55:32.682-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.682-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:55:32.683-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.683-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:55:32.684-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.684-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:55:32.685-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.685-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:55:32.685-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:55:32.685-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:55:32.688-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.209 seconds
+[2025-03-24T15:57:21.398-1000] {processor.py:186} INFO - Started process (PID=21008) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:57:21.399-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:57:21.400-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.400-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:57:21.425-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:57:21.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.578-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:57:21.583-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.583-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:57:21.584-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.584-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:57:21.584-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.584-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:57:21.586-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.586-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:57:21.587-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.587-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:57:21.587-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:57:21.587-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:57:21.590-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.213 seconds
+[2025-03-24T15:59:07.731-1000] {processor.py:186} INFO - Started process (PID=21424) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:59:07.732-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T15:59:07.732-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.732-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:59:07.758-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T15:59:07.913-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.913-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T15:59:07.918-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.918-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T15:59:07.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:59:07.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:59:07.920-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.920-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T15:59:07.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.921-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T15:59:07.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:59:07.921-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T15:59:07.925-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.215 seconds
+[2025-03-24T16:01:21.431-1000] {processor.py:186} INFO - Started process (PID=21929) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:01:21.432-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:01:21.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.432-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:01:21.457-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:01:21.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.609-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:01:21.614-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.614-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:01:21.615-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.614-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:01:21.615-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.615-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:01:21.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.616-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:01:21.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.617-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:01:21.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:01:21.617-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:01:21.620-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.209 seconds
+[2025-03-24T16:03:09.294-1000] {processor.py:186} INFO - Started process (PID=22344) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:03:09.294-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:03:09.294-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.294-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:03:09.319-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:03:09.471-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.470-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:03:09.476-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.476-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:03:09.476-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.476-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:03:09.477-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.477-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:03:09.478-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.478-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:03:09.479-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.479-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:03:09.479-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:03:09.479-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:03:09.482-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.208 seconds
+[2025-03-24T16:04:56.063-1000] {processor.py:186} INFO - Started process (PID=22750) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:04:56.063-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:04:56.063-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.063-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:04:56.088-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:04:56.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.240-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:04:56.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.245-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:04:56.245-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.245-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:04:56.246-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.246-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:04:56.247-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.247-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:04:56.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.248-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:04:56.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:56.248-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:04:56.251-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.210 seconds
+[2025-03-24T16:06:43.397-1000] {processor.py:186} INFO - Started process (PID=23190) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:06:43.398-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:06:43.398-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.398-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:06:43.423-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:06:43.576-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.576-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:06:43.581-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.581-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:06:43.582-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.582-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:06:43.583-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.583-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:06:43.584-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.584-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:06:43.585-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.585-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:06:43.585-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:43.585-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:06:43.588-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.212 seconds
+[2025-03-24T16:08:35.776-1000] {processor.py:186} INFO - Started process (PID=23614) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:08:35.776-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:08:35.777-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.777-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:08:35.801-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:08:35.951-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.950-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:08:35.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.956-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:08:35.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.956-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:08:35.957-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.957-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:08:35.958-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.958-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:08:35.959-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.959-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:08:35.959-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:08:35.959-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:08:35.962-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-03-24T16:10:36.162-1000] {processor.py:186} INFO - Started process (PID=24093) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:10:36.164-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:10:36.164-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.164-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:10:36.189-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:10:36.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.340-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:10:36.345-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.345-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:10:36.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.346-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:10:36.346-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.346-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:10:36.348-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.348-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:10:36.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.349-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:10:36.349-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:10:36.349-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:10:36.352-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.211 seconds
+[2025-03-24T16:12:31.275-1000] {processor.py:186} INFO - Started process (PID=24548) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:12:31.276-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:12:31.276-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.276-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:12:31.301-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:12:31.454-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.454-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:12:31.459-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.459-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:12:31.460-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.460-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:12:31.460-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.460-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:12:31.461-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.461-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:12:31.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.462-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:12:31.462-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:12:31.462-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:12:31.466-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.212 seconds
+[2025-03-24T16:13:32.993-1000] {processor.py:186} INFO - Started process (PID=24831) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:13:32.994-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:13:32.995-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:32.995-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:13:33.020-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:13:33.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.170-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:13:33.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.175-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:13:33.176-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.176-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:13:33.177-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.176-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:13:33.178-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.178-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:13:33.179-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.179-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:13:33.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:33.180-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:13:33.183-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.210 seconds
+[2025-03-24T16:15:25.650-1000] {processor.py:186} INFO - Started process (PID=25256) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:15:25.651-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:15:25.651-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.651-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:15:25.676-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:15:25.824-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.824-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:15:25.829-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.829-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:15:25.830-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.830-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:15:25.830-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.830-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:15:25.832-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.832-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:15:25.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.833-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:15:25.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:25.833-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:15:25.836-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.205 seconds
+[2025-03-24T16:17:16.155-1000] {processor.py:186} INFO - Started process (PID=25699) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:17:16.155-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:17:16.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.155-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:17:16.180-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:17:16.331-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.331-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:17:16.336-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.336-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:17:16.337-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.336-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:17:16.337-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.337-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:17:16.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.338-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:17:16.339-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.339-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:17:16.339-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:16.339-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:17:16.343-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.207 seconds
+[2025-03-24T16:19:07.728-1000] {processor.py:186} INFO - Started process (PID=26153) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:19:07.728-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:19:07.728-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.728-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:19:07.753-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:19:07.907-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.907-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:19:07.912-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.912-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:19:07.913-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.913-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:19:07.913-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.913-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:19:07.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.914-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:19:07.915-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.915-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:19:07.915-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:07.915-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:19:07.918-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.210 seconds
+[2025-03-24T16:20:58.392-1000] {processor.py:186} INFO - Started process (PID=26571) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:20:58.393-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:20:58.393-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.393-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:20:58.418-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:20:58.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.567-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:20:58.572-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.572-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:20:58.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.573-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:20:58.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.573-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:20:58.574-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.574-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:20:58.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:20:58.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:20:58.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:20:58.579-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.207 seconds
+[2025-03-24T16:22:49.601-1000] {processor.py:186} INFO - Started process (PID=27007) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:22:49.602-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:22:49.602-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.602-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:22:49.627-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:22:49.781-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.781-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:22:49.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.786-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:22:49.787-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.787-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:22:49.787-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.787-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:22:49.789-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.789-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:22:49.790-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.789-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:22:49.790-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:22:49.790-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:22:49.793-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.213 seconds
+[2025-03-24T16:24:43.615-1000] {processor.py:186} INFO - Started process (PID=27442) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:24:43.616-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:24:43.616-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.616-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:24:43.641-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:24:43.792-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.792-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:24:43.797-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.797-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:24:43.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.797-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:24:43.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.798-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:24:43.799-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.799-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:24:43.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.800-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:24:43.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:24:43.800-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:24:43.803-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.209 seconds
+[2025-03-24T16:26:34.868-1000] {processor.py:186} INFO - Started process (PID=27860) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:26:34.868-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:26:34.868-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:34.868-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:26:34.893-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:26:35.042-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.042-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:26:35.047-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.047-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:26:35.048-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.048-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:26:35.048-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.048-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:26:35.049-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.049-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:26:35.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.050-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:26:35.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:35.050-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:26:35.053-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.205 seconds
+[2025-03-24T16:28:24.083-1000] {processor.py:186} INFO - Started process (PID=28280) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:28:24.084-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:28:24.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.084-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:28:24.109-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:28:24.258-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.258-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:28:24.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.263-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:28:24.264-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.264-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:28:24.264-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.264-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:28:24.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.265-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:28:24.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.266-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:28:24.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:24.266-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:28:24.270-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-03-24T16:30:10.993-1000] {processor.py:186} INFO - Started process (PID=28684) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:30:10.994-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:30:10.994-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:10.994-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:30:11.019-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:30:11.168-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.168-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:30:11.173-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.173-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:30:11.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.174-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:30:11.174-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.174-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:30:11.176-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.176-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:30:11.177-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.176-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:30:11.177-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:11.177-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:30:11.180-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-03-24T16:32:00.984-1000] {processor.py:186} INFO - Started process (PID=29096) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:32:00.985-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:32:00.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:00.985-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:32:01.010-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:32:01.161-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.161-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:32:01.166-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.166-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:32:01.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.166-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:32:01.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.167-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:32:01.168-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.168-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:32:01.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.169-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:32:01.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:01.170-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:32:01.173-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.208 seconds
+[2025-03-24T16:33:50.373-1000] {processor.py:186} INFO - Started process (PID=29537) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:33:50.373-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:33:50.373-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.373-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:33:50.398-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:33:50.547-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.547-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:33:50.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.552-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:33:50.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:33:50.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:33:50.555-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.555-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:33:50.556-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.556-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:33:50.556-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:33:50.556-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:33:50.559-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-03-24T16:35:39.640-1000] {processor.py:186} INFO - Started process (PID=29947) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:35:39.640-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:35:39.640-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.640-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:35:39.665-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:35:39.815-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.815-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:35:39.819-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.819-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:35:39.820-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.820-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:35:39.820-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.820-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:35:39.822-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.822-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:35:39.823-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.823-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:35:39.823-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:39.823-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:35:39.826-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-03-24T16:37:30.362-1000] {processor.py:186} INFO - Started process (PID=30364) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:37:30.363-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:37:30.363-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.363-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:37:30.388-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:37:30.544-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.544-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:37:30.549-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.549-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:37:30.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.550-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:37:30.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.550-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:37:30.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.552-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:37:30.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:37:30.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:30.553-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:37:30.556-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.215 seconds
+[2025-03-24T16:38:31.946-1000] {processor.py:186} INFO - Started process (PID=30618) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:38:31.947-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:38:31.947-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:31.947-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:38:31.972-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:38:32.123-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.123-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:38:32.128-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.128-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:38:32.129-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.129-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:38:32.129-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.129-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:38:32.130-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.130-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:38:32.131-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.131-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:38:32.131-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:38:32.131-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:38:32.135-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.208 seconds
+[2025-03-24T16:40:29.156-1000] {processor.py:186} INFO - Started process (PID=31068) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:40:29.156-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:40:29.156-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.156-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:40:29.181-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:40:29.333-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.332-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:40:29.337-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.337-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:40:29.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.338-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:40:29.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.338-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:40:29.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.340-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:40:29.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.341-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:40:29.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:40:29.341-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:40:29.344-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.208 seconds
+[2025-03-24T16:42:24.863-1000] {processor.py:186} INFO - Started process (PID=31510) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:42:24.864-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:42:24.864-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:24.864-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:42:24.889-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:42:25.039-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.039-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:42:25.044-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.044-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:42:25.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.045-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:42:25.045-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.045-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:42:25.046-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.046-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:42:25.047-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.047-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:42:25.047-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:42:25.047-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:42:25.050-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.207 seconds
+[2025-03-24T16:44:15.390-1000] {processor.py:186} INFO - Started process (PID=31939) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:44:15.390-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:44:15.390-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.390-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:44:15.415-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:44:15.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.566-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:44:15.572-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.571-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:44:15.572-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.572-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:44:15.573-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.572-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:44:15.574-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.574-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:44:15.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:44:15.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:44:15.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:44:15.578-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.209 seconds
+[2025-03-24T16:46:06.566-1000] {processor.py:186} INFO - Started process (PID=32363) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:46:06.566-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:46:06.566-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.566-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:46:06.591-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:46:06.742-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.742-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:46:06.747-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.747-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:46:06.748-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.748-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:46:06.748-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.748-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:46:06.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.750-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:46:06.751-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.751-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:46:06.751-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:46:06.751-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:46:06.754-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.208 seconds
+[2025-03-24T16:47:57.352-1000] {processor.py:186} INFO - Started process (PID=32829) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:47:57.352-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:47:57.353-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.353-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:47:57.380-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:47:57.545-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.545-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:47:57.550-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.550-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:47:57.551-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.551-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:47:57.551-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.551-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:47:57.553-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.553-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:47:57.554-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.554-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:47:57.554-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:57.554-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:47:57.557-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.229 seconds
+[2025-03-24T16:49:55.616-1000] {processor.py:186} INFO - Started process (PID=33359) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:49:55.617-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:49:55.618-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.618-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:49:55.644-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:49:55.798-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.798-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:49:55.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.802-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:49:55.803-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.803-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:49:55.804-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.804-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:49:55.805-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.805-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:49:55.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.806-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:49:55.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:55.806-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:49:55.809-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.194 seconds
+[2025-03-24T16:51:52.834-1000] {processor.py:186} INFO - Started process (PID=33799) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:51:52.835-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:51:52.835-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:52.835-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:51:52.863-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:51:53.016-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.016-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:51:53.021-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.021-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:51:53.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.022-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:51:53.022-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.022-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:51:53.023-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.023-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:51:53.024-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.024-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:51:53.025-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:53.025-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:51:53.028-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.195 seconds
+[2025-03-24T16:53:49.618-1000] {processor.py:186} INFO - Started process (PID=34235) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:53:49.619-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:53:49.620-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.620-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:53:49.645-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:53:49.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.795-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:53:49.800-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.800-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:53:49.801-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.801-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:53:49.801-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.801-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:53:49.802-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.802-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:53:49.803-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.803-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:53:49.803-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:49.803-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:53:49.807-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.190 seconds
+[2025-03-24T16:55:39.590-1000] {processor.py:186} INFO - Started process (PID=34646) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:55:39.590-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:55:39.590-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.590-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:55:39.616-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:55:39.767-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.767-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:55:39.771-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.771-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:55:39.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.772-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:55:39.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.772-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:55:39.774-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.774-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:55:39.775-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.775-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:55:39.775-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:55:39.775-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:55:39.778-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.189 seconds
+[2025-03-24T16:57:28.065-1000] {processor.py:186} INFO - Started process (PID=35057) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:57:28.066-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:57:28.066-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.066-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:57:28.091-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:57:28.244-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.244-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:57:28.248-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.248-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:57:28.249-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.249-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:57:28.250-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.250-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:57:28.251-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.251-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:57:28.252-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.252-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:57:28.252-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:57:28.252-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:57:28.255-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.191 seconds
+[2025-03-24T16:59:17.736-1000] {processor.py:186} INFO - Started process (PID=35486) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:59:17.737-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T16:59:17.737-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.737-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:59:17.762-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T16:59:17.914-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.913-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T16:59:17.918-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.918-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T16:59:17.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:59:17.919-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.919-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:59:17.921-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.921-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T16:59:17.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.922-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T16:59:17.922-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:59:17.922-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T16:59:17.925-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.189 seconds
+[2025-03-24T17:01:14.073-1000] {processor.py:186} INFO - Started process (PID=35921) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:01:14.073-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:01:14.074-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.074-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:01:14.099-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:01:14.258-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.258-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:01:14.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.262-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:01:14.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.263-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:01:14.264-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.264-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:01:14.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.265-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:01:14.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.266-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:01:14.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:01:14.266-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:01:14.269-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.197 seconds
+[2025-03-24T17:02:15.195-1000] {processor.py:186} INFO - Started process (PID=36149) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:02:15.196-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:02:15.196-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.196-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:02:15.221-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:02:15.374-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.374-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:02:15.379-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.379-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:02:15.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.380-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:02:15.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.380-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:02:15.382-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.382-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:02:15.383-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.383-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:02:15.383-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:15.383-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:02:15.386-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.192 seconds
+[2025-03-24T17:04:10.085-1000] {processor.py:186} INFO - Started process (PID=36584) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:04:10.085-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:04:10.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.085-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:04:10.110-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:04:10.259-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.259-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:04:10.263-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.263-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:04:10.264-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.264-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:04:10.265-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.264-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:04:10.266-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.266-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:04:10.267-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.267-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:04:10.267-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:10.267-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:04:10.270-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.187 seconds
+[2025-03-24T17:06:00.536-1000] {processor.py:186} INFO - Started process (PID=37001) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:06:00.537-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:06:00.537-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.537-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:06:00.562-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:06:00.710-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.710-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:06:00.715-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.715-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:06:00.715-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.715-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:06:00.716-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.716-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:06:00.717-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.717-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:06:00.718-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.718-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:06:00.718-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:00.718-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:06:00.721-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.186 seconds
+[2025-03-24T17:07:49.128-1000] {processor.py:186} INFO - Started process (PID=37449) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:07:49.128-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:07:49.128-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.128-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:07:49.153-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:07:49.303-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.303-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:07:49.308-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.308-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:07:49.308-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.308-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:07:49.309-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.309-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:07:49.310-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.310-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:07:49.311-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.311-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:07:49.311-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:07:49.311-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:07:49.315-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.188 seconds
+[2025-03-24T17:09:41.049-1000] {processor.py:186} INFO - Started process (PID=37869) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:09:41.049-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:09:41.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.050-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:09:41.076-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:09:41.229-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.229-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:09:41.233-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.233-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:09:41.234-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.234-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:09:41.234-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.234-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:09:41.236-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.236-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:09:41.237-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.237-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:09:41.237-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:41.237-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:09:41.240-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.192 seconds
+[2025-03-24T17:11:30.505-1000] {processor.py:186} INFO - Started process (PID=38292) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:11:30.506-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:11:30.506-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.506-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:11:30.530-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:11:30.679-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.678-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:11:30.683-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.683-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:11:30.684-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.684-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:11:30.684-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.684-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:11:30.685-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.685-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:11:30.686-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.686-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:11:30.686-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:30.686-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:11:30.690-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.185 seconds
+[2025-03-24T17:13:17.270-1000] {processor.py:186} INFO - Started process (PID=38700) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:13:17.270-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:13:17.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.270-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:13:17.295-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:13:17.446-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.445-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:13:17.450-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.450-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:13:17.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.451-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:13:17.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.451-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:13:17.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.453-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:13:17.453-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.453-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:13:17.454-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:17.454-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:13:17.457-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.188 seconds
+[2025-03-24T17:15:06.398-1000] {processor.py:186} INFO - Started process (PID=39115) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:15:06.398-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:15:06.398-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.398-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:15:06.423-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:15:06.570-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.569-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:15:06.574-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.574-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:15:06.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:15:06.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.575-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:15:06.577-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.577-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:15:06.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.577-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:15:06.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:06.578-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:15:06.581-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.184 seconds
+[2025-03-24T17:16:56.974-1000] {processor.py:186} INFO - Started process (PID=39531) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:16:56.975-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:16:56.976-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:56.976-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:16:57.000-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:16:57.150-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.150-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:16:57.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.154-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:16:57.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.155-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:16:57.156-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.156-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:16:57.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.157-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:16:57.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.158-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:16:57.158-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:16:57.158-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:16:57.161-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.188 seconds
+[2025-03-24T17:18:44.970-1000] {processor.py:186} INFO - Started process (PID=39957) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:18:44.971-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:18:44.971-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:44.971-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:18:44.997-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:18:45.147-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.147-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:18:45.151-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.151-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:18:45.152-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.152-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:18:45.152-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.152-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:18:45.154-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.153-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:18:45.154-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.154-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:18:45.155-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:18:45.154-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:18:45.158-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.189 seconds
+[2025-03-24T17:20:38.577-1000] {processor.py:186} INFO - Started process (PID=40398) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:20:38.577-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:20:38.578-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.578-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:20:38.603-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:20:38.753-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.753-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:20:38.757-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.757-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:20:38.758-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.758-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:20:38.758-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.758-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:20:38.760-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.760-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:20:38.761-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.761-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:20:38.761-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:38.761-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:20:38.764-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.188 seconds
+[2025-03-24T17:22:30.799-1000] {processor.py:186} INFO - Started process (PID=40839) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:22:30.800-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:22:30.801-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.801-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:22:30.826-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:22:30.978-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.977-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:22:30.982-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.982-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:22:30.983-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.983-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:22:30.983-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.983-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:22:30.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.985-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:22:30.985-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.985-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:22:30.986-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:30.986-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:22:30.989-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.191 seconds
+[2025-03-24T17:24:22.405-1000] {processor.py:186} INFO - Started process (PID=41276) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:24:22.407-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:24:22.407-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.407-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:24:22.432-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:24:22.586-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.586-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:24:22.591-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.591-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:24:22.592-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.592-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:24:22.592-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.592-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:24:22.593-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.593-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:24:22.594-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.594-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:24:22.594-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:22.594-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:24:22.598-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.193 seconds
+[2025-03-24T17:26:19.999-1000] {processor.py:186} INFO - Started process (PID=41779) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:26:20.000-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:26:20.000-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.000-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:26:20.026-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:26:20.179-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.178-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:26:20.183-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.183-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:26:20.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.184-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:26:20.184-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.184-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:26:20.186-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.186-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:26:20.187-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.187-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:26:20.187-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:20.187-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:26:20.190-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.192 seconds
+[2025-03-24T17:27:21.533-1000] {processor.py:186} INFO - Started process (PID=42044) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:27:21.534-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:27:21.534-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.534-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:27:21.559-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:27:21.716-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.716-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:27:21.721-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.721-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:27:21.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.722-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:27:21.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.722-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:27:21.723-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.723-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:27:21.724-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.724-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:27:21.724-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:27:21.724-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:27:21.728-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.196 seconds
+[2025-03-24T17:29:14.467-1000] {processor.py:186} INFO - Started process (PID=42508) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:29:14.467-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:29:14.467-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.467-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:29:14.492-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:29:14.643-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.643-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:29:14.648-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.648-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:29:14.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.648-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:29:14.649-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.649-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:29:14.650-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.650-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:29:14.651-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.651-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:29:14.651-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:29:14.651-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:29:14.654-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.189 seconds
+[2025-03-24T17:31:09.711-1000] {processor.py:186} INFO - Started process (PID=43019) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:31:09.712-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:31:09.712-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.712-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:31:09.737-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:31:09.896-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.896-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:31:09.901-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.901-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:31:09.901-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.901-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:31:09.902-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.902-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:31:09.903-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.903-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:31:09.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.904-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:31:09.904-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:31:09.904-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:31:09.908-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.198 seconds
+[2025-03-24T17:32:13.199-1000] {processor.py:186} INFO - Started process (PID=43276) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:32:13.200-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:32:13.200-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.200-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:32:13.225-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:32:13.375-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.375-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:32:13.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.380-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:32:13.380-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.380-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:32:13.381-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.381-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:32:13.382-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.382-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:32:13.383-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.383-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:32:13.383-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:13.383-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:32:13.386-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.189 seconds
+[2025-03-24T17:34:07.157-1000] {processor.py:186} INFO - Started process (PID=43741) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:34:07.157-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-24T17:34:07.157-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.157-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:34:07.183-1000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-24T17:34:07.335-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.335-1000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-24T17:34:07.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.340-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-24T17:34:07.340-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.340-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:34:07.341-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.341-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:34:07.342-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.342-1000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-24T17:34:07.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.343-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-24T17:34:07.343-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:34:07.343-1000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-24T17:34:07.346-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.191 seconds

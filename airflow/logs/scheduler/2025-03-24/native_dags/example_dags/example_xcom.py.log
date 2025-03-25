@@ -1,0 +1,22 @@
+[2025-03-24T13:32:36.003-1000] {processor.py:186} INFO - Started process (PID=6268) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:32:36.003-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T13:32:36.003-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.003-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:32:36.013-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:32:36.059-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.059-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-03-24T13:32:36.061-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.061-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-03-24T13:32:36.062-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.062-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-03-24T13:32:36.065-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.065-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2025-03-24T13:32:36.066-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.066-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2025-03-24T13:32:36.067-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.067-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2025-03-24T13:32:36.069-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.069-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2025-03-24T13:32:36.069-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.069-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:32:36.072-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.072-1000] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2025-03-24T13:32:36.073-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:32:36.073-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T13:32:36.078-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.095 seconds
+[2025-03-24T13:49:50.015-1000] {processor.py:186} INFO - Started process (PID=9390) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:49:50.017-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-03-24T13:49:50.017-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:50.017-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:49:50.026-1000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-03-24T13:49:50.049-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:50.049-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:49:50.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:49:50.053-1000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-03-24T13:49:50.058-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds

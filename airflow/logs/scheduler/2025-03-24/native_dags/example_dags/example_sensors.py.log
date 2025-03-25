@@ -1,0 +1,15 @@
+[2025-03-24T13:50:11.431-1000] {processor.py:186} INFO - Started process (PID=9475) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-24T13:50:11.432-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-03-24T13:50:11.432-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.432-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-24T13:50:11.436-1000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-03-24T13:50:11.629-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.629-1000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_sensors
+[2025-03-24T13:50:11.631-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.631-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_sensors
+[2025-03-24T13:50:11.633-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.632-1000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_sensors
+[2025-03-24T13:50:11.635-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.635-1000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2025-03-24T13:50:11.636-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.636-1000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2025-03-24T13:50:11.637-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.637-1000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2025-03-24T13:50:11.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.639-1000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2025-03-24T13:50:11.639-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.639-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T13:50:11.642-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.642-1000] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2025-03-24T13:50:11.642-1000] {logging_mixin.py:190} INFO - [2025-03-24T13:50:11.642-1000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-03-24T13:50:11.646-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.234 seconds

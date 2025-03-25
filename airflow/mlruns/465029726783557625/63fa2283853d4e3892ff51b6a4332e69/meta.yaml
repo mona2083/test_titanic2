@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/63fa2283853d4e3892ff51b6a4332e69/artifacts
+deleted_time: 1742870272314
+end_time: 1742868936220
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 63fa2283853d4e3892ff51b6a4332e69
+run_name: popular-hawk-154
+run_uuid: 63fa2283853d4e3892ff51b6a4332e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868936213
+status: 3
+tags: []
+user_id: manamioyama

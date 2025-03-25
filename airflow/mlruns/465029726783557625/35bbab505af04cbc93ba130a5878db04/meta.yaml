@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/35bbab505af04cbc93ba130a5878db04/artifacts
+deleted_time: 1742870272318
+end_time: 1742868765950
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: deleted
+run_id: 35bbab505af04cbc93ba130a5878db04
+run_name: honorable-cod-317
+run_uuid: 35bbab505af04cbc93ba130a5878db04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868765944
+status: 3
+tags: []
+user_id: manamioyama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/465029726783557625/6df12bbda90f4eeaab65d513b82edd8f/artifacts
+end_time: 1742873484322
+entry_point_name: ''
+experiment_id: '465029726783557625'
+lifecycle_stage: active
+run_id: 6df12bbda90f4eeaab65d513b82edd8f
+run_name: random_forest
+run_uuid: 6df12bbda90f4eeaab65d513b82edd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742873484317
+status: 3
+tags: []
+user_id: manamioyama

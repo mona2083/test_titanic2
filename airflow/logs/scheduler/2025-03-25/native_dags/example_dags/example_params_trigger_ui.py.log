@@ -1,0 +1,385 @@
+[2025-03-24T15:51:26.039-1000] {processor.py:186} INFO - Started process (PID=19073) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:51:26.039-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T15:51:26.040-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:26.039-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:51:26.051-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:51:26.082-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:26.082-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:51:26.085-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:51:26.085-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T15:51:26.091-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.077 seconds
+[2025-03-24T15:53:00.526-1000] {processor.py:186} INFO - Started process (PID=19994) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:53:00.527-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T15:53:00.527-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:00.527-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:53:00.538-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:53:00.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:00.567-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:53:00.571-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:53:00.571-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T15:53:00.576-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.073 seconds
+[2025-03-24T15:54:54.125-1000] {processor.py:186} INFO - Started process (PID=20441) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:54:54.126-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T15:54:54.127-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:54.127-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:54:54.137-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:54:54.167-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:54.166-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:54:54.170-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:54:54.170-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T15:54:54.175-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.069 seconds
+[2025-03-24T15:56:43.671-1000] {processor.py:186} INFO - Started process (PID=20870) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:56:43.672-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T15:56:43.672-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:43.672-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:56:43.682-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:56:43.712-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:43.712-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:56:43.715-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:56:43.715-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T15:56:43.720-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.069 seconds
+[2025-03-24T15:58:30.216-1000] {processor.py:186} INFO - Started process (PID=21285) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:58:30.217-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T15:58:30.217-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:30.217-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:58:30.227-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T15:58:30.256-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:30.256-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T15:58:30.260-1000] {logging_mixin.py:190} INFO - [2025-03-24T15:58:30.259-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T15:58:30.264-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:00:19.868-1000] {processor.py:186} INFO - Started process (PID=21718) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:00:19.869-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:00:19.869-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:19.869-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:00:19.879-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:00:19.908-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:19.908-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:00:19.911-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:00:19.911-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:00:19.916-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:02:28.627-1000] {processor.py:186} INFO - Started process (PID=22190) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:02:28.627-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:02:28.627-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:28.627-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:02:28.637-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:02:28.666-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:28.666-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:02:28.669-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:02:28.669-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:02:28.674-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:04:18.566-1000] {processor.py:186} INFO - Started process (PID=22603) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:04:18.566-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:04:18.567-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:18.567-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:04:18.577-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:04:18.606-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:18.605-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:04:18.609-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:04:18.609-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:04:18.614-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:06:02.749-1000] {processor.py:186} INFO - Started process (PID=23002) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:06:02.750-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:06:02.750-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:02.750-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:06:02.760-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:06:02.788-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:02.788-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:06:02.791-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:06:02.791-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:06:02.796-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:07:53.228-1000] {processor.py:186} INFO - Started process (PID=23455) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:07:53.229-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:07:53.229-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:53.229-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:07:53.239-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:07:53.267-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:53.267-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:07:53.270-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:07:53.270-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:07:53.275-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:09:47.279-1000] {processor.py:186} INFO - Started process (PID=23884) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:09:47.280-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:09:47.280-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:47.280-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:09:47.290-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:09:47.318-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:47.318-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:09:47.321-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:09:47.321-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:09:47.326-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:11:49.897-1000] {processor.py:186} INFO - Started process (PID=24380) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:11:49.898-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:11:49.899-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:49.898-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:11:49.908-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:11:49.937-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:49.937-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:11:49.941-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:11:49.941-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:11:49.945-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:13:50.393-1000] {processor.py:186} INFO - Started process (PID=24895) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:13:50.394-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:13:50.394-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:50.394-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:13:50.404-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:13:50.433-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:50.433-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:13:50.436-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:13:50.436-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:13:50.441-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:15:43.746-1000] {processor.py:186} INFO - Started process (PID=25352) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:15:43.747-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:15:43.747-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:43.747-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:15:43.757-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:15:43.786-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:43.785-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:15:43.789-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:15:43.789-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:15:43.794-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:17:32.449-1000] {processor.py:186} INFO - Started process (PID=25764) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:17:32.450-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:17:32.450-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:32.450-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:17:32.459-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:17:32.488-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:32.488-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:17:32.491-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:17:32.491-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:17:32.496-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:19:24.414-1000] {processor.py:186} INFO - Started process (PID=26213) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:19:24.415-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:19:24.415-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:24.415-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:19:24.426-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:19:24.454-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:24.454-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:19:24.457-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:19:24.457-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:19:24.462-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.069 seconds
+[2025-03-24T16:21:15.379-1000] {processor.py:186} INFO - Started process (PID=26633) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:21:15.380-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:21:15.381-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:15.381-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:21:15.390-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:21:15.418-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:15.418-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:21:15.421-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:21:15.421-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:21:15.426-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:23:07.045-1000] {processor.py:186} INFO - Started process (PID=27071) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:23:07.046-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:23:07.046-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:07.046-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:23:07.056-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:23:07.084-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:07.084-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:23:07.087-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:23:07.087-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:23:07.092-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:25:00.290-1000] {processor.py:186} INFO - Started process (PID=27504) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:25:00.290-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:25:00.290-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:00.290-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:25:00.300-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:25:00.329-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:00.329-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:25:00.332-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:25:00.332-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:25:00.337-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:26:52.161-1000] {processor.py:186} INFO - Started process (PID=27924) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:26:52.162-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:26:52.162-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:52.162-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:26:52.171-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:26:52.200-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:52.200-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:26:52.203-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:26:52.203-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:26:52.208-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:28:40.574-1000] {processor.py:186} INFO - Started process (PID=28339) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:28:40.574-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:28:40.575-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:40.575-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:28:40.584-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:28:40.614-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:40.613-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:28:40.617-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:28:40.617-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:28:40.622-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:30:26.795-1000] {processor.py:186} INFO - Started process (PID=28741) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:30:26.795-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:30:26.795-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:26.795-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:30:26.805-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:30:26.833-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:26.833-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:30:26.837-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:30:26.836-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:30:26.841-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:32:16.297-1000] {processor.py:186} INFO - Started process (PID=29163) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:32:16.297-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:32:16.297-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:16.297-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:32:16.307-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:32:16.335-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:16.335-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:32:16.338-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:32:16.338-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:32:16.343-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:34:07.011-1000] {processor.py:186} INFO - Started process (PID=29594) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:34:07.012-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:34:07.012-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:07.012-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:34:07.022-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:34:07.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:07.050-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:34:07.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:34:07.053-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:34:07.058-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.069 seconds
+[2025-03-24T16:35:56.179-1000] {processor.py:186} INFO - Started process (PID=30004) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:35:56.180-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:35:56.180-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:56.180-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:35:56.190-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:35:56.218-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:56.218-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:35:56.221-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:35:56.221-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:35:56.226-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.066 seconds
+[2025-03-24T16:37:46.171-1000] {processor.py:186} INFO - Started process (PID=30431) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:37:46.172-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:37:46.173-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:46.173-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:37:46.183-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:37:46.212-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:46.212-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:37:46.215-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:37:46.215-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:37:46.220-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.070 seconds
+[2025-03-24T16:39:43.771-1000] {processor.py:186} INFO - Started process (PID=30891) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:39:43.772-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:39:43.772-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:43.772-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:39:43.782-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:39:43.811-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:43.811-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:39:43.814-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:39:43.814-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:39:43.819-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.069 seconds
+[2025-03-24T16:41:41.408-1000] {processor.py:186} INFO - Started process (PID=31345) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:41:41.409-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:41:41.409-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:41.409-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:41:41.419-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:41:41.447-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:41.447-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:41:41.451-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:41:41.451-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:41:41.456-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2025-03-24T16:43:34.668-1000] {processor.py:186} INFO - Started process (PID=31782) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:43:34.669-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:43:34.669-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:34.669-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:43:34.679-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:43:34.707-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:34.707-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:43:34.711-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:43:34.710-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:43:34.715-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:45:24.201-1000] {processor.py:186} INFO - Started process (PID=32203) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:45:24.202-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:45:24.202-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:24.202-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:45:24.212-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:45:24.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:24.240-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:45:24.244-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:45:24.244-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:45:24.248-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.067 seconds
+[2025-03-24T16:47:15.735-1000] {processor.py:186} INFO - Started process (PID=32639) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:47:15.736-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:47:15.736-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:15.736-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:47:15.746-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:47:15.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:15.776-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:47:15.779-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:47:15.779-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:47:15.784-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.070 seconds
+[2025-03-24T16:49:13.879-1000] {processor.py:186} INFO - Started process (PID=33200) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:49:13.880-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:49:13.881-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:13.881-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:49:13.891-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:49:13.920-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:13.920-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:49:13.923-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:49:13.923-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:49:13.928-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.050 seconds
+[2025-03-24T16:51:08.424-1000] {processor.py:186} INFO - Started process (PID=33633) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:51:08.425-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:51:08.426-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:08.425-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:51:08.435-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:51:08.464-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:08.464-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:51:08.467-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:51:08.467-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:51:08.472-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T16:53:04.732-1000] {processor.py:186} INFO - Started process (PID=34069) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:53:04.733-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:53:04.733-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:04.733-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:53:04.743-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:53:04.773-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:04.773-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:53:04.776-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:53:04.775-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:53:04.781-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.050 seconds
+[2025-03-24T16:54:59.136-1000] {processor.py:186} INFO - Started process (PID=34495) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:54:59.136-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:54:59.136-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:59.136-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:54:59.146-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:54:59.175-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:59.175-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:54:59.178-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:54:59.178-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:54:59.183-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T16:56:51.428-1000] {processor.py:186} INFO - Started process (PID=34917) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:56:51.428-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:56:51.428-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:51.428-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:56:51.438-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:56:51.467-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:51.467-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:56:51.469-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:56:51.469-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:56:51.474-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T16:58:38.511-1000] {processor.py:186} INFO - Started process (PID=35333) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:58:38.511-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T16:58:38.511-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:38.511-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:58:38.521-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T16:58:38.549-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:38.549-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T16:58:38.552-1000] {logging_mixin.py:190} INFO - [2025-03-24T16:58:38.552-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T16:58:38.556-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:00:31.806-1000] {processor.py:186} INFO - Started process (PID=35756) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:00:31.806-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:00:31.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:31.806-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:00:31.816-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:00:31.846-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:31.846-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:00:31.848-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:00:31.848-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:00:31.854-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.049 seconds
+[2025-03-24T17:02:32.195-1000] {processor.py:186} INFO - Started process (PID=36215) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:02:32.196-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:02:32.196-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:32.196-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:02:32.206-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:02:32.235-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:32.235-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:02:32.238-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:02:32.238-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:02:32.244-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.049 seconds
+[2025-03-24T17:04:26.048-1000] {processor.py:186} INFO - Started process (PID=36644) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:04:26.048-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:04:26.048-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:26.048-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:04:26.058-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:04:26.086-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:26.086-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:04:26.089-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:04:26.089-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:04:26.093-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:06:16.484-1000] {processor.py:186} INFO - Started process (PID=37056) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:06:16.484-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:06:16.485-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:16.484-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:06:16.494-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:06:16.523-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:16.522-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:06:16.525-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:06:16.525-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:06:16.530-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:08:04.240-1000] {processor.py:186} INFO - Started process (PID=37504) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:08:04.240-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:08:04.240-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:04.240-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:08:04.250-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:08:04.278-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:04.278-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:08:04.281-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:08:04.280-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:08:04.285-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:09:57.012-1000] {processor.py:186} INFO - Started process (PID=37931) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:09:57.012-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:09:57.012-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:57.012-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:09:57.022-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:09:57.050-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:57.050-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:09:57.052-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:09:57.052-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:09:57.057-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.046 seconds
+[2025-03-24T17:11:45.318-1000] {processor.py:186} INFO - Started process (PID=38344) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:11:45.318-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:11:45.318-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:45.318-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:11:45.327-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:11:45.356-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:45.356-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:11:45.358-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:11:45.358-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:11:45.363-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:13:32.674-1000] {processor.py:186} INFO - Started process (PID=38755) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:13:32.674-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:13:32.675-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:32.675-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:13:32.685-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:13:32.713-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:32.713-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:13:32.716-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:13:32.716-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:13:32.721-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T17:15:22.314-1000] {processor.py:186} INFO - Started process (PID=39170) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:15:22.315-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:15:22.315-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:22.315-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:15:22.325-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:15:22.353-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:22.353-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:15:22.356-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:15:22.355-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:15:22.360-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:17:12.497-1000] {processor.py:186} INFO - Started process (PID=39587) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:17:12.498-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:17:12.498-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:12.498-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:17:12.507-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:17:12.536-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:12.536-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:17:12.538-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:17:12.538-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:17:12.543-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:19:01.012-1000] {processor.py:186} INFO - Started process (PID=40017) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:19:01.013-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:19:01.014-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:01.014-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:19:01.024-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:19:01.053-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:01.053-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:19:01.056-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:19:01.056-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:19:01.061-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.049 seconds
+[2025-03-24T17:20:53.955-1000] {processor.py:186} INFO - Started process (PID=40457) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:20:53.956-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:20:53.956-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:53.956-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:20:53.965-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:20:53.993-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:53.993-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:20:53.996-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:20:53.996-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:20:54.001-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:22:45.680-1000] {processor.py:186} INFO - Started process (PID=40903) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:22:45.681-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:22:45.681-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:45.681-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:22:45.691-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:22:45.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:45.720-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:22:45.722-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:22:45.722-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:22:45.727-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T17:24:37.805-1000] {processor.py:186} INFO - Started process (PID=41331) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:24:37.806-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:24:37.806-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:37.806-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:24:37.816-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:24:37.844-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:37.844-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:24:37.847-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:24:37.847-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:24:37.851-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T17:26:37.161-1000] {processor.py:186} INFO - Started process (PID=41861) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:26:37.162-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:26:37.162-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:37.162-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:26:37.172-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:26:37.201-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:37.201-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:26:37.203-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:26:37.203-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:26:37.208-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2025-03-24T17:28:32.718-1000] {processor.py:186} INFO - Started process (PID=42342) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:28:32.720-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:28:32.720-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:32.720-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:28:32.732-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:28:32.763-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:32.763-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:28:32.766-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:28:32.766-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:28:32.771-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.054 seconds
+[2025-03-24T17:30:25.282-1000] {processor.py:186} INFO - Started process (PID=42800) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:30:25.282-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:30:25.283-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:25.283-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:30:25.292-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:30:25.321-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:25.321-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:30:25.324-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:30:25.324-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:30:25.328-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2025-03-24T17:32:28.842-1000] {processor.py:186} INFO - Started process (PID=43331) to work on /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:32:28.843-1000] {processor.py:914} INFO - Processing file /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-03-24T17:32:28.843-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:28.843-1000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:32:28.853-1000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-03-24T17:32:28.882-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:28.882-1000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-24T17:32:28.885-1000] {logging_mixin.py:190} INFO - [2025-03-24T17:32:28.885-1000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-03-24T17:32:28.889-1000] {processor.py:208} INFO - Processing /opt/anaconda3/envs/titanic/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
