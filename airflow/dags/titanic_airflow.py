@@ -6,6 +6,7 @@ from pathlib import Path
 import mlflow
 import pandas as pd
 from airflow.decorators import dag, task
+# from mlflow.models import infer_signature
 from datetime import datetime
 import joblib
 
@@ -61,13 +62,20 @@ def titanic_dag():
         mlflow.set_experiment("test")
         for model_name, eva in evaluate_dict.items():
             with mlflow.start_run(run_name=model_name):
-                # mdl = model_dict[model_name]
-                # mlflow.log_model("model_name", mdl)
+                pyfunc_model_path = f"models/{model_name}"
+                
                 mlflow.log_metric("accuracy", eva)
                 print(f"{model_name}: {eva}")
             
-            # if model_name == register_model:
-                # mlflow.register_model(f"runs:/{model_dict[model_name]}/model", model_name)
+                if model_name == register_model:
+                    mlflow.sklearn.log_model(
+                        model_dict[model_name], 
+                        artifact_path=pyfunc_model_path,
+                        # signature=signature,
+                        registered_model_name=f"best_model_{model_name}",
+                        )
+                else:
+                    mlflow.sklearn.log_model(model_dict[model_name], artifact_path=pyfunc_model_path)
 
         
 
